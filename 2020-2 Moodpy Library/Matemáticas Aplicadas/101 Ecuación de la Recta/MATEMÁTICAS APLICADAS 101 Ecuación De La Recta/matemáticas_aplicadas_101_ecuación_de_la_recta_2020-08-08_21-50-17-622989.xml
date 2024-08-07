@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 001  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 001 MATEMÁTICAS APLICADAS 101 Ecuación De La Recta 2020-08-08 21:50:17.623986</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Ecuación De La Recta </h1> 
+    
+    Encuentra la ecuación de la recta que pasa por los puntos \(-6,-6\) y \(-24,-4\), 
+    (escribe tus respuestas con al menos 4 cifras significativas).
+    
+    <p> Forma pendiente/ordenada al origen: <pre> y={1:NM:=1.1666666666666667:0.0011666666666666668}x+{1:NM:=1.0:0.001} </pre> </p> 
+    <p> Forma general/normalizada: <pre> {1:NM:=-0.04861111111111111:4.8611111111111115e-05}x+{1:NM:=0.041666666666666664:4.1666666666666665e-05}y=1 </pre>   
+    
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 002  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 002 MATEMÁTICAS APLICADAS 101 Ecuación De La Recta 2020-08-08 21:50:17.623986</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Ecuación De La Recta </h1> 
+    
+    Encuentra la ecuación de la recta que pasa por los puntos \(13,13\) y \(-7,-1\), 
+    (escribe tus respuestas con al menos 4 cifras significativas).
+    
+    <p> Forma pendiente/ordenada al origen: <pre> y={1:NM:=-0.4:0.0004}x+{1:NM:=18.2:0.0182} </pre> </p> 
+    <p> Forma general/normalizada: <pre> {1:NM:=-0.10526315789473684:0.00010526315789473683}x+{1:NM:=-0.2631578947368421:0.0002631578947368421}y=1 </pre>   
+    
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 003  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 003 MATEMÁTICAS APLICADAS 101 Ecuación De La Recta 2020-08-08 21:50:17.623986</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Ecuación De La Recta </h1> 
+    
+    Encuentra la ecuación de la recta que pasa por los puntos \(15,15\) y \(-4,-4\), 
+    (escribe tus respuestas con al menos 4 cifras significativas).
+    
+    <p> Forma pendiente/ordenada al origen: <pre> y={1:NM:=-0.10526315789473684:0.00010526315789473683}x+{1:NM:=16.57894736842105:0.01657894736842105} </pre> </p> 
+    <p> Forma general/normalizada: <pre> {1:NM:=-0.023809523809523808:2.380952380952381e-05}x+{1:NM:=-0.2261904761904762:0.00022619047619047618}y=1 </pre>   
+    
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>
+
+
+

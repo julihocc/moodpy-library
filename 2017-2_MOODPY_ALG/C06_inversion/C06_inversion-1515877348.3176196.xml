@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>C06_inversion-1515877348.3181913</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1>Portafolio de inversión </h1>
+    <p>
+      Supongamos que tenemos $896000 para invertir. Deseamos diversificar 
+      nuestra inversión, de manera que tengamos un menor riesgo.
+      
+      Por esto, se desea invertir una parte en bonos, que pagan el 5% de interés
+      anual simple, y otra en acciones de una <em>start-up</em>, de las que se espera
+      obtener un interés anual simple del 25%. 
+      
+      El dinero se invierte a través de con un <em>broker</em>, que al final del año 
+      nos entrega $141000.0 de intereses. ¿Cómo invirtió dicho intermediario
+      nuestro dinero?
+    </p>
+    <pre> Inversión en bonos: ${1:NM:=415000} <br> Inversión en acciones: ${1:NM:=481000} </pre>       
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>C06_inversion-1515877348.3182163</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1>Portafolio de inversión </h1>
+    <p>
+      Supongamos que tenemos $1018000 para invertir. Deseamos diversificar 
+      nuestra inversión, de manera que tengamos un menor riesgo.
+      
+      Por esto, se desea invertir una parte en bonos, que pagan el 5% de interés
+      anual simple, y otra en acciones de una <em>start-up</em>, de las que se espera
+      obtener un interés anual simple del 28%. 
+      
+      El dinero se invierte a través de con un <em>broker</em>, que al final del año 
+      nos entrega $260430.0 de intereses. ¿Cómo invirtió dicho intermediario
+      nuestro dinero?
+    </p>
+    <pre> Inversión en bonos: ${1:NM:=107000} <br> Inversión en acciones: ${1:NM:=911000} </pre>       
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

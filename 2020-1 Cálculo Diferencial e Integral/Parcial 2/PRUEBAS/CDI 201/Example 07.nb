@@ -1,0 +1,1220 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     58248,       1210]
+NotebookOptionsPosition[     57816,       1194]
+NotebookOutlinePosition[     58157,       1209]
+CellTagsIndexPosition[     58114,       1206]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["optimize x*exp(-x^2/8) on [-1,4]", "WolframAlphaLong",
+ CellChangeTimes->{{3.7938996923192987`*^9, 3.7938997065674963`*^9}},
+ CellLabel->"In[8]:=",ExpressionUUID->"44f0adcf-1776-4029-81b5-81f2aa0c861d"],
+
+Cell[BoxData[
+ NamespaceBox["WolframAlphaQueryResults",
+  DynamicModuleBox[{Typeset`q$$ = "optimize x*exp(-x^2/8) on [-1,4]", 
+   Typeset`opts$$ = {
+   AppearanceElements -> {
+     "Warnings", "Assumptions", "Brand", "Pods", "PodMenus", "Unsuccessful", 
+      "Sources"}, Asynchronous -> All, 
+    TimeConstraint -> {20, Automatic, Automatic, Automatic}, 
+    Method -> {
+     "Formats" -> {"cell", "minput", "msound", "dataformats"}, "Server" -> 
+      "http://api.wolframalpha.com/v1/"}, 
+    PodStates -> {
+     "GlobalMaxima__Approximate form", "GlobalMinima__Approximate form"}}, 
+   Typeset`elements$$ = {
+   "Warnings", "Assumptions", "Brand", "Pods", "PodMenus", "Unsuccessful", 
+    "Sources"}, Typeset`pod1$$ = XMLElement[
+   "pod", {"title" -> "Input interpretation", "scanner" -> "Identity", "id" -> 
+     "Input", "position" -> "100", "error" -> "false", "numsubpods" -> "1"}, {
+     XMLElement["subpod", {"title" -> ""}, {
+       XMLElement[
+       "minput", {}, {
+        "{Minimize[{x Exp[-x^2/8], -1 <= x <= 4}, {x}], Maximize[{x \
+Exp[-x^2/8], -1 <= x <= 4}, {x}]}"}], 
+       XMLElement["cell", {"compressed" -> False, "string" -> True}, {
+         Cell[
+          BoxData[
+           FormBox[
+            TagBox[
+             FormBox[
+              TagBox[
+               GridBox[{{
+                  PaneBox[
+                   StyleBox[
+                    TagBox[
+                    GridBox[{{
+                    StyleBox[
+                    "\"extrema\"", {
+                    LineIndent -> 0, LineSpacing -> {0.9, 0, 1.5}}]}}, 
+                    GridBoxBackground -> {"Columns" -> {
+                    GrayLevel[0.949]}, "Rows" -> {{None}}}, 
+                    GridBoxItemSize -> {
+                    "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+                    ColumnsEqual -> False, RowsEqual -> False, 
+                    GridBoxDividers -> {"Columns" -> {
+                    GrayLevel[0.84], 
+                    GrayLevel[0.84]}, "Rows" -> {{
+                    GrayLevel[0.84]}}, 
+                    "RowsIndexed" -> {
+                    1 -> GrayLevel[0.84], -1 -> GrayLevel[0.84]}}, 
+                    GridBoxSpacings -> {"Columns" -> {2, 2}, "Rows" -> {{1}}},
+                     GridBoxAlignment -> {
+                    "Columns" -> {{Left}}, "Rows" -> {{Baseline}}}, 
+                    AllowScriptLevelChange -> False, BaselinePosition -> 1], 
+                    $CellContext`TagBoxWrapper["Separator" -> " | "]], 
+                    LineSpacing -> {1, 0, 1.5}, LineIndent -> 0], 
+                   BaselinePosition -> Center], 
+                  PaneBox[
+                   StyleBox[
+                    TagBox[
+                    GridBox[{{
+                    StyleBox["\"function\"", {
+                    GrayLevel[0.6], 
+                    LinebreakAdjustments -> {1, 100, 1, 0, 100}, LineIndent -> 
+                    0}], 
+                    TagBox[
+                    RowBox[{"x", " ", 
+                    RowBox[{"exp", "(", 
+                    RowBox[{"-", 
+                    FractionBox[
+                    SuperscriptBox["x", "2"], "8"]}], ")"}]}], HoldForm]}, {
+                    StyleBox["\"domain\"", {
+                    GrayLevel[0.6], 
+                    LinebreakAdjustments -> {1, 100, 1, 0, 100}, LineIndent -> 
+                    0}], 
+                    RowBox[{
+                    RowBox[{"-", "1"}], "\[LessEqual]", "x", "\[LessEqual]", 
+                    "4"}]}}, 
+                    GridBoxBackground -> {
+                    "Columns" -> {None, None}, "Rows" -> {{None}}}, 
+                    GridBoxItemSize -> {
+                    "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+                    ColumnsEqual -> False, RowsEqual -> False, 
+                    GridBoxDividers -> {"Columns" -> {
+                    GrayLevel[0.84], 
+                    GrayLevel[0.84], 
+                    GrayLevel[0.84]}, "Rows" -> {{
+                    GrayLevel[0.84]}}, 
+                    "RowsIndexed" -> {
+                    1 -> GrayLevel[0.84], -1 -> GrayLevel[0.84]}}, 
+                    GridBoxSpacings -> {
+                    "Columns" -> {2, 2, 2}, "Rows" -> {{1}}}, 
+                    GridBoxAlignment -> {
+                    "Columns" -> {{Left}}, "Rows" -> {{Baseline}}}, 
+                    AllowScriptLevelChange -> False, BaselinePosition -> 
+                    Automatic], 
+                    $CellContext`TagBoxWrapper["Separator" -> " | "]], 
+                    LineSpacing -> {1, 0, 1.5}, LineIndent -> 0], 
+                   BaselinePosition -> Center]}}, 
+                GridBoxItemSize -> {
+                 "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+                ColumnsEqual -> False, RowsEqual -> False, 
+                GridBoxSpacings -> {"Columns" -> {{
+                    AbsoluteThickness[-1]}}, "Rows" -> {{0}}}, 
+                AllowScriptLevelChange -> False], 
+               $CellContext`TagBoxWrapper["Separator" -> " | "]], 
+              TraditionalForm], 
+             PolynomialForm[#, TraditionalOrder -> False]& ], 
+            TraditionalForm]], "Output", {
+          Background -> None, 
+           GraphicsBoxOptions -> {
+            DefaultBaseStyle -> {FontFamily -> "Times", "Graphics"}, 
+             DefaultAxesStyle -> Directive[
+               GrayLevel[0, 0.35], FontColor -> GrayLevel[0.25], FontOpacity -> 
+               1, "GraphicsAxes"], DefaultFrameStyle -> Directive[
+               GrayLevel[0, 0.35], FontColor -> GrayLevel[0.25], FontOpacity -> 
+               1, "GraphicsFrame"], DefaultFrameTicksStyle -> 
+             Directive[
+              FontFamily -> "Times", FontSize -> 10, "GraphicsFrameTicks"], 
+             DefaultTicksStyle -> 
+             Directive[
+              FontFamily -> "Times", FontSize -> 10, "GraphicsTicks"]}, 
+           Graphics3DBoxOptions -> {
+            DefaultBaseStyle -> {FontFamily -> "Times", "Graphics3D"}}}, 
+          NumberPoint -> ".", CellSize -> {550, Automatic}, 
+          AutoStyleOptions -> {"HighlightFormattingErrors" -> False}, 
+          RenderingOptions -> {
+           "3DRenderingMethod" -> "BSPTreeOrDepthBuffer"}]}], 
+       XMLElement["dataformats", {}, {"plaintext,minput"}]}], 
+     XMLElement["expressiontypes", {"count" -> "1"}, {"\n   ", 
+       XMLElement["expressiontype", {"name" -> "Default"}, {}], "\n  "}]}], 
+   Typeset`pod2$$ = XMLElement[
+   "pod", {"title" -> "Global maximum", "scanner" -> "MaxMin", "id" -> 
+     "GlobalMaxima", "position" -> "100", "error" -> "false", "numsubpods" -> 
+     "1", "primary" -> "true"}, {
+     XMLElement["subpod", {"title" -> ""}, {
+       XMLElement[
+       "minput", {}, {"Maximize[{x Exp[-x^2/8], -1 <= x <= 4}, {x}]"}], 
+       XMLElement["cell", {"compressed" -> False, "string" -> True}, {
+         Cell[
+          BoxData[
+           FormBox[
+            RowBox[{
+              RowBox[{
+                RowBox[{"max", "\[NoBreak]", 
+                  RowBox[{"{", 
+                    TagBox[
+                    RowBox[{"x", " ", 
+                    RowBox[{"exp", "(", 
+                    RowBox[{"-", 
+                    FractionBox[
+                    SuperscriptBox["x", "2"], "8"]}], ")"}]}], HoldForm], "|", 
+                    RowBox[{
+                    RowBox[{"-", "1"}], "\[LessEqual]", "x", "\[LessEqual]", 
+                    "4"}], "}"}]}], "\[TildeTilde]", 
+                "1.2130613194252668472`5."}], 
+              StyleBox["\" at \"", {
+                GrayLevel[0.6], LinebreakAdjustments -> {1, 100, 1, 0, 100}, 
+                LineIndent -> 0}], 
+              RowBox[{
+                TagBox["x", HoldForm], "\[LongEqual]", "2"}]}], 
+            TraditionalForm]], "Output", {
+          Background -> None, 
+           GraphicsBoxOptions -> {
+            DefaultBaseStyle -> {FontFamily -> "Times", "Graphics"}, 
+             DefaultAxesStyle -> Directive[
+               GrayLevel[0, 0.35], FontColor -> GrayLevel[0.25], FontOpacity -> 
+               1, "GraphicsAxes"], DefaultFrameStyle -> Directive[
+               GrayLevel[0, 0.35], FontColor -> GrayLevel[0.25], FontOpacity -> 
+               1, "GraphicsFrame"], DefaultFrameTicksStyle -> 
+             Directive[
+              FontFamily -> "Times", FontSize -> 10, "GraphicsFrameTicks"], 
+             DefaultTicksStyle -> 
+             Directive[
+              FontFamily -> "Times", FontSize -> 10, "GraphicsTicks"]}, 
+           Graphics3DBoxOptions -> {
+            DefaultBaseStyle -> {FontFamily -> "Times", "Graphics3D"}}}, 
+          NumberPoint -> ".", CellSize -> {550, Automatic}, 
+          AutoStyleOptions -> {"HighlightFormattingErrors" -> False}, 
+          RenderingOptions -> {
+           "3DRenderingMethod" -> "BSPTreeOrDepthBuffer"}]}], 
+       XMLElement[
+       "dataformats", {}, {
+        "plaintext,minput,moutput,computabledata,formatteddata,formuladata"}]}\
+], 
+     XMLElement["expressiontypes", {"count" -> "1"}, {"\n   ", 
+       XMLElement["expressiontype", {"name" -> "Default"}, {}], "\n  "}], 
+     XMLElement["states", {"count" -> "3"}, {
+       XMLElement[
+       "state", {
+        "name" -> "More digits", "input" -> "GlobalMaxima__More digits"}, {}], 
+       XMLElement[
+       "state", {
+        "name" -> "Exact form", "input" -> "GlobalMaxima__Exact form"}, {}], 
+       XMLElement[
+       "state", {
+        "name" -> "Step-by-step solution", "input" -> 
+         "GlobalMaxima__Step-by-step solution", "stepbystep" -> 
+         "true"}, {}]}]}], Typeset`pod3$$ = XMLElement[
+   "pod", {"title" -> "Global minimum", "scanner" -> "MaxMin", "id" -> 
+     "GlobalMinima", "position" -> "100", "error" -> "false", "numsubpods" -> 
+     "1", "primary" -> "true"}, {
+     XMLElement["subpod", {"title" -> ""}, {
+       XMLElement[
+       "minput", {}, {"Minimize[{x Exp[-x^2/8], -1 <= x <= 4}, {x}]"}], 
+       XMLElement["cell", {"compressed" -> False, "string" -> True}, {
+         Cell[
+          BoxData[
+           FormBox[
+            RowBox[{
+              RowBox[{
+                RowBox[{"min", "\[NoBreak]", 
+                  RowBox[{"{", 
+                    TagBox[
+                    RowBox[{"x", " ", 
+                    RowBox[{"exp", "(", 
+                    RowBox[{"-", 
+                    FractionBox[
+                    SuperscriptBox["x", "2"], "8"]}], ")"}]}], HoldForm], "|", 
+                    RowBox[{
+                    RowBox[{"-", "1"}], "\[LessEqual]", "x", "\[LessEqual]", 
+                    "4"}], "}"}]}], "\[TildeTilde]", 
+                RowBox[{"-", "0.8824969025845954029`5."}]}], 
+              StyleBox["\" at \"", {
+                GrayLevel[0.6], LinebreakAdjustments -> {1, 100, 1, 0, 100}, 
+                LineIndent -> 0}], 
+              RowBox[{
+                TagBox["x", HoldForm], "\[LongEqual]", 
+                RowBox[{"-", "1"}]}]}], TraditionalForm]], "Output", {
+          Background -> None, 
+           GraphicsBoxOptions -> {
+            DefaultBaseStyle -> {FontFamily -> "Times", "Graphics"}, 
+             DefaultAxesStyle -> Directive[
+               GrayLevel[0, 0.35], FontColor -> GrayLevel[0.25], FontOpacity -> 
+               1, "GraphicsAxes"], DefaultFrameStyle -> Directive[
+               GrayLevel[0, 0.35], FontColor -> GrayLevel[0.25], FontOpacity -> 
+               1, "GraphicsFrame"], DefaultFrameTicksStyle -> 
+             Directive[
+              FontFamily -> "Times", FontSize -> 10, "GraphicsFrameTicks"], 
+             DefaultTicksStyle -> 
+             Directive[
+              FontFamily -> "Times", FontSize -> 10, "GraphicsTicks"]}, 
+           Graphics3DBoxOptions -> {
+            DefaultBaseStyle -> {FontFamily -> "Times", "Graphics3D"}}}, 
+          NumberPoint -> ".", CellSize -> {550, Automatic}, 
+          AutoStyleOptions -> {"HighlightFormattingErrors" -> False}, 
+          RenderingOptions -> {
+           "3DRenderingMethod" -> "BSPTreeOrDepthBuffer"}]}], 
+       XMLElement[
+       "dataformats", {}, {
+        "plaintext,minput,moutput,computabledata,formatteddata,formuladata"}]}\
+], 
+     XMLElement["expressiontypes", {"count" -> "1"}, {"\n   ", 
+       XMLElement["expressiontype", {"name" -> "Default"}, {}], "\n  "}], 
+     XMLElement["states", {"count" -> "3"}, {
+       XMLElement[
+       "state", {
+        "name" -> "More digits", "input" -> "GlobalMinima__More digits"}, {}], 
+       XMLElement[
+       "state", {
+        "name" -> "Exact form", "input" -> "GlobalMinima__Exact form"}, {}], 
+       XMLElement[
+       "state", {
+        "name" -> "Step-by-step solution", "input" -> 
+         "GlobalMinima__Step-by-step solution", "stepbystep" -> 
+         "true"}, {}]}]}], Typeset`pod4$$ = XMLElement[
+   "pod", {"title" -> "Plot", "scanner" -> "MaxMin", "id" -> "Plot", 
+     "position" -> "400", "error" -> "false", "numsubpods" -> "1"}, {
+     XMLElement["subpod", {"title" -> ""}, {
+       XMLElement[
+       "minput", {}, {
+        "Plot[x/E^(x^2/8), {x, -1.25, 4.25}, Epilog -> Point[{{-1, \
+-E^(-1/8)}, {2, 2/Sqrt[E]}}]]"}], 
+       XMLElement["cell", {"compressed" -> True, "string" -> False}, {
+         Cell[
+          BoxData[
+           FormBox[
+            TemplateBox[{
+              GraphicsBox[{{{{}, {}, 
+                  TagBox[{
+                    Directive[
+                    Opacity[1.], 
+                    RGBColor[0.24720000000000014`, 0.24, 0.6], 
+                    AbsoluteThickness[1]], 
+                    LineBox[CompressedData["
+1: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
+                    "]]}, 
+                   Annotation[#, 
+                    "Charting`Private`Tag$3629071#1"]& ]}}, {}, {}}, {
+               GridLines -> Dynamic[
+                  Map[{{#, 
+                    GrayLevel[0.7]}}& , 
+                   MousePosition[{"Graphics", Graphics}, None]]], 
+                AxesOrigin -> {0., 0.}, DisplayFunction -> Identity, 
+                Ticks -> {Automatic, Automatic}, AxesOrigin -> {0, 0}, 
+                FrameTicks -> {{Automatic, {{-1., 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.01, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-0.5, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.01, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0., 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.01, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0.5, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.01, 0.}, {
+                    AbsoluteThickness[0.1]}}, {1., 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.01, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-1.5, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-1.4, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-1.3, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-1.2, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-1.1, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-0.9, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-0.8, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-0.7, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-0.6, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-0.4, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-0.3, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-0.2, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-0.1, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0.1, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0.2, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0.3, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0.4, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0.6, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0.7, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0.8, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0.9, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {1.1, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {1.2, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {1.3, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {1.4, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {1.5, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}}}, {Automatic, {{-1., 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.01, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0., 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.01, 0.}, {
+                    AbsoluteThickness[0.1]}}, {1., 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.01, 0.}, {
+                    AbsoluteThickness[0.1]}}, {2., 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.01, 0.}, {
+                    AbsoluteThickness[0.1]}}, {3., 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.01, 0.}, {
+                    AbsoluteThickness[0.1]}}, {4., 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.01, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-2., 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-1.8, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-1.6, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-1.4, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-1.2, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-0.8, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-0.6, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-0.4, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {-0.2, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0.2, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0.4, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0.6, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {0.8, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {1.2, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {1.4, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {1.6, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {1.8, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {2.2, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {2.4, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {2.6, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {2.8, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {3.2, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {3.4, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {3.6, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {3.8, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {4.2, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {4.4, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {4.6, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {4.8, 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}, {5., 
+                    FormBox[
+                    InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {0, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[{0, 0}], Selectable -> False], TraditionalForm], {
+                    0.005, 0.}, {
+                    AbsoluteThickness[0.1]}}}}}, GridLines -> {None, None}, 
+                DisplayFunction -> Identity, PlotRangePadding -> {{
+                   Scaled[0.02], 
+                   Scaled[0.02]}, {0, 0}}, PlotRangeClipping -> True, 
+                ImagePadding -> All, DisplayFunction -> Identity, AspectRatio -> 
+                NCache[GoldenRatio^(-1), 0.6180339887498948], 
+                Axes -> {True, True}, AxesLabel -> {None, None}, 
+                AxesOrigin -> {0, 0}, AxesStyle -> Directive[
+                  AbsoluteThickness[0.2]], BaseStyle -> Automatic, 
+                DisplayFunction :> Identity, Epilog -> {
+                  PointSize[Medium], 
+                  RGBColor[1, 0, 0], {
+                   TagBox[
+                    TooltipBox[
+                    PointBox[{-1., -0.8824969025845955}], 
+                    TemplateBox[{"\"(\"", 
+                    RowBox[{"-", "1"}], "\",\"", 
+                    RowBox[{"-", "0.8824969025845955`"}], "\")\""}, 
+                    "RowDefault"]], Annotation[#, 
+                    Row[{"(", -1, ",", -0.8824969025845955, ")"}], 
+                    "Tooltip"]& ], 
+                   TagBox[
+                    TooltipBox[
+                    PointBox[{2., 1.2130613194252668`}], 
+                    
+                    TemplateBox[{
+                    "\"(\"", "2", "\",\"", "1.2130613194252668`", "\")\""}, 
+                    "RowDefault"]], Annotation[#, 
+                    Row[{"(", 2, ",", 1.2130613194252668`, ")"}], 
+                    "Tooltip"]& ]}}, 
+                Frame -> {{False, False}, {False, False}}, 
+                FrameLabel -> {{None, None}, {None, None}}, FrameStyle -> 
+                Directive[
+                  AbsoluteThickness[0.2]], 
+                FrameTicks -> {{Automatic, Automatic}, {
+                  Automatic, Automatic}}, GridLines -> {None, None}, 
+                GridLinesStyle -> {
+                  GrayLevel[0.85], 
+                  GrayLevel[0.9]}, ImageSize -> 412.5, 
+                Method -> {
+                 "DefaultBoundaryStyle" -> Automatic, "DefaultMeshStyle" -> 
+                  PointSize[Medium], "PointSizeFunction" -> "SmallPointSize", 
+                  "ScalingFunctions" -> None, 
+                  "CoordinatesToolOptions" -> {"DisplayFunction" -> ({
+                    (Identity[#]& )[
+                    Part[#, 1]], 
+                    (Identity[#]& )[
+                    Part[#, 2]]}& ), "CopiedValueFunction" -> ({
+                    (Identity[#]& )[
+                    Part[#, 1]], 
+                    (Identity[#]& )[
+                    Part[#, 2]]}& )}}, 
+                PlotRange -> {{-1.249999887755102, 
+                 4.249999887755102}, {-1.0618411442319684`, 
+                 1.45567358331032}}, PlotRangeClipping -> True, 
+                PlotRangePadding -> {{
+                   Scaled[0.02], 
+                   Scaled[0.02]}, {Automatic, Automatic}}, Prolog -> {
+                  Opacity[0], 
+                  TagBox[
+                   RectangleBox[
+                    Scaled[{0, 0}], 
+                    Scaled[{1, 1}]], Annotation[#, "Plot", "Frame"]& ]}, 
+                Ticks -> {Automatic, Automatic}}], 
+              StyleBox[
+               RowBox[{"\"(\"", "\[NoBreak]", 
+                 TemplateBox[{"x", 
+                   InterpretationBox[
+                    StyleBox[
+                    
+                    GraphicsBox[{}, ImageSize -> {4, 0}, BaselinePosition -> 
+                    Baseline], "CacheGraphics" -> False], 
+                    Spacer[4], Selectable -> False], "\"from \"", 
+                   RowBox[{"-", 
+                    TagBox["1.3", 
+                    $CellContext`TagBoxWrapper[
+                    "StringBoxes" -> "1.3", "SRString" -> "1.3"]]}], 
+                   "\" to \"", 
+                   TagBox["4.3", 
+                    $CellContext`TagBoxWrapper[
+                    "StringBoxes" -> "4.3", "SRString" -> "4.3"]]}, 
+                  "RowDefault"], "\[NoBreak]", "\")\""}], {
+               FontFamily -> "Verdana", FontSize -> 10, 
+                GrayLevel[0.5], LinebreakAdjustments -> {1, 100, 1, 0, 100}, 
+                LineIndent -> 0}]}, "Labeled", DisplayFunction -> (FormBox[
+               GridBox[{{
+                  TagBox[
+                   ItemBox[
+                    PaneBox[
+                    TagBox[#, "SkipImageSizeLevel"], 
+                    Alignment -> {Center, Baseline}, BaselinePosition -> 
+                    Baseline], DefaultBaseStyle -> "Labeled"], 
+                   "SkipImageSizeLevel"], 
+                  ItemBox[#2, DefaultBaseStyle -> "LabeledLabel"]}}, 
+                GridBoxAlignment -> {
+                 "Columns" -> {{Center}}, "Rows" -> {{Center}}}, AutoDelete -> 
+                False, GridBoxItemSize -> {
+                 "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+                BaselinePosition -> {1, 1}], TraditionalForm]& ), 
+             InterpretationFunction -> (RowBox[{
+                StyleBox[
+                "Labeled", FontFamily -> "Bitstream Vera Sans", 
+                 FontSize -> -1 + Inherited], "[", 
+                RowBox[{#, ",", #2, ",", 
+                  RowBox[{"(", "\[NoBreak]", 
+                    GridBox[{{
+                    StyleBox[
+                    "Right", FontFamily -> "Bitstream Vera Sans", 
+                    FontSize -> -1 + Inherited], 
+                    StyleBox[
+                    "Center", FontFamily -> "Bitstream Vera Sans", 
+                    FontSize -> -1 + Inherited]}}, RowSpacings -> 1, 
+                    ColumnSpacings -> 1, RowAlignments -> Baseline, 
+                    ColumnAlignments -> Center], "\[NoBreak]", ")"}]}], 
+                "]"}]& )], TraditionalForm]], "Output", {
+          Background -> None, 
+           GraphicsBoxOptions -> {
+            DefaultBaseStyle -> {FontFamily -> "Times", "Graphics"}, 
+             DefaultAxesStyle -> Directive[
+               GrayLevel[0, 0.35], FontColor -> GrayLevel[0.25], FontOpacity -> 
+               1, "GraphicsAxes"], DefaultFrameStyle -> Directive[
+               GrayLevel[0, 0.35], FontColor -> GrayLevel[0.25], FontOpacity -> 
+               1, "GraphicsFrame"], DefaultFrameTicksStyle -> 
+             Directive[
+              FontFamily -> "Times", FontSize -> 10, "GraphicsFrameTicks"], 
+             DefaultTicksStyle -> 
+             Directive[
+              FontFamily -> "Times", FontSize -> 10, "GraphicsTicks"]}, 
+           Graphics3DBoxOptions -> {
+            DefaultBaseStyle -> {FontFamily -> "Times", "Graphics3D"}}}, 
+          NumberPoint -> ".", CellSize -> {550, Automatic}, 
+          AutoStyleOptions -> {"HighlightFormattingErrors" -> False}, 
+          RenderingOptions -> {
+           "3DRenderingMethod" -> "BSPTreeOrDepthBuffer"}]}], 
+       XMLElement[
+       "dataformats", {}, {"minput,computabledata,formatteddata"}]}], 
+     XMLElement["expressiontypes", {"count" -> "1"}, {"\n  ", 
+       XMLElement["expressiontype", {"name" -> "Default"}, {}], "\n "}]}], 
+   Typeset`aux1$$ = {True, False, {False}, True}, Typeset`aux2$$ = {
+   True, False, {False}, True}, Typeset`aux3$$ = {True, False, {False}, True},
+    Typeset`aux4$$ = {True, False, {False}, True}, Typeset`asyncpods$$ = {}, 
+   Typeset`nonpods$$ = {}, Typeset`initdone$$ = 
+   FrontEnd`SuppressEvaluationHash[True], Typeset`queryinfo$$ = {
+   "success" -> "true", "error" -> "false", "numpods" -> "4", "datatypes" -> 
+    "Extrema", "timedout" -> "", "timedoutpods" -> "", "timing" -> "2.096", 
+    "parsetiming" -> "0.8300000000000001", "parsetimedout" -> "false", 
+    "recalculate" -> "", "id" -> 
+    "MSP73191336a7abh63c79h800005a04iah2b1ebe1a7", "host" -> 
+    "https://www5a.wolframalpha.com", "server" -> "13", "related" -> 
+    "https://www5a.wolframalpha.com/api/v1/relatedQueries.jsp?id=\
+MSPa73201336a7abh63c79h8000038ad7d39iahchh33814652467104941573", "version" -> 
+    "2.6"}, Typeset`sessioninfo$$ = {
+   "TimeZone" -> -6., 
+    "Date" -> {2020, 3, 22, 15, 1, 50.2020164`9.453296014028222}, "Line" -> 8,
+     "SessionID" -> 24526129591443556501}, Typeset`showpods$$ = {1, 2, 3, 4}, 
+   Typeset`failedpods$$ = {}, Typeset`chosen$$ = {}, Typeset`open$$ = False, 
+   Typeset`newq$$ = "optimize x*exp(-x^2/8) on [-1,4]"}, 
+   DynamicBox[ToBoxes[
+     AlphaIntegration`FormatAlphaResults[
+      Dynamic[{
+       1, {Typeset`pod1$$, Typeset`pod2$$, Typeset`pod3$$, Typeset`pod4$$}, {
+        Typeset`aux1$$, Typeset`aux2$$, Typeset`aux3$$, Typeset`aux4$$}, 
+        Typeset`chosen$$, Typeset`open$$, Typeset`elements$$, Typeset`q$$, 
+        Typeset`opts$$, Typeset`nonpods$$, Typeset`queryinfo$$, 
+        Typeset`sessioninfo$$, Typeset`showpods$$, Typeset`failedpods$$, 
+        Typeset`newq$$}]], StandardForm],
+    ImageSizeCache->{697., {314., 320.}},
+    TrackedSymbols:>{Typeset`showpods$$, Typeset`failedpods$$}],
+   DynamicModuleValues:>{},
+   Initialization:>If[
+     And[
+      Not[Typeset`initdone$$ === True], 
+      Not[Typeset`initdone$$ === FrontEnd`SuppressEvaluationHash[True]]], 
+     Null; WolframAlphaClient`Private`doAsyncUpdates[
+       Hold[{Typeset`pod1$$, Typeset`pod2$$, Typeset`pod3$$, Typeset`pod4$$}],
+        Typeset`asyncpods$$, 
+       Dynamic[Typeset`failedpods$$]]; Typeset`asyncpods$$ = {}; 
+     Typeset`initdone$$ = FrontEnd`SuppressEvaluationHash[True]],
+   SynchronousInitialization->False],
+  BaseStyle->{Deployed -> True},
+  DeleteWithContents->True,
+  Editable->False,
+  SelectWithContents->True]], "Print", "WolframAlphaFullOutput",
+ CellChangeTimes->{
+  3.7938997102269497`*^9},ExpressionUUID->"ad9545cf-0165-484b-9ecc-\
+473ea2574f37"]
+}, Open  ]]
+},
+WindowSize->{766, 772},
+WindowMargins->{{Automatic, -7}, {Automatic, 0}},
+FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 208, 2, 44, "WolframAlphaLong",ExpressionUUID->"44f0adcf-1776-4029-81b5-81f2aa0c861d"],
+Cell[791, 26, 57009, 1165, 644, "Print",ExpressionUUID->"ad9545cf-0165-484b-9ecc-473ea2574f37"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+

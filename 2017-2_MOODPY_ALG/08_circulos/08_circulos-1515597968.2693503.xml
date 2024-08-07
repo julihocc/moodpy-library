@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>08_circulos-1515597968.2698536</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+<h1> Ecuación de un círculo </h1>
+<p>
+Encuentre el centro y el radio del círculo dado por la ecuación 
+\(x^{2} + 14 x + y^{2} - 62 y + 985=0\).     
+</p>
+<ul>
+    <li> \(h=\){1:NM:=-7} </li>
+    <li> \(k=\){1:NM:=31} </li>
+    <li> \(r=\){1:NM:=5} </li>       
+</ul>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>08_circulos-1515597968.2698536</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+<h1> Ecuación de un círculo </h1>
+<p>
+Encuentre el centro y el radio del círculo dado por la ecuación 
+\(x^{2} - 64 x + y^{2} + 86 y + 2824=0\).     
+</p>
+<ul>
+    <li> \(h=\){1:NM:=32} </li>
+    <li> \(k=\){1:NM:=-43} </li>
+    <li> \(r=\){1:NM:=7} </li>       
+</ul>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>08_circulos-1515597968.2703545</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+<h1> Ecuación de un círculo </h1>
+<p>
+Encuentre el centro y el radio del círculo dado por la ecuación 
+\(x^{2} + 100 x + y^{2} + 28 y + 2615=0\).     
+</p>
+<ul>
+    <li> \(h=\){1:NM:=-50} </li>
+    <li> \(k=\){1:NM:=-14} </li>
+    <li> \(r=\){1:NM:=9} </li>       
+</ul>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>B04_poblacion-1515651040.2599177</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1> Modelos exponenciales </h1>
+    <h2> El caso de la población mundial </h2>
+    <p>
+    En 1954, la población era de 2724302468 personas. Se estima que ese año, el 
+    crecimiento anual porcentual fue de 1.76%. Estime la población mundial
+    para 2013.
+    </p>
+    <pre> Estimación: {1:NM:=7695320526.6:230859615.798} personas </pre>
+    <p> Conociendo que la población en 2013 fue de 7213426452.0 personas, encuentre la 
+    magnitud del error porcentual de la estimación</p>
+    <pre> |error porcentual|: {1:NM:=6.68051553314:0.200415465994}%</pre>
+    <p> De acuerdo a los datos de 1954, ¿cuántos años tomaría alcanzar la 
+    probación de 2013? 
+    <em> Ingrese su resultado en decimales, no convierta a otras unidades de 
+    tiempo</em>
+    </p>
+    <pre> Tiempo estimado: {1:NM:=55.3256621686:1.65976986506} años </pre>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>B04_poblacion-1515651040.2599425</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1> Modelos exponenciales </h1>
+    <h2> El caso de la población mundial </h2>
+    <p>
+    En 1971, la población era de 3775790900 personas. Se estima que ese año, el 
+    crecimiento anual porcentual fue de 2.03%. Estime la población mundial
+    para 1990.
+    </p>
+    <pre> Estimación: {1:NM:=5552842010.69:166585260.321} personas </pre>
+    <p> Conociendo que la población en 1990 fue de 5330943460.0 personas, encuentre la 
+    magnitud del error porcentual de la estimación</p>
+    <pre> |error porcentual|: {1:NM:=4.16246303024:0.124873890907}%</pre>
+    <p> De acuerdo a los datos de 1971, ¿cuántos años tomaría alcanzar la 
+    probación de 1990? 
+    <em> Ingrese su resultado en decimales, no convierta a otras unidades de 
+    tiempo</em>
+    </p>
+    <pre> Tiempo estimado: {1:NM:=16.991052276:0.509731568281} años </pre>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>B04_poblacion-1515651040.2599552</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1> Modelos exponenciales </h1>
+    <h2> El caso de la población mundial </h2>
+    <p>
+    En 1995, la población era de 5751474416 personas. Se estima que ese año, el 
+    crecimiento anual porcentual fue de 1.43%. Estime la población mundial
+    para 2016.
+    </p>
+    <pre> Estimación: {1:NM:=7766007849.91:232980235.497} personas </pre>
+    <p> Conociendo que la población en 2016 fue de 7466964280.0 personas, encuentre la 
+    magnitud del error porcentual de la estimación</p>
+    <pre> |error porcentual|: {1:NM:=4.00488818068:0.12014664542}%</pre>
+    <p> De acuerdo a los datos de 1995, ¿cuántos años tomaría alcanzar la 
+    probación de 2016? 
+    <em> Ingrese su resultado en decimales, no convierta a otras unidades de 
+    tiempo</em>
+    </p>
+    <pre> Tiempo estimado: {1:NM:=18.2540060289:0.547620180868} años </pre>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

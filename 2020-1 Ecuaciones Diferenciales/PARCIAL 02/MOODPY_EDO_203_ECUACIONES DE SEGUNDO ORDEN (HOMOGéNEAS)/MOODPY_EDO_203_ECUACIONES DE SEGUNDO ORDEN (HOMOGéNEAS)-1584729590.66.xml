@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY_EDO_203_ECUACIONES DE SEGUNDO ORDEN (HOMOGéNEAS)-1584729590.66</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Ecuaciones De Segundo Orden (HomogéNeas) </h1>
+    <p> Encuentre la solución \(y(x)\) de la siguiente ecuación diferencial
+    \(-4.0 \, y\left(x\right) - 6.0 \, y'(x) + y''(x) = 0\) con condiciones iniciales \(y(0)=-0.09, \; y'(0)=1.49\)
+    y evalue en el punto dado:</p>
+    <pre>
+    u(0.83) = {1:NM:=47.6956154789863:0.0476956154789863}
+    </pre>    
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+      La solución del problema de condiciones iniciales es
+    \(y(x)=\frac{22}{325} \, \sqrt{13} e^{\left(\sqrt{13} x + 3 \, x\right)} - \frac{22}{325} \, \sqrt{13} e^{\left(-\sqrt{13} x + 3 \, x\right)} - \frac{9}{200} \, e^{\left(\sqrt{13} x + 3 \, x\right)} - \frac{9}{200} \, e^{\left(-\sqrt{13} x + 3 \, x\right)}\)  
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY_EDO_203_ECUACIONES DE SEGUNDO ORDEN (HOMOGéNEAS)-1584729590.66</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Ecuaciones De Segundo Orden (HomogéNeas) </h1>
+    <p> Encuentre la solución \(y(x)\) de la siguiente ecuación diferencial
+    \(4.0 \, y\left(x\right) + 10.0 \, y'(x) + y''(x) = 0\) con condiciones iniciales \(y(0)=2.21, \; y'(0)=2.19\)
+    y evalue en el punto dado:</p>
+    <pre>
+    u(0.89) = {1:NM:=1.75837768658473:0.00175837768658473}
+    </pre>    
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+      La solución del problema de condiciones iniciales es
+    \(y(x)=\frac{331}{1050} \, \sqrt{21} e^{\left(\sqrt{21} x - 5 \, x\right)} - \frac{331}{1050} \, \sqrt{21} e^{\left(-\sqrt{21} x - 5 \, x\right)} + \frac{221}{200} \, e^{\left(\sqrt{21} x - 5 \, x\right)} + \frac{221}{200} \, e^{\left(-\sqrt{21} x - 5 \, x\right)}\)  
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY_EDO_203_ECUACIONES DE SEGUNDO ORDEN (HOMOGéNEAS)-1584729590.66</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Ecuaciones De Segundo Orden (HomogéNeas) </h1>
+    <p> Encuentre la solución \(y(x)\) de la siguiente ecuación diferencial
+    \(-13.0 \, y\left(x\right) + 12.0 \, y'(x) + y''(x) = 0\) con condiciones iniciales \(y(0)=1.49, \; y'(0)=-0.94\)
+    y evalue en el punto dado:</p>
+    <pre>
+    u(1.18) = {1:NM:=4.28415122059613:0.00428415122059613}
+    </pre>    
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+      La solución del problema de condiciones iniciales es
+    \(y(x)=\frac{243}{1400} \, e^{\left(-13 \, x\right)} + \frac{1843}{1400} \, e^{x}\)  
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY_EDO_203_ECUACIONES DE SEGUNDO ORDEN (HOMOGéNEAS)-1584729590.66</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Ecuaciones De Segundo Orden (HomogéNeas) </h1>
+    <p> Encuentre la solución \(y(x)\) de la siguiente ecuación diferencial
+    \(-9.0 \, y\left(x\right) - 1.0 \, y'(x) + y''(x) = 0\) con condiciones iniciales \(y(0)=0.91, \; y'(0)=-1.43\)
+    y evalue en el punto dado:</p>
+    <pre>
+    u(0.84) = {1:NM:=2.93239390621917:0.00293239390621917}
+    </pre>    
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+      La solución del problema de condiciones iniciales es
+    \(y(x)=-\frac{377}{7400} \, \sqrt{37} e^{\left(\frac{1}{2} \, \sqrt{37} x + \frac{1}{2} \, x\right)} + \frac{377}{7400} \, \sqrt{37} e^{\left(-\frac{1}{2} \, \sqrt{37} x + \frac{1}{2} \, x\right)} + \frac{91}{200} \, e^{\left(\frac{1}{2} \, \sqrt{37} x + \frac{1}{2} \, x\right)} + \frac{91}{200} \, e^{\left(-\frac{1}{2} \, \sqrt{37} x + \frac{1}{2} \, x\right)}\)  
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY_EDO_203_ECUACIONES DE SEGUNDO ORDEN (HOMOGéNEAS)-1584729590.66</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Ecuaciones De Segundo Orden (HomogéNeas) </h1>
+    <p> Encuentre la solución \(y(x)\) de la siguiente ecuación diferencial
+    \(9.0 \, y\left(x\right) - 7.0 \, y'(x) + y''(x) = 0\) con condiciones iniciales \(y(0)=-2.8, \; y'(0)=-1.77\)
+    y evalue en el punto dado:</p>
+    <pre>
+    u(0.94) = {1:NM:=102.998191389629:0.102998191389629}
+    </pre>    
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+      La solución del problema de condiciones iniciales es
+    \(y(x)=\frac{803}{1300} \, \sqrt{13} e^{\left(\frac{1}{2} \, \sqrt{13} x + \frac{7}{2} \, x\right)} - \frac{803}{1300} \, \sqrt{13} e^{\left(-\frac{1}{2} \, \sqrt{13} x + \frac{7}{2} \, x\right)} - \frac{7}{5} \, e^{\left(\frac{1}{2} \, \sqrt{13} x + \frac{7}{2} \, x\right)} - \frac{7}{5} \, e^{\left(-\frac{1}{2} \, \sqrt{13} x + \frac{7}{2} \, x\right)}\)  
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

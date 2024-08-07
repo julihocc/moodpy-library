@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>PEP102_particiones-1534869569.07</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+<h1> Cálculo de probabilidades utilizando particionaes </h1>
+
+    <p> Dada la siguiente información,
+    <div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr class ="row-a">
+<td>----Evento----</td>
+<td>Cardinalidad</td>
+</tr>
+<tr class ="row-b">
+<td>\(A-B\)</td>
+<td>\(6\)</td>
+</tr>
+<tr class ="row-a">
+<td>\(A'\)</td>
+<td>\(102\)</td>
+</tr>
+<tr class ="row-b">
+<td>\((A-B)'\)</td>
+<td>\(104\)</td>
+</tr>
+<tr class ="row-a">
+<td>\(A'\cap B'\)</td>
+<td>\(75\)</td>
+</tr>
+</tbody>
+</table>
+</div>
+    calcule los elementos en cada conjunto </p>
+    <p> <div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr class ="row-a">
+<td>----Evento----</td>
+<td>Cardinalidad</td>
+</tr>
+<tr class ="row-b">
+<td>\((A\triangle B)'\)</td>
+<td>{1:NM:=77}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A \cup B\)</td>
+<td>{1:NM:=35}</td>
+</tr>
+<tr class ="row-b">
+<td>\(A' \cup B'\)</td>
+<td>{1:NM:=108}</td>
+</tr>
+<tr class ="row-a">
+<td>\(B\)</td>
+<td>{1:NM:=29}</td>
+</tr>
+<tr class ="row-b">
+<td>\(\emptyset\)</td>
+<td>{1:NM:=0}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A\triangle B\)</td>
+<td>{1:NM:=33}</td>
+</tr>
+<tr class ="row-b">
+<td>\(S\)</td>
+<td>{1:NM:=110}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A \cap B\)</td>
+<td>{1:NM:=2}</td>
+</tr>
+<tr class ="row-b">
+<td>\(B-A\)</td>
+<td>{1:NM:=27}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A\)</td>
+<td>{1:NM:=8}</td>
+</tr>
+<tr class ="row-b">
+<td>\(B'\)</td>
+<td>{1:NM:=81}</td>
+</tr>
+<tr class ="row-a">
+<td>\((B-A)'\)</td>
+<td>{1:NM:=83}</td>
+</tr>
+</tbody>
+</table>
+</div> </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Plantee un sistema de cuatro ecuaciones en términos de la partición elemental \( A\cap B, A\cap B', A'\cap B, A'\cap B' \).
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>PEP102_particiones-1534869569.07</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+<h1> Cálculo de probabilidades utilizando particionaes </h1>
+
+    <p> Dada la siguiente información,
+    <div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr class ="row-a">
+<td>----Evento----</td>
+<td>Cardinalidad</td>
+</tr>
+<tr class ="row-b">
+<td>\(B'\)</td>
+<td>\(134\)</td>
+</tr>
+<tr class ="row-a">
+<td>\(A' \cup B'\)</td>
+<td>\(214\)</td>
+</tr>
+<tr class ="row-b">
+<td>\(S\)</td>
+<td>\(220\)</td>
+</tr>
+<tr class ="row-a">
+<td>\((A-B)'\)</td>
+<td>\(136\)</td>
+</tr>
+</tbody>
+</table>
+</div>
+    calcule los elementos en cada conjunto </p>
+    <p> <div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr class ="row-a">
+<td>----Evento----</td>
+<td>Cardinalidad</td>
+</tr>
+<tr class ="row-b">
+<td>\(A'\)</td>
+<td>{1:NM:=130}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A \cup B\)</td>
+<td>{1:NM:=170}</td>
+</tr>
+<tr class ="row-b">
+<td>\(A\)</td>
+<td>{1:NM:=90}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A\triangle B\)</td>
+<td>{1:NM:=164}</td>
+</tr>
+<tr class ="row-b">
+<td>\(B-A\)</td>
+<td>{1:NM:=80}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A'\cap B'\)</td>
+<td>{1:NM:=50}</td>
+</tr>
+<tr class ="row-b">
+<td>\((B-A)'\)</td>
+<td>{1:NM:=140}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A-B\)</td>
+<td>{1:NM:=84}</td>
+</tr>
+<tr class ="row-b">
+<td>\(A \cap B\)</td>
+<td>{1:NM:=6}</td>
+</tr>
+<tr class ="row-a">
+<td>\((A\triangle B)'\)</td>
+<td>{1:NM:=56}</td>
+</tr>
+<tr class ="row-b">
+<td>\(\emptyset\)</td>
+<td>{1:NM:=0}</td>
+</tr>
+<tr class ="row-a">
+<td>\(B\)</td>
+<td>{1:NM:=86}</td>
+</tr>
+</tbody>
+</table>
+</div> </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Plantee un sistema de cuatro ecuaciones en términos de la partición elemental \( A\cap B, A\cap B', A'\cap B, A'\cap B' \).
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>PEP102_particiones-1534869569.07</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+<h1> Cálculo de probabilidades utilizando particionaes </h1>
+
+    <p> Dada la siguiente información,
+    <div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr class ="row-a">
+<td>----Evento----</td>
+<td>Cardinalidad</td>
+</tr>
+<tr class ="row-b">
+<td>\(A\triangle B\)</td>
+<td>\(161\)</td>
+</tr>
+<tr class ="row-a">
+<td>\(B\)</td>
+<td>\(104\)</td>
+</tr>
+<tr class ="row-b">
+<td>\(B-A\)</td>
+<td>\(70\)</td>
+</tr>
+<tr class ="row-a">
+<td>\(B'\)</td>
+<td>\(109\)</td>
+</tr>
+</tbody>
+</table>
+</div>
+    calcule los elementos en cada conjunto </p>
+    <p> <div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr class ="row-a">
+<td>----Evento----</td>
+<td>Cardinalidad</td>
+</tr>
+<tr class ="row-b">
+<td>\(A \cap B\)</td>
+<td>{1:NM:=34}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A' \cup B'\)</td>
+<td>{1:NM:=179}</td>
+</tr>
+<tr class ="row-b">
+<td>\(A'\)</td>
+<td>{1:NM:=88}</td>
+</tr>
+<tr class ="row-a">
+<td>\(\emptyset\)</td>
+<td>{1:NM:=0}</td>
+</tr>
+<tr class ="row-b">
+<td>\((A\triangle B)'\)</td>
+<td>{1:NM:=52}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A-B\)</td>
+<td>{1:NM:=91}</td>
+</tr>
+<tr class ="row-b">
+<td>\(S\)</td>
+<td>{1:NM:=213}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A\)</td>
+<td>{1:NM:=125}</td>
+</tr>
+<tr class ="row-b">
+<td>\((B-A)'\)</td>
+<td>{1:NM:=143}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A'\cap B'\)</td>
+<td>{1:NM:=18}</td>
+</tr>
+<tr class ="row-b">
+<td>\(A \cup B\)</td>
+<td>{1:NM:=195}</td>
+</tr>
+<tr class ="row-a">
+<td>\((A-B)'\)</td>
+<td>{1:NM:=122}</td>
+</tr>
+</tbody>
+</table>
+</div> </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Plantee un sistema de cuatro ecuaciones en términos de la partición elemental \( A\cap B, A\cap B', A'\cap B, A'\cap B' \).
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>PEP102_particiones-1534869569.07</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+<h1> Cálculo de probabilidades utilizando particionaes </h1>
+
+    <p> Dada la siguiente información,
+    <div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr class ="row-a">
+<td>----Evento----</td>
+<td>Cardinalidad</td>
+</tr>
+<tr class ="row-b">
+<td>\((A-B)'\)</td>
+<td>\(252\)</td>
+</tr>
+<tr class ="row-a">
+<td>\(A \cap B\)</td>
+<td>\(96\)</td>
+</tr>
+<tr class ="row-b">
+<td>\(A\)</td>
+<td>\(170\)</td>
+</tr>
+<tr class ="row-a">
+<td>\(A\triangle B\)</td>
+<td>\(164\)</td>
+</tr>
+</tbody>
+</table>
+</div>
+    calcule los elementos en cada conjunto </p>
+    <p> <div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr class ="row-a">
+<td>----Evento----</td>
+<td>Cardinalidad</td>
+</tr>
+<tr class ="row-b">
+<td>\((B-A)'\)</td>
+<td>{1:NM:=236}</td>
+</tr>
+<tr class ="row-a">
+<td>\(B'\)</td>
+<td>{1:NM:=140}</td>
+</tr>
+<tr class ="row-b">
+<td>\(B-A\)</td>
+<td>{1:NM:=90}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A \cup B\)</td>
+<td>{1:NM:=260}</td>
+</tr>
+<tr class ="row-b">
+<td>\(A'\)</td>
+<td>{1:NM:=156}</td>
+</tr>
+<tr class ="row-a">
+<td>\((A\triangle B)'\)</td>
+<td>{1:NM:=162}</td>
+</tr>
+<tr class ="row-b">
+<td>\(S\)</td>
+<td>{1:NM:=326}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A-B\)</td>
+<td>{1:NM:=74}</td>
+</tr>
+<tr class ="row-b">
+<td>\(A' \cup B'\)</td>
+<td>{1:NM:=230}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A'\cap B'\)</td>
+<td>{1:NM:=66}</td>
+</tr>
+<tr class ="row-b">
+<td>\(B\)</td>
+<td>{1:NM:=186}</td>
+</tr>
+<tr class ="row-a">
+<td>\(\emptyset\)</td>
+<td>{1:NM:=0}</td>
+</tr>
+</tbody>
+</table>
+</div> </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Plantee un sistema de cuatro ecuaciones en términos de la partición elemental \( A\cap B, A\cap B', A'\cap B, A'\cap B' \).
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>PEP102_particiones-1534869569.07</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+<h1> Cálculo de probabilidades utilizando particionaes </h1>
+
+    <p> Dada la siguiente información,
+    <div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr class ="row-a">
+<td>----Evento----</td>
+<td>Cardinalidad</td>
+</tr>
+<tr class ="row-b">
+<td>\(B-A\)</td>
+<td>\(67\)</td>
+</tr>
+<tr class ="row-a">
+<td>\(B'\)</td>
+<td>\(96\)</td>
+</tr>
+<tr class ="row-b">
+<td>\(S\)</td>
+<td>\(163\)</td>
+</tr>
+<tr class ="row-a">
+<td>\((A-B)'\)</td>
+<td>\(148\)</td>
+</tr>
+</tbody>
+</table>
+</div>
+    calcule los elementos en cada conjunto </p>
+    <p> <div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr class ="row-a">
+<td>----Evento----</td>
+<td>Cardinalidad</td>
+</tr>
+<tr class ="row-b">
+<td>\(A' \cup B'\)</td>
+<td>{1:NM:=163}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A \cup B\)</td>
+<td>{1:NM:=82}</td>
+</tr>
+<tr class ="row-b">
+<td>\((A\triangle B)'\)</td>
+<td>{1:NM:=81}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A\)</td>
+<td>{1:NM:=15}</td>
+</tr>
+<tr class ="row-b">
+<td>\(A'\cap B'\)</td>
+<td>{1:NM:=81}</td>
+</tr>
+<tr class ="row-a">
+<td>\((B-A)'\)</td>
+<td>{1:NM:=96}</td>
+</tr>
+<tr class ="row-b">
+<td>\(\emptyset\)</td>
+<td>{1:NM:=0}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A\triangle B\)</td>
+<td>{1:NM:=82}</td>
+</tr>
+<tr class ="row-b">
+<td>\(B\)</td>
+<td>{1:NM:=67}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A'\)</td>
+<td>{1:NM:=148}</td>
+</tr>
+<tr class ="row-b">
+<td>\(A \cap B\)</td>
+<td>{1:NM:=0}</td>
+</tr>
+<tr class ="row-a">
+<td>\(A-B\)</td>
+<td>{1:NM:=15}</td>
+</tr>
+</tbody>
+</table>
+</div> </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Plantee un sistema de cuatro ecuaciones en términos de la partición elemental \( A\cap B, A\cap B', A'\cap B, A'\cap B' \).
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

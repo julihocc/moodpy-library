@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 001  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 001 INFOTEC_20-2_MCD-301 2020-08-30 01:00:17.664556</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Matemáticas Para La Ciencia De Datos </h1> 
+ <h2> Ecuaciones En Diferencias De Primer Orden </h2>
+    <p>
+    Resuelve la siguiente relación de recurrencia:
+    $$x_{n+1}=-4x_{n}+(3)$$
+    con condición inicial \(x_0=9\),
+    y evalúa en \(n=6\).
+    </p>
+    <p>
+    \(x_{6}=\){1:NM:=34407}
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 002  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 002 INFOTEC_20-2_MCD-301 2020-08-30 01:00:17.664556</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Matemáticas Para La Ciencia De Datos </h1> 
+ <h2> Ecuaciones En Diferencias De Primer Orden </h2>
+    <p>
+    Resuelve la siguiente relación de recurrencia:
+    $$x_{n+1}=3x_{n}+(-4)$$
+    con condición inicial \(x_0=9\),
+    y evalúa en \(n=10\).
+    </p>
+    <p>
+    \(x_{10}=\){1:NM:=413345}
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 003  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 003 INFOTEC_20-2_MCD-301 2020-08-30 01:00:17.664556</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Matemáticas Para La Ciencia De Datos </h1> 
+ <h2> Ecuaciones En Diferencias De Primer Orden </h2>
+    <p>
+    Resuelve la siguiente relación de recurrencia:
+    $$x_{n+1}=-5x_{n}+(4)$$
+    con condición inicial \(x_0=5\),
+    y evalúa en \(n=7\).
+    </p>
+    <p>
+    \(x_{7}=\){1:NM:=-338541}
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>
+
+
+

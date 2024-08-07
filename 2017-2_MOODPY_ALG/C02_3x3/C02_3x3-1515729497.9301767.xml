@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>C02_3x3-1515729497.9307816</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1> Sistemas de ecuaciones \(3 \times 3\) </h1> 
+    <p> Resuelva el siguiente sistema de ecuaciones:
+    
+$$13 x_{0} + 6 x_{1} + 7 x_{2} + 11=0$$
+$$15 x_{0} + 2 x_{1} + 14 x_{2} - 10=0$$
+$$7 x_{0} + 12 x_{1} - 16 x_{2} + 17=0$$
+
+    <p>
+    <em> <ul> <li> Simplifique las fracciones. </li>     <li> Si la fracción representa entero, utilice el denominador igual con uno. </li>     <li> Si la fracción es negativa, indique el signo en el numerador. </li>     </ul></em>
+    
+        <pre>
+        x0 = {1:NM:=281}/{1:NM:=59}
+        </pre>
+        
+        <pre>
+        x1 = {1:NM:=-4979}/{1:NM:=590}
+        </pre>
+        
+        <pre>
+        x2 = {1:NM:=-939}/{1:NM:=295}
+        </pre>
+        </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>C02_3x3-1515729497.930796</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1> Sistemas de ecuaciones \(3 \times 3\) </h1> 
+    <p> Resuelva el siguiente sistema de ecuaciones:
+    
+$$- 18 x_{0} + 5 x_{1} + 6 x_{2} - 18=0$$
+$$- 17 x_{0} + 16 x_{1} + 19 x_{2} + 13=0$$
+$$12 x_{0} + 7 x_{1} - 11 x_{2} + 16=0$$
+
+    <p>
+    <em> <ul> <li> Simplifique las fracciones. </li>     <li> Si la fracción representa entero, utilice el denominador igual con uno. </li>     <li> Si la fracción es negativa, indique el signo en el numerador. </li>     </ul></em>
+    
+        <pre>
+        x0 = {1:NM:=-6807}/{1:NM:=3901}
+        </pre>
+        
+        <pre>
+        x1 = {1:NM:=-4740}/{1:NM:=3901}
+        </pre>
+        
+        <pre>
+        x2 = {1:NM:=-4768}/{1:NM:=3901}
+        </pre>
+        </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>C02_3x3-1515729497.9308038</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1> Sistemas de ecuaciones \(3 \times 3\) </h1> 
+    <p> Resuelva el siguiente sistema de ecuaciones:
+    
+$$13 x_{0} + 14 x_{1} + 10 x_{2} - 14=0$$
+$$- 10 x_{0} + 18 x_{1} - 9 x_{2} + 8=0$$
+$$- 13 x_{0} - 9 x_{1} + 16 x_{2} - 19=0$$
+
+    <p>
+    <em> <ul> <li> Simplifique las fracciones. </li>     <li> Si la fracción representa entero, utilice el denominador igual con uno. </li>     <li> Si la fracción es negativa, indique el signo en el numerador. </li>     </ul></em>
+    
+        <pre>
+        x0 = {1:NM:=-404}/{1:NM:=9809}
+        </pre>
+        
+        <pre>
+        x1 = {1:NM:=1497}/{1:NM:=9809}
+        </pre>
+        
+        <pre>
+        x2 = {1:NM:=12162}/{1:NM:=9809}
+        </pre>
+        </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

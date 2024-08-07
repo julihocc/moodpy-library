@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P101_edo_separable-1519072497.3</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> Ecuaciones diferenciales ordinarias </h1>
+    <h2> Caso separable </h2>
+    <p>
+    Encuentre la solución \(g(x,y)=-69\) de la siguiente ecuación diferencial separable 
+    $$\frac{ dy }{ dx }= \frac{8 \, {\left(2 \, x - 1\right)}}{10 \, y + 7}$$ 
+    con condición inicial \(x_0=5,y_0=-5\). 
+    </p>
+    <h3> Control </h3>
+    <em> Verifique su respuesta evaluando en los puntos dados.</em>
+    <p><ul>
+    <li> \(g(0,-7)=\){1:NM:=197.0:5.91} </li>
+    <li> \(g(3,7)=\){1:NM:=247.0:7.41} </li>
+    </ul></p>
+    
+]]>
+</text></questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P101_edo_separable-1519072497.3</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> Ecuaciones diferenciales ordinarias </h1>
+    <h2> Caso separable </h2>
+    <p>
+    Encuentre la solución \(g(x,y)=514\) de la siguiente ecuación diferencial separable 
+    $$\frac{ dy }{ dx }= \frac{10 \, x - 9}{16 \, y}$$ 
+    con condición inicial \(x_0=-10,y_0=3\). 
+    </p>
+    <h3> Control </h3>
+    <em> Verifique su respuesta evaluando en los puntos dados.</em>
+    <p><ul>
+    <li> \(g(5,-5)=\){1:NM:=-124.0:-3.7199999999999998} </li>
+    <li> \(g(1,-5)=\){1:NM:=-208.0:-6.24} </li>
+    </ul></p>
+    
+]]>
+</text></questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P101_edo_separable-1519072497.3</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> Ecuaciones diferenciales ordinarias </h1>
+    <h2> Caso separable </h2>
+    <p>
+    Encuentre la solución \(g(x,y)=-268\) de la siguiente ecuación diferencial separable 
+    $$\frac{ dy }{ dx }= \frac{7 \, x + 3}{y + 4}$$ 
+    con condición inicial \(x_0=6,y_0=2\). 
+    </p>
+    <h3> Control </h3>
+    <em> Verifique su respuesta evaluando en los puntos dados.</em>
+    <p><ul>
+    <li> \(g(-8,9)=\){1:NM:=-247.0:-7.41} </li>
+    <li> \(g(-3,-1)=\){1:NM:=-52.0:-1.56} </li>
+    </ul></p>
+    
+]]>
+</text></questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P101_edo_separable-1519072497.3</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> Ecuaciones diferenciales ordinarias </h1>
+    <h2> Caso separable </h2>
+    <p>
+    Encuentre la solución \(g(x,y)=-12\) de la siguiente ecuación diferencial separable 
+    $$\frac{ dy }{ dx }= -\frac{2 \, x - 3}{8 \, {\left(y - 1\right)}}$$ 
+    con condición inicial \(x_0=1,y_0=0\). 
+    </p>
+    <h3> Control </h3>
+    <em> Verifique su respuesta evaluando en los puntos dados.</em>
+    <p><ul>
+    <li> \(g(7,4)=\){1:NM:=-74.0:-2.2199999999999998} </li>
+    <li> \(g(-9,1)=\){1:NM:=-118.0:-3.54} </li>
+    </ul></p>
+    
+]]>
+</text></questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P101_edo_separable-1519072497.3</text>
+</name>
+<questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> Ecuaciones diferenciales ordinarias </h1>
+    <h2> Caso separable </h2>
+    <p>
+    Encuentre la solución \(g(x,y)=52\) de la siguiente ecuación diferencial separable 
+    $$\frac{ dy }{ dx }= \frac{10 \, x + 3}{4 \, y + 1}$$ 
+    con condición inicial \(x_0=-2,y_0=-5\). 
+    </p>
+    <h3> Control </h3>
+    <em> Verifique su respuesta evaluando en los puntos dados.</em>
+    <p><ul>
+    <li> \(g(4,5)=\){1:NM:=-84.0:-2.52} </li>
+    <li> \(g(-10,2)=\){1:NM:=-930.0:-27.9} </li>
+    </ul></p>
+    
+]]>
+</text></questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

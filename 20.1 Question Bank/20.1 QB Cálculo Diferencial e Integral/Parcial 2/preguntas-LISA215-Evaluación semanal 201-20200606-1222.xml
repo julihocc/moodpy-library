@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top</text>
+
+    </category>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Por defecto en LISA215</text>
+
+    </category>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Por defecto en LISA215/Parcial 2</text>
+
+    </category>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Por defecto en LISA215/Parcial 2/Evaluación semanal 201</text>
+
+    </category>
+  </question>
+
+<!-- question: 120833  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=x^{3} - 6 \, x^{2} + 9 \, x + 1$$ en el intervalo \([2,4]\)
+    <pre>
+    Valor mínimo: {1:NM:=1.0:0.001}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=5.0:0.005}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120836  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=x \sqrt{-x + 1}$$ en el intervalo \([-1,1]\)
+    <pre>
+    Valor mínimo: {1:NM:=-1.41421356237:-0.00141421356237}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=0.38490017946:0.00038490017946}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120839  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=\frac{3 \, x - 4}{x^{2} + 1}$$ en el intervalo \([-2,2]\)
+    <pre>
+    Valor mínimo: {1:NM:=-4.5:-0.0045}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=0.4:0.0004}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120842  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=\cos\left(x\right)^{2} + \sin\left(x\right)$$ en el intervalo \([0,pi]\)
+    <pre>
+    Valor mínimo: {1:NM:=1.0:0.001}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=1.25:0.00125}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120845  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=x^{2} + 4 \, x + 5$$ en el intervalo \([-3,1]\)
+    <pre>
+    Valor mínimo: {1:NM:=1.0:0.001}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=10.0:0.01}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120848  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=x^{3} + 3 \, x^{2} + 1$$ en el intervalo \([-3,2]\)
+    <pre>
+    Valor mínimo: {1:NM:=1.0:0.001}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=21.0:0.021}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120851  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=\frac{1}{3} \, x^{3} - 9 \, x + 2$$ en el intervalo \([0,2]\)
+    <pre>
+    Valor mínimo: {1:NM:=-13.3333333333:-0.0133333333333}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=2.0:0.002}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120854  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=x^{5} - 5 \, x^{4} + 1$$ en el intervalo \([0,5]\)
+    <pre>
+    Valor mínimo: {1:NM:=-255.0:-0.255}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=1.0:0.001}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120857  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=3 \, x^{5} - 5 \, x^{3}$$ en el intervalo \([-2,0]\)
+    <pre>
+    Valor mínimo: {1:NM:=-56.0:-0.056}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=2.0:0.002}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120860  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=10 \, x^{6} + 24 \, x^{5} + 15 \, x^{4} + 3$$ en el intervalo \([-1,1]\)
+    <pre>
+    Valor mínimo: {1:NM:=3.0:0.003}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=52.0:0.052}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120863  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)={\left(x^{2} - 4\right)}^{5}$$ en el intervalo \([-3,2]\)
+    <pre>
+    Valor mínimo: {1:NM:=-1024.0:-1.024}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=3125.0:3.125}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120866  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=\frac{x^{2}}{x - 1}$$ en el intervalo \([-2,-1/2]\)
+    <pre>
+    Valor mínimo: {1:NM:=-1.33333333333:-0.00133333333333}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=-0.166666666667:-0.000166666666667}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120869  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=x + \frac{1}{x}$$ en el intervalo \([1/2,3]\)
+    <pre>
+    Valor mínimo: {1:NM:=2.0:0.002}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=3.33333333333:0.00333333333333}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120872  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=\frac{1}{x^{2} - 9}$$ en el intervalo \([0,2]\)
+    <pre>
+    Valor mínimo: {1:NM:=-0.2:-0.0002}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=-0.111111111111:-0.000111111111111}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120809  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=-\frac{4 \, x^{6}}{{\left(x^{4} + 1\right)}^{\frac{3}{2}}} + \frac{6 \, x^{2}}{\sqrt{x^{4} + 1}}$$ en el intervalo \([0,2]\)
+    <pre>
+    Valor mínimo: {1:NM:=0:0.00001}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=2.82842712475:0.00282842712475}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120812  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=2 \, x^{3} - 3 \, x^{2} - 12 \, x + 1$$ en el intervalo \([-2,3]\)
+    <pre>
+    Valor mínimo: {1:NM:=-19.0:-0.019}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=8.0:0.008}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120815  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=\frac{x}{x^{2} - x + 1}$$ en el intervalo \([0,3]\)
+    <pre>
+    Valor mínimo: {1:NM:=0:0.00001}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=1.0:0.001}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120818  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=\sqrt{-x^{2} + 4} x$$ en el intervalo \([-1,2]\)
+    <pre>
+    Valor mínimo: {1:NM:=-1.73205080757:-0.00173205080757}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=2.0:0.002}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120821  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=2 \, \cos\left(x\right) + \sin\left(2 \, x\right)$$ en el intervalo \([0,1/2*pi]\)
+    <pre>
+    Valor mínimo: {1:NM:=0:0.00001}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=2.59807621135:0.00259807621135}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120824  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=x e^{\left(-\frac{1}{8} \, x^{2}\right)}$$ en el intervalo \([-1,4]\)
+    <pre>
+    Valor mínimo: {1:NM:=-0.882496902585:-0.000882496902585}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=1.21306131943:0.00121306131943}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120827  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=\log\left(x^{2} + x + 1\right)$$ en el intervalo \([-1,1]\)
+    <pre>
+    Valor mínimo: {1:NM:=-0.287682072452:-0.000287682072452}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=1.09861228867:0.00109861228867}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 120830  -->
+  <question type="cloze">
+    <name>
+      <text>MOODPY_CDI_201_OptimizacióN-1584920197.75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h1> OptimizacióN </h1>
+    Encuentra los valores máximo y mínimo de la función 
+    $$f(x)=x - 2 \, \arctan\left(x\right)$$ en el intervalo \([0,4]\)
+    <pre>
+    Valor mínimo: {1:NM:=-0.570796326795:-0.000570796326795}
+    </pre>
+    <pre>
+    Valor máximo: {1:NM:=1.34836467266:0.00134836467266}
+    </pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.5000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+</quiz>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 001  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 001 MATEMÁTICAS APLICADAS 101 Ecuación De La Recta 2020-08-08 20:57:10.711092</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Ecuación De La Recta </h1> 
+    Encuentra la ecuación de la recta que pasa por los puntos \(x_0=-15\)
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 002  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 002 MATEMÁTICAS APLICADAS 101 Ecuación De La Recta 2020-08-08 20:57:10.711092</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Ecuación De La Recta </h1> 
+    Encuentra la ecuación de la recta que pasa por los puntos \(x_0=-11\)
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 003  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 003 MATEMÁTICAS APLICADAS 101 Ecuación De La Recta 2020-08-08 20:57:10.711092</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Ecuación De La Recta </h1> 
+    Encuentra la ecuación de la recta que pasa por los puntos \(x_0=16\)
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 004  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 004 MATEMÁTICAS APLICADAS 101 Ecuación De La Recta 2020-08-08 20:57:10.711092</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Ecuación De La Recta </h1> 
+    Encuentra la ecuación de la recta que pasa por los puntos \(x_0=-5\)
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 005  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 005 MATEMÁTICAS APLICADAS 101 Ecuación De La Recta 2020-08-08 20:57:10.711092</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Ecuación De La Recta </h1> 
+    Encuentra la ecuación de la recta que pasa por los puntos \(x_0=4\)
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>
+
+
+

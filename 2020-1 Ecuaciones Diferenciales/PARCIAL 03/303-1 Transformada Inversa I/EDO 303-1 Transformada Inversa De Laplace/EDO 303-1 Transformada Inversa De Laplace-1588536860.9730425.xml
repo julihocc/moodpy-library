@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>EDO 303-1 Transformada Inversa De Laplace-1588536860.9850123</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Transformada Inversa De Laplace </h1>
+    Encuentra la transformada inversa \(f(x)\) de $$F(s)=\frac{-6.0 \, s^{3} + 172.0 \, s^{2} - 620.0 \, s + 8000.0}{1.0 \, s^{4} - 4.0 \, s^{3} + 104.0 \, s^{2} - 200.0 \, s + 2500.0}$$ y evalúa en el punto dado:
+    <p>
+    \(f(2.19)=\){1:NM:=122.368912105249:0.122368912105249}\)
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La transformada inversa está dada por $$f(x)={\left(-6.0 \, \cos\left(7 \, x\right) + 22.0 \, \sin\left(7 \, x\right)\right)} e^{\left(1.0 \, x\right)}$$
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>EDO 303-1 Transformada Inversa De Laplace-1588536860.9850264</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Transformada Inversa De Laplace </h1>
+    Encuentra la transformada inversa \(f(x)\) de $$F(s)=\frac{4.0 \, s^{3} - 120.0 \, s^{2} + 804.0 \, s - 16240.0}{1.0 \, s^{4} - 4.0 \, s^{3} + 294.0 \, s^{2} - 580.0 \, s + 21025.0}$$ y evalúa en el punto dado:
+    <p>
+    \(f(1.18)=\){1:NM:=-29.5789366173229:-0.0295789366173229}\)
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La transformada inversa está dada por $$f(x)={\left(4.0 \, \cos\left(12 \, x\right) - 9.0 \, \sin\left(12 \, x\right)\right)} e^{\left(1.0 \, x\right)}$$
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>EDO 303-1 Transformada Inversa De Laplace-1588536860.9850318</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Transformada Inversa De Laplace </h1>
+    Encuentra la transformada inversa \(f(x)\) de $$F(s)=\frac{-6.0 \, s^{3} - 26.0 \, s^{2} - 418.0 \, s - 910.0}{1.0 \, s^{4} + 4.0 \, s^{3} + 134.0 \, s^{2} + 260.0 \, s + 4225.0}$$ y evalúa en el punto dado:
+    <p>
+    \(f(-0.86)=\){1:NM:=-10.3997248939623:-0.0103997248939623}\)
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La transformada inversa está dada por $$f(x)={\left(-6.0 \, \cos\left(8 \, x\right) - 1.0 \, \sin\left(8 \, x\right)\right)} e^{\left(-1.0 \, x\right)}$$
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>EDO 303-1 Transformada Inversa De Laplace-1588536860.9850373</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Transformada Inversa De Laplace </h1>
+    Encuentra la transformada inversa \(f(x)\) de $$F(s)=\frac{-17.0 \, s^{3} - 9.0 \, s^{2} - 3299.0 \, s + 4925.0}{1.0 \, s^{4} + 4.0 \, s^{3} + 398.0 \, s^{2} + 788.0 \, s + 38809.0}$$ y evalúa en el punto dado:
+    <p>
+    \(f(-0.01)=\){1:NM:=-17.4256897899934:-0.0174256897899934}\)
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La transformada inversa está dada por $$f(x)={\left(-17.0 \, \cos\left(14 \, x\right) + 3.0 \, \sin\left(14 \, x\right)\right)} e^{\left(-1.0 \, x\right)}$$
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>EDO 303-1 Transformada Inversa De Laplace-1588536860.985042</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Transformada Inversa De Laplace </h1>
+    Encuentra la transformada inversa \(f(x)\) de $$F(s)=\frac{4.0 \, s^{3} + 36.0 \, s^{2} - 48.0 \, s + 2080.0}{1.0 \, s^{4} - 8.0 \, s^{3} + 96.0 \, s^{2} - 320.0 \, s + 1600.0}$$ y evalúa en el punto dado:
+    <p>
+    \(f(2.24)=\){1:NM:=903.067339782734:0.903067339782734}\)
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La transformada inversa está dada por $$f(x)={\left(4.0 \, \cos\left(6 \, x\right) + 10.0 \, \sin\left(6 \, x\right)\right)} e^{\left(2.0 \, x\right)}$$
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

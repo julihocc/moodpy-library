@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 001  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 001 INFOTEC_20-2_MCD-303 2020-09-02 00:13:42.055290</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Matemáticas Para La Ciencia De Datos </h1> 
+ <h2> Ecuaciones En Diferencias De Segundo Orden </h2>
+ <h3> Raíces complejas </h3>
+    <p>
+    Resuelve la siguiente relación de recurrencia:
+    $$x_{n+2}=(18)x_{n+1}+(-93)x_{n}$$
+    con condiciones iniciales \(x_0=-0.13,x_1=-0.14\),
+    y evalúa en \(n=10\).
+    </p>
+    <p>
+    \(x_{10}=\){1:NM:=-271278728.9100013:271278.7289100013}
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 002  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 002 INFOTEC_20-2_MCD-303 2020-09-02 00:13:42.055290</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Matemáticas Para La Ciencia De Datos </h1> 
+ <h2> Ecuaciones En Diferencias De Segundo Orden </h2>
+ <h3> Raíces complejas </h3>
+    <p>
+    Resuelve la siguiente relación de recurrencia:
+    $$x_{n+2}=(-12)x_{n+1}+(-49)x_{n}$$
+    con condiciones iniciales \(x_0=0.65,x_1=0.21\),
+    y evalúa en \(n=10\).
+    </p>
+    <p>
+    \(x_{10}=\){1:NM:=364653303.0700002:364653.3030700002}
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 003  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 003 INFOTEC_20-2_MCD-303 2020-09-02 00:13:42.055290</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Matemáticas Para La Ciencia De Datos </h1> 
+ <h2> Ecuaciones En Diferencias De Segundo Orden </h2>
+ <h3> Raíces complejas </h3>
+    <p>
+    Resuelve la siguiente relación de recurrencia:
+    $$x_{n+2}=(-32)x_{n+1}+(-268)x_{n}$$
+    con condiciones iniciales \(x_0=-0.61,x_1=0.14\),
+    y evalúa en \(n=11\).
+    </p>
+    <p>
+    \(x_{11}=\){1:NM:=-54578358143324.13:54578358143.324135}
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>
+
+
+

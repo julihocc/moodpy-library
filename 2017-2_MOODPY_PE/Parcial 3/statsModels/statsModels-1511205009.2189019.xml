@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>statsModels-1511205009.2190938</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Utilizando el paquete statsmodels.formula.api, calcule los coeficientes del modelo de regresión lineal </p>
+$$ Y \sim X1 + X2 $$ 
+<p> y sus correspondientes valores-p con los siguientes datos. Después calcule los estadísiticos indicados. </p> 
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>X1</th>
+      <th>X2</th>
+      <th>Y</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>-6.121124</td>
+      <td>57.044734</td>
+      <td>4821.989847</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>-4.895574</td>
+      <td>56.559885</td>
+      <td>4857.291496</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>-4.519390</td>
+      <td>61.412954</td>
+      <td>5330.248826</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>-9.792333</td>
+      <td>61.134431</td>
+      <td>4949.661612</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>-0.440920</td>
+      <td>49.352976</td>
+      <td>4504.677247</td>
+    </tr>
+  </tbody>
+</table></p>
+<p><span><h1> Coeficientes del modelo lineal </h1>
+$$\alpha$$ = {1:NM:=25.3668885206:0.761006655618}
+<p> valor-p={1:NM:=0.434488461314:0.0130346538394}</p>
+<span style="white-space: nowrap"> $$\beta_{X_1}$$ = {1:NM:=67.4843115559:2.02452934668}</span> 
+<p> valor-p={1:NM:=0.000120129647889:3.60388943668e-06}</p>
+$$\beta_{X_2}$$ = {1:NM:=91.333120554:2.73999361662}
+<p> valor-p={1:NM:=3.10995711496e-05:9.32987134487e-07}</p>
+<h1> Estadísticos </h1>
+$$\texttt{SSR}$${1:NM:=351491.304138:10544.7391241}
+$$\texttt{SST}$${1:NM:=351508.917425:10545.2675228}
+$$\texttt{SSD}$${1:NM:=17.6132874917:0.52839862475}
+$$R^2$${1:NM:=0.999949892345:0.0299984967704}
+$$\texttt{RSE}$${1:NM:=2.9675989867:0.0890279696009}
+$$\texttt{RSE}(\%)$${1:NM:=0.0606526911858:0.00181958073557}\%
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>statsModels-1511205009.2191103</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Utilizando el paquete statsmodels.formula.api, calcule los coeficientes del modelo de regresión lineal </p>
+$$ Y \sim X1 + X2 $$ 
+<p> y sus correspondientes valores-p con los siguientes datos. Después calcule los estadísiticos indicados. </p> 
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>X1</th>
+      <th>X2</th>
+      <th>Y</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>79.975523</td>
+      <td>-52.387310</td>
+      <td>-3678.956656</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>71.364241</td>
+      <td>-38.005413</td>
+      <td>-2989.407456</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>72.816543</td>
+      <td>-51.799228</td>
+      <td>-3484.793339</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>80.545168</td>
+      <td>-53.860391</td>
+      <td>-3744.207740</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>79.169919</td>
+      <td>-43.356697</td>
+      <td>-3371.319756</td>
+    </tr>
+  </tbody>
+</table></p>
+<p><span><h1> Coeficientes del modelo lineal </h1>
+$$\alpha$$ = {1:NM:=66.1401547878:1.98420464363}
+<p> valor-p={1:NM:=0.31636954591:0.00949108637731}</p>
+<span style="white-space: nowrap"> $$\beta_{X_1}$$ = {1:NM:=-25.4206387931:-0.762619163792}</span> 
+<p> valor-p={1:NM:=0.000890118081944:2.67035424583e-05}</p>
+$$\beta_{X_2}$$ = {1:NM:=32.7520201794:0.982560605382}
+<p> valor-p={1:NM:=0.000212936300775:6.38808902326e-06}</p>
+<h1> Estadísticos </h1>
+$$\texttt{SSR}$${1:NM:=358394.565491:10751.8369647}
+$$\texttt{SST}$${1:NM:=358456.167479:10753.6850244}
+$$\texttt{SSD}$${1:NM:=61.6019879382:1.84805963814}
+$$R^2$${1:NM:=0.999828146386:0.0299948443916}
+$$\texttt{RSE}$${1:NM:=5.54986431988:0.166495929596}
+$$\texttt{RSE}(\%)$${1:NM:=-0.160691573695:-0.00482074721084}\%
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>statsModels-1511205009.2191215</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Utilizando el paquete statsmodels.formula.api, calcule los coeficientes del modelo de regresión lineal </p>
+$$ Y \sim X1 + X2 $$ 
+<p> y sus correspondientes valores-p con los siguientes datos. Después calcule los estadísiticos indicados. </p> 
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>X1</th>
+      <th>X2</th>
+      <th>Y</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>-60.455666</td>
+      <td>-77.736349</td>
+      <td>1160.984058</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>-62.578054</td>
+      <td>-85.758608</td>
+      <td>1077.774681</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>-67.189971</td>
+      <td>-87.203276</td>
+      <td>1284.547939</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>-81.145474</td>
+      <td>-90.750577</td>
+      <td>1903.667300</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>-56.484675</td>
+      <td>-81.012946</td>
+      <td>907.572237</td>
+    </tr>
+  </tbody>
+</table></p>
+<p><span><h1> Coeficientes del modelo lineal </h1>
+$$\alpha$$ = {1:NM:=-65.8097681353:-1.97429304406}
+<p> valor-p={1:NM:=0.682550909943:0.0204765272983}</p>
+<span style="white-space: nowrap"> $$\beta_{X_1}$$ = {1:NM:=-49.8197099845:-1.49459129954}</span> 
+<p> valor-p={1:NM:=0.000670435269191:2.01130580757e-05}</p>
+$$\beta_{X_2}$$ = {1:NM:=22.889617833:0.686688534989}
+<p> valor-p={1:NM:=0.0107220741374:0.000321662224123}</p>
+<h1> Estadísticos </h1>
+$$\texttt{SSR}$${1:NM:=581527.040613:17445.8112184}
+$$\texttt{SST}$${1:NM:=581887.058631:17456.6117589}
+$$\texttt{SSD}$${1:NM:=360.018017373:10.8005405212}
+$$R^2$${1:NM:=0.999381292277:0.0299814387683}
+$$\texttt{RSE}$${1:NM:=13.4167435947:0.402502307841}
+$$\texttt{RSE}(\%)$${1:NM:=1.05901379028:0.0317704137085}\%
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

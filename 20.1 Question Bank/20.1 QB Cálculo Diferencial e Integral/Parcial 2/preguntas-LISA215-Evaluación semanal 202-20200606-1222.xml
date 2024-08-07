@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top</text>
+
+    </category>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Por defecto en LISA215</text>
+
+    </category>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Por defecto en LISA215/Parcial 2</text>
+
+    </category>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Por defecto en LISA215/Parcial 2/Evaluación semanal 202</text>
+
+    </category>
+  </question>
+
+<!-- question: 136857  -->
+  <question type="cloze">
+    <name>
+      <text>Thomas 4.5.1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>¿Cuál es el perímetro más pequeño posible para que un rectángulo, cuya área es \(16in^2\), y cuáles son sus dimensiones?</p><p>Ancho: {1:NM:=4}in</p><p>Largo: {1:NM:=4}in</p><p>Perímetro: {1:NM:=16}in</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 136861  -->
+  <question type="cloze">
+    <name>
+      <text>Thomas 4.5.11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: 14.44px;">Está diseñando un póster rectangular para contener 50 pulgadas cuadradas de impresión con un margen de 4 pulgadas en la parte superior e inferior y un margen de 2 pulgadas en cada lado. ¿Qué dimensiones generales minimizarán la cantidad de papel utilizado?</span><br></p><p></p><ul><li>Medida más grande: {1:NM:=18:0.1} in</li><li>Medida más pequeña: {1:NM:=9:0.1} in</li></ul><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 136864  -->
+  <question type="cloze">
+    <name>
+      <text>Thomas 4.5.13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Dos lados de un triángulo tienen medidas \(a\) y \(b\), y el ángulo entre estos es \(\theta\). ¿Qué valor de \(\theta\) (medido en radianes) maximiza el área del triángulo?</p><p><br></p><p>\(\theta=\){1:NM:=1.57079:0.01}</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 136866  -->
+  <question type="cloze">
+    <name>
+      <text>Thomas 4.5.3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><img src="@@PLUGINFILE@@/thomas040503.png" alt="" width="532" height="380" role="presentation" class="img-responsive atto_image_button_text-top"><br></p><p>La figura muestra un rectángulo inscrito en un triángulo rectángulo isósceles, cuya hipotenusa es de 2 unidades de longitud.</p><p><ol><li>Expresa la coordenada \(y\) de \(P\) en términos de \(x\). <i>Sugerencia: Escribe una ecuación para la línea \(AB\).</i></li><li><span>Expresa el área del rectángulo en términos de \(x\).</span></li><li><span>¿Cuál es el área más grande que el rectángulo pueda tener, y cuáles serían sus dimensiones?</span></li></ol><p><ul><li>Base: {1:NM:=1} \(u\)</li><li>Altura: {1:NM:=0.5} \(u\)</li><li>Área: {1:NM:=0.5} \(u^2\)</li></ul></p><p><br></p></p>]]></text>
+<file name="thomas040503.png" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p><p><p><br></p></p></p>]]></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 136870  -->
+  <question type="cloze">
+    <name>
+      <text>Thomas 4.5.5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Estás planeando hacer una caja rectangular abierta a partir de una pieza de cartón, con dimensiones \(8in\) por \(15in\), cortando cuadrados iguales de las esquinas y doblando los lados hacia arriba.&nbsp;</p><p>¿Cuál es el máximo volumen que puedes conseguir? {1:NM:=90.74074074:0.01} \(in^2\)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 136872  -->
+  <question type="cloze">
+    <name>
+      <text>Thomas 4.5.7</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: 14.44px;">Una parcela rectangular de tierras de cultivo será&nbsp;</span>limitado por un lado por un río y por los otros tres lados por una cerca eléctrica monocatenaria. Con 800 m de cable a su disposición, ¿cuál es el área más grande que puede encerrar y cuáles son sus dimensiones?</p><p></p><ul><li>Área: {1:NM:=80000:1}</li><li>Lado más largo: {1:NM:=400:1}</li><li>Lado más corto: {1:NM:=200:1}</li></ul><p><br></p><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 136876  -->
+  <question type="cloze">
+    <name>
+      <text>Thomas 4.5.9</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: 14.44px;">Su herrería se han contratado para el diseño y la construcción de un tanque de retención rectangular de acero de 500 pies cúbicos, de base cuadrada, de tapa abierta, para una empresa papelera. El tanque se fabricará soldando placas delgadas de acero inoxidable a lo largo de sus bordes. Como ingeniero de producción, su trabajo es encontrar las dimensiones de la base y la altura que harán que el tanque pese lo menos posible. ¿Qué dimensiones le dices a la tienda que use?</span><br></p><p><ul><li>Largo de la base: {1:NM:=10:0.1}</li><li>Ancho de la base: {1:NM:=10:0.1}</li><li>Altura: {1:NM:=5:0.1}</li></ul></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+</quiz>

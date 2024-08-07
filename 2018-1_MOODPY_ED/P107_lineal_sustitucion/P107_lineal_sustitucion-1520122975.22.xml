@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P107_lineal_sustitucion-1520122975.22</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> Ecuaciones diferenciales ordinarias </h1>
+    <h2> Ecuación lineal con integración por sustitución </h2>
+    <p>
+    Encuentre la solución \(y(x)\) de la siguiente ecuación diferencial 
+    $$y'+\left( 7 \right)y=\sin\left(-8 \, x\right)$$ 
+    con condición inicial \(x_0=0,y_0=-4\). 
+    </p>
+    <h3> Control </h3>
+    <p> Verifique su respuesta evaluando en el punto dado:</p>
+    <p>
+    \(y(0.0762)=\){1:NM:=-2.36538080691784:-0.0709614242075351}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La solución del problema de valor inicial está dada por 
+    $$ y= \frac{8}{113} \, \cos\left(-8 \, x\right) - \frac{460}{113} \, e^{\left(-7 \, x\right)} + \frac{7}{113} \, \sin\left(-8 \, x\right). $$ </em>
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P107_lineal_sustitucion-1520122975.22</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> Ecuaciones diferenciales ordinarias </h1>
+    <h2> Ecuación lineal con integración por sustitución </h2>
+    <p>
+    Encuentre la solución \(y(x)\) de la siguiente ecuación diferencial 
+    $$y'+\left( 7 \right)y=2 \, \sin\left(-5 \, x\right)$$ 
+    con condición inicial \(x_0=0,y_0=6\). 
+    </p>
+    <h3> Control </h3>
+    <p> Verifique su respuesta evaluando en el punto dado:</p>
+    <p>
+    \(y(0.0048)=\){1:NM:=5.80163534841931:0.174049060452579}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La solución del problema de valor inicial está dada por 
+    $$ y= \frac{5}{37} \, \cos\left(-5 \, x\right) + \frac{217}{37} \, e^{\left(-7 \, x\right)} + \frac{7}{37} \, \sin\left(-5 \, x\right). $$ </em>
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P107_lineal_sustitucion-1520122975.22</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> Ecuaciones diferenciales ordinarias </h1>
+    <h2> Ecuación lineal con integración por sustitución </h2>
+    <p>
+    Encuentre la solución \(y(x)\) de la siguiente ecuación diferencial 
+    $$y'+\left( 3 \right)y=-2 \, \sin\left(8 \, x\right)$$ 
+    con condición inicial \(x_0=0,y_0=2\). 
+    </p>
+    <h3> Control </h3>
+    <p> Verifique su respuesta evaluando en el punto dado:</p>
+    <p>
+    \(y(0.2842)=\){1:NM:=0.554790577851987:0.0166437173355596}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La solución del problema de valor inicial está dada por 
+    $$ y= \frac{16}{73} \, \cos\left(8 \, x\right) + \frac{130}{73} \, e^{\left(-3 \, x\right)} - \frac{6}{73} \, \sin\left(8 \, x\right). $$ </em>
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P107_lineal_sustitucion-1520122975.22</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> Ecuaciones diferenciales ordinarias </h1>
+    <h2> Ecuación lineal con integración por sustitución </h2>
+    <p>
+    Encuentre la solución \(y(x)\) de la siguiente ecuación diferencial 
+    $$y'+\left( -9 \right)y=-6 \, \sin\left(-10 \, x\right)$$ 
+    con condición inicial \(x_0=0,y_0=-7\). 
+    </p>
+    <h3> Control </h3>
+    <p> Verifique su respuesta evaluando en el punto dado:</p>
+    <p>
+    \(y(-0.0853)=\){1:NM:=-3.08801838233452:-0.0926405514700357}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La solución del problema de valor inicial está dada por 
+    $$ y= -\frac{60}{181} \, \cos\left(-10 \, x\right) - \frac{1207}{181} \, e^{\left(9 \, x\right)} + \frac{54}{181} \, \sin\left(-10 \, x\right). $$ </em>
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P107_lineal_sustitucion-1520122975.22</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> Ecuaciones diferenciales ordinarias </h1>
+    <h2> Ecuación lineal con integración por sustitución </h2>
+    <p>
+    Encuentre la solución \(y(x)\) de la siguiente ecuación diferencial 
+    $$y'+\left( -4 \right)y=8 \, \sin\left(3 \, x\right)$$ 
+    con condición inicial \(x_0=0,y_0=6\). 
+    </p>
+    <h3> Control </h3>
+    <p> Verifique su respuesta evaluando en el punto dado:</p>
+    <p>
+    \(y(-0.0338)=\){1:NM:=5.25434746287244:0.157630423886173}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La solución del problema de valor inicial está dada por 
+    $$ y= -\frac{24}{25} \, \cos\left(3 \, x\right) + \frac{174}{25} \, e^{\left(4 \, x\right)} - \frac{32}{25} \, \sin\left(3 \, x\right). $$ </em>
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

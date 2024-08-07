@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>std_desviacion-2017-08-24 18:51:52.906466</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+1) Encuentre la media aritmética $$\bar{X}$$1) calcule la desviación promedio $$\bar{d}=\frac{\sum{X-\bar{X}}}{N}$$2) calcule el promedio de los cuadrados de las desviaciones$$\overline{d^2}=\frac{\sum{(X-\bar{X})^2}}{N}$$3) calcule la desviación estandar usando la fórmula$$s=\sqrt{\overline{d^2}-\bar{d}^2}$$ Datos:</p>[1,-43,-88,-48,-94,91,
+-69,98,-90,-78,-69,19,
+-52,75,-47,-26,-27,42,
+-11,15,73,-67,-32,-5,
+-62,40,-27,83,58,87]</p>
+<p><span>$$\bar{X}=$$<p>{1:NM:=-8.43333333333:-0.253}</p>$$\bar{d}=$$<p>{1:NM:=3.78956125739e-15:1.13686837722e-16}</p>$$\overline{d^2}=$$<p>{1:NM:=3648.91222222:109.467366667}</p><p>s={1:NM:=60.4062266842:1.81218680053}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>std_desviacion-2017-08-24 18:51:52.906633</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+1) Encuentre la media aritmética $$\bar{X}$$1) calcule la desviación promedio $$\bar{d}=\frac{\sum{X-\bar{X}}}{N}$$2) calcule el promedio de los cuadrados de las desviaciones$$\overline{d^2}=\frac{\sum{(X-\bar{X})^2}}{N}$$3) calcule la desviación estandar usando la fórmula$$s=\sqrt{\overline{d^2}-\bar{d}^2}$$ Datos:</p>[87,92,16,-59,-32,57,
+15,-54,-17,-5,-68,-54,
+-91,32,-81,50,61,94,
+40,88,-19,-24,-65,-46,
+-72,-95,59,-86,-8,-65]</p>
+<p><span>$$\bar{X}=$$<p>{1:NM:=-8.33333333333:-0.25}</p>$$\bar{d}=$$<p>{1:NM:=-9.47390314347e-16:-2.84217094304e-17}</p>$$\overline{d^2}=$$<p>{1:NM:=3662.48888889:109.874666667}</p><p>s={1:NM:=60.5185003853:1.81555501156}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>std_desviacion-2017-08-24 18:51:52.906687</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+1) Encuentre la media aritmética $$\bar{X}$$1) calcule la desviación promedio $$\bar{d}=\frac{\sum{X-\bar{X}}}{N}$$2) calcule el promedio de los cuadrados de las desviaciones$$\overline{d^2}=\frac{\sum{(X-\bar{X})^2}}{N}$$3) calcule la desviación estandar usando la fórmula$$s=\sqrt{\overline{d^2}-\bar{d}^2}$$ Datos:</p>[76,73,86,-60,51,55,
+71,-17,-3,60,78,-40,
+16,-26,-55,84,19,-68,
+75,98,-50,85,17,78,
+57,47,-76,-45,88,-82]</p>
+<p><span>$$\bar{X}=$$<p>{1:NM:=23.0666666667:0.692}</p>$$\bar{d}=$$<p>{1:NM:=3.78956125739e-15:1.13686837722e-16}</p>$$\overline{d^2}=$$<p>{1:NM:=3447.99555556:103.439866667}</p><p>s={1:NM:=58.719635179:1.76158905537}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>std_desviacion-2017-08-24 18:51:52.906729</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+1) Encuentre la media aritmética $$\bar{X}$$1) calcule la desviación promedio $$\bar{d}=\frac{\sum{X-\bar{X}}}{N}$$2) calcule el promedio de los cuadrados de las desviaciones$$\overline{d^2}=\frac{\sum{(X-\bar{X})^2}}{N}$$3) calcule la desviación estandar usando la fórmula$$s=\sqrt{\overline{d^2}-\bar{d}^2}$$ Datos:</p>[-95,36,49,-41,-37,0,
+25,81,43,54,-27,-17,
+17,84,51,-96,92,43,
+-45,-57,-24,31,41,30,
+-67,-25,14,-5,55,-53]</p>
+<p><span>$$\bar{X}=$$<p>{1:NM:=5.23333333333:0.157}</p>$$\bar{d}=$$<p>{1:NM:=0.0:0.0}</p>$$\overline{d^2}=$$<p>{1:NM:=2598.51222222:77.9553666667}</p><p>s={1:NM:=50.9756041869:1.52926812561}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>std_desviacion-2017-08-24 18:51:52.906769</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+1) Encuentre la media aritmética $$\bar{X}$$1) calcule la desviación promedio $$\bar{d}=\frac{\sum{X-\bar{X}}}{N}$$2) calcule el promedio de los cuadrados de las desviaciones$$\overline{d^2}=\frac{\sum{(X-\bar{X})^2}}{N}$$3) calcule la desviación estandar usando la fórmula$$s=\sqrt{\overline{d^2}-\bar{d}^2}$$ Datos:</p>[45,39,-20,-43,-77,59,
+17,47,-41,49,53,37,
+-64,73,-98,24,-9,30,
+16,36,16,-25,21,-11,
+99,-86,32,4,-54,-19]</p>
+<p><span>$$\bar{X}=$$<p>{1:NM:=5.0:0.15}</p>$$\bar{d}=$$<p>{1:NM:=0.0:0.0}</p>$$\overline{d^2}=$$<p>{1:NM:=2343.6:70.308}</p><p>s={1:NM:=48.4107426095:1.45232227828}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

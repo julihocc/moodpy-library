@@ -1,0 +1,6303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318082</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=567
+Hipótesis alternativa: Ao<567
+Desviación estándar: s=1
+Tamaño de la muestra: n=144
+Valor del estimador: A=567.071876015
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.862512180088:0.0258753654026}
+valor-p={1:NM:=0.194202866728:0.00582608600183}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318148</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1550
+Hipótesis alternativa: Ao<1550
+Desviación estándar: s=54
+Tamaño de la muestra: n=346
+Valor del estimador: A=1552.41230431
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.830952850732:0.024928585522}
+valor-p={1:NM:=0.203000132713:0.00609000398138}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318177</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=72
+Hipótesis alternativa: Ao<72
+Desviación estándar: s=8
+Tamaño de la muestra: n=822
+Valor del estimador: A=72.4931292141
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.76728525362:0.0530185576087}
+valor-p={1:NM:=0.0385902340947:0.00115770702284}
+La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318201</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=156
+Hipótesis alternativa: Ao<156
+Desviación estándar: s=1
+Tamaño de la muestra: n=582
+Valor del estimador: A=155.975533366
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.590249619424:-0.0177074885827}
+valor-p={1:NM:=0.72248834481:0.0216746503443}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318224</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=202
+Hipótesis alternativa: Ao<202
+Desviación estándar: s=62
+Tamaño de la muestra: n=235
+Valor del estimador: A=203.346477497
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.332921115734:0.00998763347203}
+valor-p={1:NM:=0.369596914874:0.0110879074462}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318288</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=579
+Hipótesis alternativa: Ao<579
+Desviación estándar: s=5
+Tamaño de la muestra: n=321
+Valor del estimador: A=579.100428373
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.359864444593:0.0107959333378}
+valor-p={1:NM:=0.359474253623:0.0107842276087}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318327</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1224
+Hipótesis alternativa: Ao<1224
+Desviación estándar: s=31
+Tamaño de la muestra: n=719
+Valor del estimador: A=1224.89203155
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.771583560577:0.0231475068173}
+valor-p={1:NM:=0.220180557009:0.00660541671026}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318363</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=6957
+Hipótesis alternativa: Ao<6957
+Desviación estándar: s=8
+Tamaño de la muestra: n=691
+Valor del estimador: A=6956.96475998
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.115793773764:-0.00347381321291}
+valor-p={1:NM:=0.546092007431:0.0163827602229}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318401</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1127
+Hipótesis alternativa: Ao<1127
+Desviación estándar: s=4
+Tamaño de la muestra: n=846
+Valor del estimador: A=1126.99888737
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.00809052899578:-0.000242715869873}
+valor-p={1:NM:=0.503227618876:0.0150968285663}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318436</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=574
+Hipótesis alternativa: Ao<574
+Desviación estándar: s=8
+Tamaño de la muestra: n=761
+Valor del estimador: A=573.74348261
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.88454341437:-0.0265363024311}
+valor-p={1:NM:=0.811798531349:0.0243539559405}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318498</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=849
+Hipótesis alternativa: Ao<849
+Desviación estándar: s=14
+Tamaño de la muestra: n=642
+Valor del estimador: A=848.059688348
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.70181088091:-0.0510543264273}
+valor-p={1:NM:=0.955604586944:0.0286681376083}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318533</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=61
+Hipótesis alternativa: Ao<61
+Desviación estándar: s=2
+Tamaño de la muestra: n=939
+Valor del estimador: A=61.1684858613
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=2.58146512928:0.0774439538784}
+valor-p={1:NM:=0.00491909649391:0.000147572894817}
+La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318563</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=640
+Hipótesis alternativa: Ao<640
+Desviación estándar: s=28
+Tamaño de la muestra: n=830
+Valor del estimador: A=640.216921248
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.223194305312:0.00669582915935}
+valor-p={1:NM:=0.411692141933:0.012350764258}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318592</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1801
+Hipótesis alternativa: Ao<1801
+Desviación estándar: s=62
+Tamaño de la muestra: n=409
+Valor del estimador: A=1801.65569379
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.213880423418:0.00641641270254}
+valor-p={1:NM:=0.415320153422:0.0124596046027}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318660</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=256
+Hipótesis alternativa: Ao<256
+Desviación estándar: s=13
+Tamaño de la muestra: n=492
+Valor del estimador: A=255.630698358
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.63011589914:-0.0189034769742}
+valor-p={1:NM:=0.735690620931:0.0220707186279}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318730</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=34
+Hipótesis alternativa: Ao<34
+Desviación estándar: s=2
+Tamaño de la muestra: n=244
+Valor del estimador: A=34.0548181224
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.428143222419:0.0128442966726}
+valor-p={1:NM:=0.334273425137:0.0100282027541}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318771</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1024
+Hipótesis alternativa: Ao<1024
+Desviación estándar: s=13
+Tamaño de la muestra: n=214
+Valor del estimador: A=1023.74570366
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.286156516745:-0.00858469550235}
+valor-p={1:NM:=0.612620876827:0.0183786263048}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318809</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=5257
+Hipótesis alternativa: Ao<5257
+Desviación estándar: s=27
+Tamaño de la muestra: n=707
+Valor del estimador: A=5255.40671431
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.56906017407:-0.047071805222}
+valor-p={1:NM:=0.941683040755:0.0282504912226}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318852</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1287
+Hipótesis alternativa: Ao<1287
+Desviación estándar: s=31
+Tamaño de la muestra: n=609
+Valor del estimador: A=1287.88660259
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.705790725114:0.0211737217534}
+valor-p={1:NM:=0.240159145386:0.00720477436158}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318887</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=199
+Hipótesis alternativa: Ao<199
+Desviación estándar: s=25
+Tamaño de la muestra: n=280
+Valor del estimador: A=199.831252115
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.556380333382:0.0166914100015}
+valor-p={1:NM:=0.288975440197:0.00866926320591}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318935</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=851
+Hipótesis alternativa: Ao<851
+Desviación estándar: s=32
+Tamaño de la muestra: n=888
+Valor del estimador: A=851.081510941
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.0759053545875:0.00227716063763}
+valor-p={1:NM:=0.469747198404:0.0140924159521}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318965</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=3925
+Hipótesis alternativa: Ao<3925
+Desviación estándar: s=7
+Tamaño de la muestra: n=586
+Valor del estimador: A=3924.88530867
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.396626175686:-0.0118987852706}
+valor-p={1:NM:=0.654178426458:0.0196253527937}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.318998</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=341
+Hipótesis alternativa: Ao<341
+Desviación estándar: s=2
+Tamaño de la muestra: n=756
+Valor del estimador: A=341.053494737
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.735431039804:0.0220629311941}
+valor-p={1:NM:=0.231038511882:0.00693115535645}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.319033</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=207
+Hipótesis alternativa: Ao<207
+Desviación estándar: s=14
+Tamaño de la muestra: n=552
+Valor del estimador: A=207.268098482
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.449920579249:0.0134976173775}
+valor-p={1:NM:=0.326383854122:0.00979151562365}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.319078</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=141
+Hipótesis alternativa: Ao<141
+Desviación estándar: s=7
+Tamaño de la muestra: n=711
+Valor del estimador: A=140.914854742
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.324337545449:-0.00973012636348}
+valor-p={1:NM:=0.627158751244:0.0188147625373}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.319158</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=403
+Hipótesis alternativa: Ao<403
+Desviación estándar: s=25
+Tamaño de la muestra: n=650
+Valor del estimador: A=403.224329364
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.228771960599:0.00686315881798}
+valor-p={1:NM:=0.409523080538:0.0122856924161}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.319240</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=736
+Hipótesis alternativa: Ao<736
+Desviación estándar: s=15
+Tamaño de la muestra: n=729
+Valor del estimador: A=735.770185836
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.413665495828:-0.0124099648748}
+valor-p={1:NM:=0.660440450134:0.019813213504}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.319332</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=650
+Hipótesis alternativa: Ao<650
+Desviación estándar: s=21
+Tamaño de la muestra: n=615
+Valor del estimador: A=650.59645636
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.704363653303:0.0211309095991}
+valor-p={1:NM:=0.240603167533:0.007218095026}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.319399</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=345
+Hipótesis alternativa: Ao<345
+Desviación estándar: s=14
+Tamaño de la muestra: n=206
+Valor del estimador: A=345.89345891
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.915967698859:0.0274790309658}
+valor-p={1:NM:=0.179841918472:0.00539525755416}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.319466</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=4889
+Hipótesis alternativa: Ao<4889
+Desviación estándar: s=17
+Tamaño de la muestra: n=561
+Valor del estimador: A=4888.65246736
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.484203702765:-0.0145261110829}
+valor-p={1:NM:=0.685879345338:0.0205763803601}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.319602</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1421
+Hipótesis alternativa: Ao<1421
+Desviación estándar: s=17
+Tamaño de la muestra: n=86
+Valor del estimador: A=1416.51576802
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-2.44617980245:-0.0733853940734}
+valor-p={1:NM:=0.992781051086:0.0297834315326}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.319676</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=0
+Hipótesis alternativa: Ao<0
+Desviación estándar: s=1
+Tamaño de la muestra: n=823
+Valor del estimador: A=-0.0294227996457
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.844080587023:-0.0253224176107}
+valor-p={1:NM:=0.800687812543:0.0240206343763}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.319751</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=6878
+Hipótesis alternativa: Ao<6878
+Desviación estándar: s=57
+Tamaño de la muestra: n=152
+Valor del estimador: A=6882.11041001
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.889062072041:0.0266718621612}
+valor-p={1:NM:=0.186984860592:0.00560954581776}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.319818</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=661
+Hipótesis alternativa: Ao<661
+Desviación estándar: s=6
+Tamaño de la muestra: n=312
+Valor del estimador: A=660.748532121
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.740301391786:-0.0222090417536}
+valor-p={1:NM:=0.770441431676:0.0231132429503}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.319866</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2
+Hipótesis alternativa: Ao<2
+Desviación estándar: s=1
+Tamaño de la muestra: n=613
+Valor del estimador: A=1.91821475233
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-2.02490760025:-0.0607472280076}
+valor-p={1:NM:=0.978561573477:0.0293568472043}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.319952</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1
+Hipótesis alternativa: Ao<1
+Desviación estándar: s=1
+Tamaño de la muestra: n=98
+Valor del estimador: A=0.999071945398
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.00918727183065:-0.00027561815492}
+valor-p={1:NM:=0.503665139615:0.0151099541884}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.319995</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1120
+Hipótesis alternativa: Ao<1120
+Desviación estándar: s=24
+Tamaño de la muestra: n=92
+Valor del estimador: A=1121.3205239
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.527750845737:0.0158325253721}
+valor-p={1:NM:=0.298836138832:0.00896508416495}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320038</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2
+Hipótesis alternativa: Ao<2
+Desviación estándar: s=1
+Tamaño de la muestra: n=166
+Valor del estimador: A=1.96331253431
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.472684929939:-0.0141805478982}
+valor-p={1:NM:=0.681781010123:0.0204534303037}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320099</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=4520
+Hipótesis alternativa: Ao<4520
+Desviación estándar: s=79
+Tamaño de la muestra: n=937
+Valor del estimador: A=4516.03771627
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.53528241218:-0.0460584723653}
+valor-p={1:NM:=0.937642763785:0.0281292829135}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320148</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=142
+Hipótesis alternativa: Ao<142
+Desviación estándar: s=9
+Tamaño de la muestra: n=290
+Valor del estimador: A=141.048566181
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.80025934491:-0.0540077803473}
+valor-p={1:NM:=0.96409015143:0.0289227045429}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320222</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=7917
+Hipótesis alternativa: Ao<7917
+Desviación estándar: s=77
+Tamaño de la muestra: n=994
+Valor del estimador: A=7911.80552953
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-2.12688372678:-0.0638065118035}
+valor-p={1:NM:=0.983285127356:0.0294985538207}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320273</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1545
+Hipótesis alternativa: Ao<1545
+Desviación estándar: s=10
+Tamaño de la muestra: n=808
+Valor del estimador: A=1544.98177436
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.0518069961788:-0.00155420988536}
+valor-p={1:NM:=0.520658759552:0.0156197627866}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320336</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=17
+Hipótesis alternativa: Ao<17
+Desviación estándar: s=58
+Tamaño de la muestra: n=220
+Valor del estimador: A=16.544279861
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.116541758804:-0.00349625276413}
+valor-p={1:NM:=0.546388403594:0.0163916521078}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320401</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=168
+Hipótesis alternativa: Ao<168
+Desviación estándar: s=56
+Tamaño de la muestra: n=865
+Valor del estimador: A=167.188373489
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.426261639816:-0.0127878491945}
+valor-p={1:NM:=0.665041396698:0.0199512419009}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320457</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=94
+Hipótesis alternativa: Ao<94
+Desviación estándar: s=13
+Tamaño de la muestra: n=577
+Valor del estimador: A=93.6502689062
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.646217627401:-0.019386528822}
+valor-p={1:NM:=0.740930787398:0.0222279236219}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320540</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=5172
+Hipótesis alternativa: Ao<5172
+Desviación estándar: s=20
+Tamaño de la muestra: n=507
+Valor del estimador: A=5172.28850871
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.324812631432:0.00974437894297}
+valor-p={1:NM:=0.372661441987:0.0111798432596}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320574</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=181
+Hipótesis alternativa: Ao<181
+Desviación estándar: s=2
+Tamaño de la muestra: n=820
+Valor del estimador: A=181.068391082
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.979211277874:0.0293763383362}
+valor-p={1:NM:=0.163737798665:0.00491213395996}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320598</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1115
+Hipótesis alternativa: Ao<1115
+Desviación estándar: s=60
+Tamaño de la muestra: n=831
+Valor del estimador: A=1113.20161958
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.864033988442:-0.0259210196533}
+valor-p={1:NM:=0.806215390176:0.0241864617053}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320629</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=828
+Hipótesis alternativa: Ao<828
+Desviación estándar: s=3
+Tamaño de la muestra: n=122
+Valor del estimador: A=827.933521332
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.244760294292:-0.00734280882877}
+valor-p={1:NM:=0.596678980271:0.0179003694081}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320670</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=27
+Hipótesis alternativa: Ao<27
+Desviación estándar: s=7
+Tamaño de la muestra: n=331
+Valor del estimador: A=27.2824623297
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.734135953528:0.0220240786058}
+valor-p={1:NM:=0.231432941468:0.00694298824404}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320731</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=9
+Hipótesis alternativa: Ao<9
+Desviación estándar: s=2
+Tamaño de la muestra: n=123
+Valor del estimador: A=9.118069364
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.654726295861:0.0196417888758}
+valor-p={1:NM:=0.256321995867:0.00768965987602}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320769</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=5788
+Hipótesis alternativa: Ao<5788
+Desviación estándar: s=69
+Tamaño de la muestra: n=758
+Valor del estimador: A=5783.07532935
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.96500067394:-0.0589500202181}
+valor-p={1:NM:=0.975292920228:0.0292587876069}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320800</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2944
+Hipótesis alternativa: Ao<2944
+Desviación estándar: s=21
+Tamaño de la muestra: n=69
+Valor del estimador: A=2940.83590183
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.25157015986:-0.0375471047959}
+valor-p={1:NM:=0.894636733223:0.0268391019967}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320836</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=685
+Hipótesis alternativa: Ao<685
+Desviación estándar: s=75
+Tamaño de la muestra: n=93
+Valor del estimador: A=691.622588799
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.851545780102:0.0255463734031}
+valor-p={1:NM:=0.197233121961:0.00591699365882}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320873</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=5459
+Hipótesis alternativa: Ao<5459
+Desviación estándar: s=59
+Tamaño de la muestra: n=483
+Valor del estimador: A=5461.33687687
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.870477166407:0.0261143149922}
+valor-p={1:NM:=0.192019846105:0.00576059538314}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320937</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2689
+Hipótesis alternativa: Ao<2689
+Desviación estándar: s=30
+Tamaño de la muestra: n=788
+Valor del estimador: A=2689.36676878
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.343189678175:0.0102956903453}
+valor-p={1:NM:=0.36572788465:0.0109718365395}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.320984</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=3829
+Hipótesis alternativa: Ao<3829
+Desviación estándar: s=26
+Tamaño de la muestra: n=765
+Valor del estimador: A=3829.52976866
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.563564506165:0.016906935185}
+valor-p={1:NM:=0.2865252741:0.008595758223}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321026</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2917
+Hipótesis alternativa: Ao<2917
+Desviación estándar: s=68
+Tamaño de la muestra: n=373
+Valor del estimador: A=2916.69447306
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.0867750777993:-0.00260325233398}
+valor-p={1:NM:=0.534574851041:0.0160372455312}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321070</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=9
+Hipótesis alternativa: Ao<9
+Desviación estándar: s=9
+Tamaño de la muestra: n=632
+Valor del estimador: A=9.57908708947
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.61755818772:0.0485267456315}
+valor-p={1:NM:=0.0528789230774:0.00158636769232}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321115</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=95
+Hipótesis alternativa: Ao<95
+Desviación estándar: s=3
+Tamaño de la muestra: n=224
+Valor del estimador: A=94.7509076676
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.24269088725:-0.0372807266176}
+valor-p={1:NM:=0.893009118374:0.0267902735512}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321173</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=8
+Hipótesis alternativa: Ao<8
+Desviación estándar: s=3
+Tamaño de la muestra: n=742
+Valor del estimador: A=7.91859443797
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.739153737034:-0.022174612111}
+valor-p={1:NM:=0.770093175342:0.0231027952603}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321217</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2230
+Hipótesis alternativa: Ao<2230
+Desviación estándar: s=53
+Tamaño de la muestra: n=718
+Valor del estimador: A=2227.24812871
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.39127976691:-0.0417383930074}
+valor-p={1:NM:=0.917929696582:0.0275378908975}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321259</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=6505
+Hipótesis alternativa: Ao<6505
+Desviación estándar: s=70
+Tamaño de la muestra: n=421
+Valor del estimador: A=6504.06965563
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.272701006941:-0.00818103020823}
+valor-p={1:NM:=0.607458469697:0.0182237540909}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321303</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=0
+Hipótesis alternativa: Ao<0
+Desviación estándar: s=1
+Tamaño de la muestra: n=943
+Valor del estimador: A=-0.0187046770989
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.574388930506:-0.0172316679152}
+valor-p={1:NM:=0.71714767903:0.0215144303709}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321343</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=5269
+Hipótesis alternativa: Ao<5269
+Desviación estándar: s=16
+Tamaño de la muestra: n=295
+Valor del estimador: A=5268.0866419
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.980465031552:-0.0294139509466}
+valor-p={1:NM:=0.83657168872:0.0250971506616}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321401</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1
+Hipótesis alternativa: Ao<1
+Desviación estándar: s=2
+Tamaño de la muestra: n=585
+Valor del estimador: A=0.984744029508
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.184496349459:-0.00553489048377}
+valor-p={1:NM:=0.573187954643:0.0171956386393}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321447</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=3700
+Hipótesis alternativa: Ao<3700
+Desviación estándar: s=49
+Tamaño de la muestra: n=76
+Valor del estimador: A=3695.56541795
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.788975306246:-0.0236692591874}
+valor-p={1:NM:=0.784936780299:0.023548103409}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321491</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=646
+Hipótesis alternativa: Ao<646
+Desviación estándar: s=21
+Tamaño de la muestra: n=175
+Valor del estimador: A=644.63172692
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.86193102259:-0.0258579306777}
+valor-p={1:NM:=0.805637261796:0.0241691178539}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321532</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=3584
+Hipótesis alternativa: Ao<3584
+Desviación estándar: s=41
+Tamaño de la muestra: n=520
+Valor del estimador: A=3585.68822673
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.938963233679:0.0281688970104}
+valor-p={1:NM:=0.173874810702:0.00521624432105}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321576</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1203
+Hipótesis alternativa: Ao<1203
+Desviación estándar: s=15
+Tamaño de la muestra: n=406
+Valor del estimador: A=1201.86519128
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.52438414627:-0.0457315243881}
+valor-p={1:NM:=0.936293610966:0.028088808329}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321635</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=78
+Hipótesis alternativa: Ao<78
+Desviación estándar: s=17
+Tamaño de la muestra: n=845
+Valor del estimador: A=77.2541558115
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.27534458699:-0.0382603376097}
+valor-p={1:NM:=0.898906348633:0.026967190459}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321768</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1646
+Hipótesis alternativa: Ao<1646
+Desviación estándar: s=41
+Tamaño de la muestra: n=99
+Valor del estimador: A=1649.63438993
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.881993250455:0.0264597975137}
+valor-p={1:NM:=0.18889022863:0.00566670685891}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321817</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=239
+Hipótesis alternativa: Ao<239
+Desviación estándar: s=12
+Tamaño de la muestra: n=602
+Valor del estimador: A=239.91538709
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.8716376916:0.0561491307479}
+valor-p={1:NM:=0.0306283725698:0.000918851177093}
+La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321862</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=43
+Hipótesis alternativa: Ao<43
+Desviación estándar: s=3
+Tamaño de la muestra: n=412
+Valor del estimador: A=43.0067257492
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.0455059327357:0.00136517798207}
+valor-p={1:NM:=0.48185202308:0.0144555606924}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321905</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2097
+Hipótesis alternativa: Ao<2097
+Desviación estándar: s=21
+Tamaño de la muestra: n=46
+Valor del estimador: A=2094.37878899
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.846567523903:-0.0253970257171}
+valor-p={1:NM:=0.801381888968:0.0240414566691}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.321970</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=5040
+Hipótesis alternativa: Ao<5040
+Desviación estándar: s=46
+Tamaño de la muestra: n=559
+Valor del estimador: A=5043.05493839
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.57018393078:0.0471055179234}
+valor-p={1:NM:=0.0581861634342:0.00174558490303}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322016</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=4358
+Hipótesis alternativa: Ao<4358
+Desviación estándar: s=40
+Tamaño de la muestra: n=405
+Valor del estimador: A=4360.8050724
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.41127482994:0.0423382448982}
+valor-p={1:NM:=0.0790817965759:0.00237245389728}
+La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322060</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=5142
+Hipótesis alternativa: Ao<5142
+Desviación estándar: s=23
+Tamaño de la muestra: n=431
+Valor del estimador: A=5143.56807596
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.41539578217:0.0424618734651}
+valor-p={1:NM:=0.0784762428019:0.00235428728406}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322102</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=5632
+Hipótesis alternativa: Ao<5632
+Desviación estándar: s=7
+Tamaño de la muestra: n=582
+Valor del estimador: A=5632.32465494
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.11888504616:0.0335665513847}
+valor-p={1:NM:=0.131594591647:0.00394783774941}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322145</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=873
+Hipótesis alternativa: Ao<873
+Desviación estándar: s=91
+Tamaño de la muestra: n=176
+Valor del estimador: A=882.408015228
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.37155413335:0.0411466240005}
+valor-p={1:NM:=0.0851011403105:0.00255303420931}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322205</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=18
+Hipótesis alternativa: Ao<18
+Desviación estándar: s=3
+Tamaño de la muestra: n=59
+Valor del estimador: A=18.037574525
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.0962051343298:0.00288615402989}
+valor-p={1:NM:=0.461678826563:0.0138503647969}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322249</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=78
+Hipótesis alternativa: Ao<78
+Desviación estándar: s=16
+Tamaño de la muestra: n=38
+Valor del estimador: A=72.563817015
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-2.09443015722:-0.0628329047165}
+valor-p={1:NM:=0.981889160663:0.0294566748199}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322293</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=7
+Hipótesis alternativa: Ao<7
+Desviación estándar: s=2
+Tamaño de la muestra: n=146
+Valor del estimador: A=6.99808647027
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.0115606338369:-0.000346819015108}
+valor-p={1:NM:=0.504611922896:0.0151383576869}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322336</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=302
+Hipótesis alternativa: Ao<302
+Desviación estándar: s=24
+Tamaño de la muestra: n=984
+Valor del estimador: A=302.295039714
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.385626424898:0.0115687927469}
+valor-p={1:NM:=0.349886679961:0.0104966003988}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322396</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=40
+Hipótesis alternativa: Ao<40
+Desviación estándar: s=10
+Tamaño de la muestra: n=327
+Valor del estimador: A=40.4387226091
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.793348293998:0.0238004488199}
+valor-p={1:NM:=0.213787463447:0.00641362390341}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322441</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=336
+Hipótesis alternativa: Ao<336
+Desviación estándar: s=16
+Tamaño de la muestra: n=221
+Valor del estimador: A=335.207198835
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.736614788755:-0.0220984436626}
+valor-p={1:NM:=0.769321680518:0.0230796504155}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322485</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=178
+Hipótesis alternativa: Ao<178
+Desviación estándar: s=23
+Tamaño de la muestra: n=414
+Valor del estimador: A=175.810472324
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.93696946201:-0.0581090838602}
+valor-p={1:NM:=0.973625461792:0.0292087638538}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322527</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2499
+Hipótesis alternativa: Ao<2499
+Desviación estándar: s=41
+Tamaño de la muestra: n=355
+Valor del estimador: A=2500.3847329
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.636350413347:0.0190905124004}
+valor-p={1:NM:=0.262274026526:0.00786822079578}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322574</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=447
+Hipótesis alternativa: Ao<447
+Desviación estándar: s=35
+Tamaño de la muestra: n=96
+Valor del estimador: A=449.483278138
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.695173066082:0.0208551919824}
+valor-p={1:NM:=0.243473424681:0.00730420274043}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322633</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=246
+Hipótesis alternativa: Ao<246
+Desviación estándar: s=59
+Tamaño de la muestra: n=33
+Valor del estimador: A=253.661666279
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.745981727371:0.0223794518211}
+valor-p={1:NM:=0.227839226617:0.00683517679852}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322678</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=3854
+Hipótesis alternativa: Ao<3854
+Desviación estándar: s=4
+Tamaño de la muestra: n=390
+Valor del estimador: A=3854.1434519
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.708236999434:0.021247109983}
+valor-p={1:NM:=0.239399046528:0.00718197139583}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322724</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1270
+Hipótesis alternativa: Ao<1270
+Desviación estándar: s=35
+Tamaño de la muestra: n=635
+Valor del estimador: A=1269.08705607
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.65729893096:-0.0197189679288}
+valor-p={1:NM:=0.744505638125:0.0223351691437}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322766</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=99
+Hipótesis alternativa: Ao<99
+Desviación estándar: s=22
+Tamaño de la muestra: n=883
+Valor del estimador: A=99.4009531229
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.541565850595:0.0162469755178}
+valor-p={1:NM:=0.294058811172:0.00882176433516}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322810</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1866
+Hipótesis alternativa: Ao<1866
+Desviación estándar: s=65
+Tamaño de la muestra: n=517
+Valor del estimador: A=1865.3129723
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.240328989464:-0.00720986968393}
+valor-p={1:NM:=0.594962388444:0.0178488716533}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322873</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2246
+Hipótesis alternativa: Ao<2246
+Desviación estándar: s=13
+Tamaño de la muestra: n=151
+Valor del estimador: A=2246.13663293
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.129151808639:0.00387455425918}
+valor-p={1:NM:=0.448618763941:0.0134585629182}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322919</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1364
+Hipótesis alternativa: Ao<1364
+Desviación estándar: s=2
+Tamaño de la muestra: n=483
+Valor del estimador: A=1364.000912
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.0100215944238:0.000300647832713}
+valor-p={1:NM:=0.496002029188:0.0148800608757}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.322962</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=559
+Hipótesis alternativa: Ao<559
+Desviación estándar: s=23
+Tamaño de la muestra: n=952
+Valor del estimador: A=558.808481341
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.256922258047:-0.0077076677414}
+valor-p={1:NM:=0.601380606124:0.0180414181837}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323004</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2974
+Hipótesis alternativa: Ao<2974
+Desviación estándar: s=5
+Tamaño de la muestra: n=73
+Valor del estimador: A=2973.37221167
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.07276516244:-0.0321829548732}
+valor-p={1:NM:=0.858311752393:0.0257493525718}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323048</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1569
+Hipótesis alternativa: Ao<1569
+Desviación estándar: s=16
+Tamaño de la muestra: n=712
+Valor del estimador: A=1569.28120731
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.46897168876:0.0140691506628}
+valor-p={1:NM:=0.319544936318:0.00958634808954}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323107</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1995
+Hipótesis alternativa: Ao<1995
+Desviación estándar: s=48
+Tamaño de la muestra: n=770
+Valor del estimador: A=1997.1486246
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.24212318582:0.0372636955746}
+valor-p={1:NM:=0.107095557586:0.00321286672758}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323152</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=6399
+Hipótesis alternativa: Ao<6399
+Desviación estándar: s=74
+Tamaño de la muestra: n=377
+Valor del estimador: A=6396.34879083
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.695637440132:-0.020869123204}
+valor-p={1:NM:=0.756672043532:0.022700161306}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323196</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2220
+Hipótesis alternativa: Ao<2220
+Desviación estándar: s=33
+Tamaño de la muestra: n=860
+Valor del estimador: A=2217.70620475
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-2.03840245575:-0.0611520736725}
+valor-p={1:NM:=0.979245149544:0.0293773544863}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323239</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=658
+Hipótesis alternativa: Ao<658
+Desviación estándar: s=22
+Tamaño de la muestra: n=667
+Valor del estimador: A=657.902987435
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.113885445499:-0.00341656336497}
+valor-p={1:NM:=0.545335698347:0.0163600709504}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323283</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=29
+Hipótesis alternativa: Ao<29
+Desviación estándar: s=3
+Tamaño de la muestra: n=548
+Valor del estimador: A=28.9689807992
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.242046958162:-0.00726140874487}
+valor-p={1:NM:=0.595628111275:0.0178688433382}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323340</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=3440
+Hipótesis alternativa: Ao<3440
+Desviación estándar: s=33
+Tamaño de la muestra: n=293
+Valor del estimador: A=3440.43980724
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.22812991838:0.00684389755141}
+valor-p={1:NM:=0.409772620881:0.0122931786264}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323385</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=3920
+Hipótesis alternativa: Ao<3920
+Desviación estándar: s=44
+Tamaño de la muestra: n=191
+Valor del estimador: A=3923.93436929
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.23577421432:0.0370732264296}
+valor-p={1:NM:=0.108271251168:0.00324813753503}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323428</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=630
+Hipótesis alternativa: Ao<630
+Desviación estándar: s=48
+Tamaño de la muestra: n=764
+Valor del estimador: A=628.574021828
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.821142101184:-0.0246342630355}
+valor-p={1:NM:=0.794217334316:0.0238265200295}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323471</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2
+Hipótesis alternativa: Ao<2
+Desviación estándar: s=1
+Tamaño de la muestra: n=250
+Valor del estimador: A=1.96278949865
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.588349685663:-0.0176504905699}
+valor-p={1:NM:=0.721851198936:0.0216555359681}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323514</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=4684
+Hipótesis alternativa: Ao<4684
+Desviación estándar: s=87
+Tamaño de la muestra: n=821
+Valor del estimador: A=4682.08111686
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.631976389843:-0.0189592916953}
+valor-p={1:NM:=0.736298847411:0.0220889654223}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323573</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1493
+Hipótesis alternativa: Ao<1493
+Desviación estándar: s=18
+Tamaño de la muestra: n=33
+Valor del estimador: A=1496.09543487
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.987884417355:0.0296365325206}
+valor-p={1:NM:=0.161604628926:0.00484813886779}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323619</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2
+Hipótesis alternativa: Ao<2
+Desviación estándar: s=1
+Tamaño de la muestra: n=597
+Valor del estimador: A=1.99212342652
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.192452915403:-0.00577358746208}
+valor-p={1:NM:=0.576306276753:0.0172891883026}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323662</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=296
+Hipótesis alternativa: Ao<296
+Desviación estándar: s=21
+Tamaño de la muestra: n=70
+Valor del estimador: A=292.162004926
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.52909383845:-0.0458728151535}
+valor-p={1:NM:=0.936879408691:0.0281063822607}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323704</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=29
+Hipótesis alternativa: Ao<29
+Desviación estándar: s=3
+Tamaño de la muestra: n=139
+Valor del estimador: A=28.9954940862
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.0177079800317:-0.000531239400951}
+valor-p={1:NM:=0.507064092749:0.0152119227825}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323746</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1005
+Hipótesis alternativa: Ao<1005
+Desviación estándar: s=62
+Tamaño de la muestra: n=162
+Valor del estimador: A=1003.16388615
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.376934097179:-0.0113080229154}
+valor-p={1:NM:=0.646888709361:0.0194066612808}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323806</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1797
+Hipótesis alternativa: Ao<1797
+Desviación estándar: s=48
+Tamaño de la muestra: n=132
+Valor del estimador: A=1800.13782781
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.751060350467:0.022531810514}
+valor-p={1:NM:=0.226308168154:0.00678924504463}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323851</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=5485
+Hipótesis alternativa: Ao<5485
+Desviación estándar: s=40
+Tamaño de la muestra: n=396
+Valor del estimador: A=5483.21317636
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.888933538635:-0.0266680061591}
+valor-p={1:NM:=0.812980600317:0.0243894180095}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323895</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1190
+Hipótesis alternativa: Ao<1190
+Desviación estándar: s=16
+Tamaño de la muestra: n=953
+Valor del estimador: A=1189.37335739
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.20905593013:-0.036271677904}
+valor-p={1:NM:=0.886679320699:0.026600379621}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323939</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=4810
+Hipótesis alternativa: Ao<4810
+Desviación estándar: s=55
+Tamaño de la muestra: n=621
+Valor del estimador: A=4812.87884073
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.30436984028:0.0391310952085}
+valor-p={1:NM:=0.0960537566001:0.002881612698}
+La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.323982</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=164
+Hipótesis alternativa: Ao<164
+Desviación estándar: s=19
+Tamaño de la muestra: n=754
+Valor del estimador: A=164.852389506
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.23188499794:0.0369565499383}
+valor-p={1:NM:=0.108996023092:0.00326988069277}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324040</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1145
+Hipótesis alternativa: Ao<1145
+Desviación estándar: s=16
+Tamaño de la muestra: n=108
+Valor del estimador: A=1145.71211957
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.46253522654:0.0138760567962}
+valor-p={1:NM:=0.321848773373:0.0096554632012}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324085</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1958
+Hipótesis alternativa: Ao<1958
+Desviación estándar: s=45
+Tamaño de la muestra: n=361
+Valor del estimador: A=1963.84218058
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=2.46669846856:0.0740009540568}
+valor-p={1:NM:=0.0068182567541:0.000204547702623}
+La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324129</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=29
+Hipótesis alternativa: Ao<29
+Desviación estándar: s=12
+Tamaño de la muestra: n=573
+Valor del estimador: A=28.1931882063
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.60941595675:-0.0482824787026}
+valor-p={1:NM:=0.946237290769:0.0283871187231}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324171</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2136
+Hipótesis alternativa: Ao<2136
+Desviación estándar: s=55
+Tamaño de la muestra: n=669
+Valor del estimador: A=2132.60130658
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.59831494413:-0.047949448324}
+valor-p={1:NM:=0.945013548399:0.028350406452}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324214</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=3271
+Hipótesis alternativa: Ao<3271
+Desviación estándar: s=40
+Tamaño de la muestra: n=658
+Valor del estimador: A=3269.12951098
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.19952172377:-0.0359856517132}
+valor-p={1:NM:=0.884837428551:0.0265451228565}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324279</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1987
+Hipótesis alternativa: Ao<1987
+Desviación estándar: s=25
+Tamaño de la muestra: n=95
+Valor del estimador: A=1990.08531329
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.20287656474:0.0360862969421}
+valor-p={1:NM:=0.114512045213:0.0034353613564}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324324</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2220
+Hipótesis alternativa: Ao<2220
+Desviación estándar: s=49
+Tamaño de la muestra: n=840
+Valor del estimador: A=2219.82709553
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.102270360607:-0.00306811081822}
+valor-p={1:NM:=0.540728959632:0.016221868789}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324368</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=535
+Hipótesis alternativa: Ao<535
+Desviación estándar: s=17
+Tamaño de la muestra: n=684
+Valor del estimador: A=534.414539941
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.900692199021:-0.0270207659706}
+valor-p={1:NM:=0.816124001228:0.0244837200369}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324411</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=6956
+Hipótesis alternativa: Ao<6956
+Desviación estándar: s=46
+Tamaño de la muestra: n=556
+Valor del estimador: A=6956.14423354
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.0739342744693:0.00221802823408}
+valor-p={1:NM:=0.470531341694:0.0141159402508}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324455</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=4341
+Hipótesis alternativa: Ao<4341
+Desviación estándar: s=23
+Tamaño de la muestra: n=748
+Valor del estimador: A=4340.0285207
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.15519822554:-0.0346559467661}
+valor-p={1:NM:=0.875995369388:0.0262798610816}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324513</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1322
+Hipótesis alternativa: Ao<1322
+Desviación estándar: s=58
+Tamaño de la muestra: n=559
+Valor del estimador: A=1322.12319579
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.0502196600697:0.00150658980209}
+valor-p={1:NM:=0.479973672425:0.0143992101728}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324559</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1016
+Hipótesis alternativa: Ao<1016
+Desviación estándar: s=50
+Tamaño de la muestra: n=744
+Valor del estimador: A=1013.55616764
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.33317719022:-0.0399953157065}
+valor-p={1:NM:=0.908763168564:0.0272628950569}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324602</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1841
+Hipótesis alternativa: Ao<1841
+Desviación estándar: s=14
+Tamaño de la muestra: n=595
+Valor del estimador: A=1841.38707217
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.674407508483:0.0202322252545}
+valor-p={1:NM:=0.250026135215:0.00750078405644}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324646</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2323
+Hipótesis alternativa: Ao<2323
+Desviación estándar: s=1
+Tamaño de la muestra: n=85
+Valor del estimador: A=2323.0196063
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.180761154634:0.00542283463903}
+valor-p={1:NM:=0.428277527437:0.0128483258231}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324688</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2005
+Hipótesis alternativa: Ao<2005
+Desviación estándar: s=50
+Tamaño de la muestra: n=905
+Valor del estimador: A=2000.68391745
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-2.59683304061:-0.0779049912184}
+valor-p={1:NM:=0.995295617748:0.0298588685324}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324747</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=980
+Hipótesis alternativa: Ao<980
+Desviación estándar: s=39
+Tamaño de la muestra: n=929
+Valor del estimador: A=979.795265389
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.160005354804:-0.00480016064411}
+valor-p={1:NM:=0.563561571978:0.0169068471593}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324792</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2184
+Hipótesis alternativa: Ao<2184
+Desviación estándar: s=10
+Tamaño de la muestra: n=929
+Valor del estimador: A=2183.91520597
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.258447967484:-0.00775343902453}
+valor-p={1:NM:=0.601969399521:0.0180590819856}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324836</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=3
+Hipótesis alternativa: Ao<3
+Desviación estándar: s=1
+Tamaño de la muestra: n=258
+Valor del estimador: A=3.10486852227
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.68443788737:0.0505331366212}
+valor-p={1:NM:=0.0460485369317:0.00138145610795}
+La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324875</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2179
+Hipótesis alternativa: Ao<2179
+Desviación estándar: s=21
+Tamaño de la muestra: n=44
+Valor del estimador: A=2175.33344247
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.15815196097:-0.0347445588291}
+valor-p={1:NM:=0.876598985761:0.0262979695728}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324913</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=191
+Hipótesis alternativa: Ao<191
+Desviación estándar: s=34
+Tamaño de la muestra: n=744
+Valor del estimador: A=188.362024118
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-2.11630555216:-0.0634891665647}
+valor-p={1:NM:=0.982840585576:0.0294852175673}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.324968</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=436
+Hipótesis alternativa: Ao<436
+Desviación estándar: s=31
+Tamaño de la muestra: n=266
+Valor del estimador: A=434.416310897
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.83319960028:-0.0249959880084}
+valor-p={1:NM:=0.797633916:0.02392901748}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325017</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=365
+Hipótesis alternativa: Ao<365
+Desviación estándar: s=26
+Tamaño de la muestra: n=813
+Valor del estimador: A=366.483029295
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.62637861331:0.0487913583993}
+valor-p={1:NM:=0.0519345687825:0.00155803706348}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325060</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=791
+Hipótesis alternativa: Ao<791
+Desviación estándar: s=69
+Tamaño de la muestra: n=142
+Valor del estimador: A=786.28801914
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.813764235876:-0.0244129270763}
+valor-p={1:NM:=0.792109986461:0.0237632995938}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325103</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=130
+Hipótesis alternativa: Ao<130
+Desviación estándar: s=3
+Tamaño de la muestra: n=287
+Valor del estimador: A=129.639960541
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-2.03315174506:-0.0609945523519}
+valor-p={1:NM:=0.978981402733:0.029369442082}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325145</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=874
+Hipótesis alternativa: Ao<874
+Desviación estándar: s=30
+Tamaño de la muestra: n=954
+Valor del estimador: A=873.76100781
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.24605751935:-0.0073817255805}
+valor-p={1:NM:=0.597181146564:0.0179154343969}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325205</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=3032
+Hipótesis alternativa: Ao<3032
+Desviación estándar: s=70
+Tamaño de la muestra: n=424
+Valor del estimador: A=3034.01011723
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.591297815229:0.0177389344569}
+valor-p={1:NM:=0.277160446597:0.00831481339791}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325251</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2202
+Hipótesis alternativa: Ao<2202
+Desviación estándar: s=11
+Tamaño de la muestra: n=373
+Valor del estimador: A=2202.54460926
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.956195622292:0.0286858686688}
+valor-p={1:NM:=0.169486705621:0.00508460116864}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325296</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=13
+Hipótesis alternativa: Ao<13
+Desviación estándar: s=4
+Tamaño de la muestra: n=985
+Valor del estimador: A=13.0580228568
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.455257628629:0.0136577288589}
+valor-p={1:NM:=0.324461952691:0.00973385858074}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325340</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1211
+Hipótesis alternativa: Ao<1211
+Desviación estándar: s=22
+Tamaño de la muestra: n=346
+Valor del estimador: A=1211.72349044
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.611713639324:0.0183514091797}
+valor-p={1:NM:=0.270363618109:0.00811090854328}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325384</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=613
+Hipótesis alternativa: Ao<613
+Desviación estándar: s=48
+Tamaño de la muestra: n=750
+Valor del estimador: A=613.568627388
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.324427132614:0.00973281397841}
+valor-p={1:NM:=0.372807340397:0.0111842202119}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325442</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=9259
+Hipótesis alternativa: Ao<9259
+Desviación estándar: s=92
+Tamaño de la muestra: n=674
+Valor del estimador: A=9258.58122339
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.11817470763:-0.0035452412289}
+valor-p={1:NM:=0.547035385051:0.0164110615515}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325488</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=3119
+Hipótesis alternativa: Ao<3119
+Desviación estándar: s=59
+Tamaño de la muestra: n=859
+Valor del estimador: A=3121.47717444
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.2305553715:0.0369166611451}
+valor-p={1:NM:=0.109244602724:0.00327733808172}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325531</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=3992
+Hipótesis alternativa: Ao<3992
+Desviación estándar: s=30
+Tamaño de la muestra: n=297
+Valor del estimador: A=3990.80972546
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.683760667647:-0.0205128200294}
+valor-p={1:NM:=0.752936846413:0.0225881053924}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325575</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1886
+Hipótesis alternativa: Ao<1886
+Desviación estándar: s=23
+Tamaño de la muestra: n=732
+Valor del estimador: A=1886.37240667
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.438071659437:0.0131421497831}
+valor-p={1:NM:=0.330667168946:0.00992001506838}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325618</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=443
+Hipótesis alternativa: Ao<443
+Desviación estándar: s=48
+Tamaño de la muestra: n=928
+Valor del estimador: A=442.957722318
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.0268314359361:-0.000804943078084}
+valor-p={1:NM:=0.510702910006:0.0153210873002}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325766</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=4465
+Hipótesis alternativa: Ao<4465
+Desviación estándar: s=76
+Tamaño de la muestra: n=698
+Valor del estimador: A=4466.59161179
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.553288018155:0.0165986405446}
+valor-p={1:NM:=0.290033102168:0.00870099306505}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325819</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=177
+Hipótesis alternativa: Ao<177
+Desviación estándar: s=11
+Tamaño de la muestra: n=500
+Valor del estimador: A=176.599605437
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.813917691398:-0.0244175307419}
+valor-p={1:NM:=0.792153947496:0.0237646184249}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325852</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=7411
+Hipótesis alternativa: Ao<7411
+Desviación estándar: s=1
+Tamaño de la muestra: n=739
+Valor del estimador: A=7410.94334617
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.54010905443:-0.046203271633}
+valor-p={1:NM:=0.938233113458:0.0281469934037}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325876</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=919
+Hipótesis alternativa: Ao<919
+Desviación estándar: s=1
+Tamaño de la muestra: n=396
+Valor del estimador: A=918.985765488
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.283263203505:-0.00849789610516}
+valor-p={1:NM:=0.611512459031:0.0183453737709}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325899</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=137
+Hipótesis alternativa: Ao<137
+Desviación estándar: s=46
+Tamaño de la muestra: n=184
+Valor del estimador: A=142.732894939
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.69053848857:0.0507161546571}
+valor-p={1:NM:=0.0454624906639:0.00136387471992}
+La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325941</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=835
+Hipótesis alternativa: Ao<835
+Desviación estándar: s=10
+Tamaño de la muestra: n=633
+Valor del estimador: A=834.955781565
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.111251333675:-0.00333754001026}
+valor-p={1:NM:=0.544291477072:0.0163287443122}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325965</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1971
+Hipótesis alternativa: Ao<1971
+Desviación estándar: s=53
+Tamaño de la muestra: n=148
+Valor del estimador: A=1966.69535092
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.988081438803:-0.0296424431641}
+valor-p={1:NM:=0.838443617363:0.0251533085209}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.325988</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=80
+Hipótesis alternativa: Ao<80
+Desviación estándar: s=6
+Tamaño de la muestra: n=497
+Valor del estimador: A=79.8145742809
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.688964612785:-0.0206689383836}
+valor-p={1:NM:=0.754577231546:0.0226373169464}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326010</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=122
+Hipótesis alternativa: Ao<122
+Desviación estándar: s=15
+Tamaño de la muestra: n=903
+Valor del estimador: A=121.32931735
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.34359904901:-0.0403079714702}
+valor-p={1:NM:=0.9104609614:0.027313828842}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326033</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=81
+Hipótesis alternativa: Ao<81
+Desviación estándar: s=4
+Tamaño de la muestra: n=972
+Valor del estimador: A=81.0407644912
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.317727764288:0.00953183292863}
+valor-p={1:NM:=0.375345724422:0.0112603717326}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326066</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=181
+Hipótesis alternativa: Ao<181
+Desviación estándar: s=19
+Tamaño de la muestra: n=443
+Valor del estimador: A=180.538971523
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.510711943632:-0.0153213583089}
+valor-p={1:NM:=0.695223611884:0.0208567083565}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326091</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=509
+Hipótesis alternativa: Ao<509
+Desviación estándar: s=2
+Tamaño de la muestra: n=292
+Valor del estimador: A=509.041278905
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.352687116262:0.0105806134879}
+valor-p={1:NM:=0.362161509605:0.0108648452882}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326113</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1137
+Hipótesis alternativa: Ao<1137
+Desviación estándar: s=25
+Tamaño de la muestra: n=203
+Valor del estimador: A=1137.62553745
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.356501470779:0.0106950441234}
+valor-p={1:NM:=0.360732525416:0.0108219757625}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326136</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=5261
+Hipótesis alternativa: Ao<5261
+Desviación estándar: s=66
+Tamaño de la muestra: n=185
+Valor del estimador: A=5262.93350418
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.398462122206:0.0119538636662}
+valor-p={1:NM:=0.34514478687:0.0103543436061}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326168</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=534
+Hipótesis alternativa: Ao<534
+Desviación estándar: s=30
+Tamaño de la muestra: n=113
+Valor del estimador: A=536.350604817
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.832909065204:0.0249872719561}
+valor-p={1:NM:=0.20244800833:0.00607344024991}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326192</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=20
+Hipótesis alternativa: Ao<20
+Desviación estándar: s=1
+Tamaño de la muestra: n=202
+Valor del estimador: A=19.9786960758
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.30278565257:-0.0090835695771}
+valor-p={1:NM:=0.61897339096:0.0185692017288}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326214</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=8503
+Hipótesis alternativa: Ao<8503
+Desviación estándar: s=18
+Tamaño de la muestra: n=93
+Valor del estimador: A=8504.73711007
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.930671268107:0.0279201380432}
+valor-p={1:NM:=0.176011818236:0.00528035454707}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326236</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=3584
+Hipótesis alternativa: Ao<3584
+Desviación estándar: s=31
+Tamaño de la muestra: n=768
+Valor del estimador: A=3583.80683265
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.172684217777:-0.0051805265333}
+valor-p={1:NM:=0.568550175096:0.0170565052529}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326259</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=249
+Hipótesis alternativa: Ao<249
+Desviación estándar: s=24
+Tamaño de la muestra: n=153
+Valor del estimador: A=247.252924447
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.900422130101:-0.027012663903}
+valor-p={1:NM:=0.816052175909:0.0244815652773}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326291</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=234
+Hipótesis alternativa: Ao<234
+Desviación estándar: s=14
+Tamaño de la muestra: n=808
+Valor del estimador: A=234.004691757
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.00952605713168:0.00028578171395}
+valor-p={1:NM:=0.496199710521:0.0148859913156}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326315</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1844
+Hipótesis alternativa: Ao<1844
+Desviación estándar: s=45
+Tamaño de la muestra: n=771
+Valor del estimador: A=1843.80507327
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.120277964934:-0.00360833894803}
+valor-p={1:NM:=0.547868520593:0.0164360556178}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326338</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=7375
+Hipótesis alternativa: Ao<7375
+Desviación estándar: s=57
+Tamaño de la muestra: n=676
+Valor del estimador: A=7374.02422327
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.445091137897:-0.0133527341369}
+valor-p={1:NM:=0.67187305354:0.0201561916062}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326361</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1630
+Hipótesis alternativa: Ao<1630
+Desviación estándar: s=22
+Tamaño de la muestra: n=911
+Valor del estimador: A=1630.55463623
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.760930068277:0.0228279020483}
+valor-p={1:NM:=0.223349418954:0.00670048256861}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326383</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=129
+Hipótesis alternativa: Ao<129
+Desviación estándar: s=12
+Tamaño de la muestra: n=373
+Valor del estimador: A=129.701498923
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.12901621234:0.0338704863702}
+valor-p={1:NM:=0.129445497304:0.00388336491913}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326414</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=864
+Hipótesis alternativa: Ao<864
+Desviación estándar: s=54
+Tamaño de la muestra: n=200
+Valor del estimador: A=866.35465794
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.616664665362:0.0184999399609}
+valor-p={1:NM:=0.268727966097:0.00806183898292}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326438</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=15
+Hipótesis alternativa: Ao<15
+Desviación estándar: s=2
+Tamaño de la muestra: n=522
+Valor del estimador: A=14.8817921378
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.35036638629:-0.0405109915886}
+valor-p={1:NM:=0.911550756283:0.0273465226885}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326462</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2963
+Hipótesis alternativa: Ao<2963
+Desviación estándar: s=37
+Tamaño de la muestra: n=425
+Valor del estimador: A=2959.83653389
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.76260877281:-0.0528782631844}
+valor-p={1:NM:=0.961016751779:0.0288305025534}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326485</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1825
+Hipótesis alternativa: Ao<1825
+Desviación estándar: s=95
+Tamaño de la muestra: n=814
+Valor del estimador: A=1829.17457089
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.25371966238:0.0376115898713}
+valor-p={1:NM:=0.104971959297:0.00314915877891}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326507</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1448
+Hipótesis alternativa: Ao<1448
+Desviación estándar: s=19
+Tamaño de la muestra: n=30
+Valor del estimador: A=1447.85711175
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.0411911132465:-0.00123573339739}
+valor-p={1:NM:=0.516428230868:0.015492846926}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326539</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2848
+Hipótesis alternativa: Ao<2848
+Desviación estándar: s=36
+Tamaño de la muestra: n=458
+Valor del estimador: A=2845.50767682
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.4816123685:-0.0444483710551}
+valor-p={1:NM:=0.930778266956:0.0279233480087}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326563</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1067
+Hipótesis alternativa: Ao<1067
+Desviación estándar: s=46
+Tamaño de la muestra: n=485
+Valor del estimador: A=1069.88823478
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.3827559349:0.0414826780469}
+valor-p={1:NM:=0.0833698572653:0.00250109571796}
+La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326586</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=333
+Hipótesis alternativa: Ao<333
+Desviación estándar: s=16
+Tamaño de la muestra: n=643
+Valor del estimador: A=333.689007448
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.09196676429:0.0327590029288}
+valor-p={1:NM:=0.137423854957:0.00412271564872}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326608</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=7
+Hipótesis alternativa: Ao<7
+Desviación estándar: s=3
+Tamaño de la muestra: n=637
+Valor del estimador: A=7.28138152091
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=2.36724950378:0.0710174851134}
+valor-p={1:NM:=0.00896042343516:0.000268812703055}
+La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326630</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=6077
+Hipótesis alternativa: Ao<6077
+Desviación estándar: s=49
+Tamaño de la muestra: n=632
+Valor del estimador: A=6077.11488529
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.0589422730455:0.00176826819136}
+valor-p={1:NM:=0.47649904377:0.0142949713131}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326663</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=90
+Hipótesis alternativa: Ao<90
+Desviación estándar: s=5
+Tamaño de la muestra: n=300
+Valor del estimador: A=90.0812669191
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.281516865788:0.00844550597364}
+valor-p={1:NM:=0.389156996958:0.0116747099087}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326687</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=6278
+Hipótesis alternativa: Ao<6278
+Desviación estándar: s=11
+Tamaño de la muestra: n=229
+Valor del estimador: A=6277.71537385
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.391561383248:-0.0117468414974}
+valor-p={1:NM:=0.652308837183:0.0195692651155}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326710</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1
+Hipótesis alternativa: Ao<1
+Desviación estándar: s=11
+Tamaño de la muestra: n=122
+Valor del estimador: A=-0.0678224707457
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.07222588106:-0.0321667764318}
+valor-p={1:NM:=0.858190705789:0.0257457211737}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326732</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=921
+Hipótesis alternativa: Ao<921
+Desviación estándar: s=5
+Tamaño de la muestra: n=525
+Valor del estimador: A=921.024990378
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.114520298816:0.00343560896449}
+valor-p={1:NM:=0.454412678063:0.0136323803419}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326755</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=898
+Hipótesis alternativa: Ao<898
+Desviación estándar: s=45
+Tamaño de la muestra: n=555
+Valor del estimador: A=894.800256642
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.67513234316:-0.0502539702949}
+valor-p={1:NM:=0.953045865814:0.0285913759744}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326790</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1174
+Hipótesis alternativa: Ao<1174
+Desviación estándar: s=19
+Tamaño de la muestra: n=137
+Valor del estimador: A=1174.80238566
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.494299126023:0.0148289737807}
+valor-p={1:NM:=0.310547471138:0.00931642413414}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326814</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=27
+Hipótesis alternativa: Ao<27
+Desviación estándar: s=2
+Tamaño de la muestra: n=568
+Valor del estimador: A=27.0340420566
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.405657922108:0.0121697376632}
+valor-p={1:NM:=0.34249698176:0.0102749094528}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326837</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=616
+Hipótesis alternativa: Ao<616
+Desviación estándar: s=3
+Tamaño de la muestra: n=471
+Valor del estimador: A=616.060955756
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.440964799744:0.0132289439923}
+valor-p={1:NM:=0.329619240222:0.00988857720666}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326859</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=659
+Hipótesis alternativa: Ao<659
+Desviación estándar: s=27
+Tamaño de la muestra: n=776
+Valor del estimador: A=658.940619895
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.0612643821895:-0.00183793146569}
+valor-p={1:NM:=0.524425671804:0.0157327701541}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326881</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1406
+Hipótesis alternativa: Ao<1406
+Desviación estándar: s=1
+Tamaño de la muestra: n=161
+Valor del estimador: A=1405.92742804
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.920834987127:-0.0276250496138}
+valor-p={1:NM:=0.821431707282:0.0246429512185}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326914</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2026
+Hipótesis alternativa: Ao<2026
+Desviación estándar: s=65
+Tamaño de la muestra: n=947
+Valor del estimador: A=2029.38879094
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.60437693476:0.0481313080428}
+valor-p={1:NM:=0.0543154960012:0.00162946488004}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326939</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=493
+Hipótesis alternativa: Ao<493
+Desviación estándar: s=16
+Tamaño de la muestra: n=638
+Valor del estimador: A=492.249547991
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.18471334726:-0.0355414004179}
+valor-p={1:NM:=0.881934598309:0.0264580379493}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326961</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=15
+Hipótesis alternativa: Ao<15
+Desviación estándar: s=1
+Tamaño de la muestra: n=406
+Valor del estimador: A=15.0576461066
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.16153686202:0.0348461058607}
+valor-p={1:NM:=0.122711820751:0.00368135462252}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.326984</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=62
+Hipótesis alternativa: Ao<62
+Desviación estándar: s=7
+Tamaño de la muestra: n=984
+Valor del estimador: A=61.3983436576
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-2.69617457148:-0.0808852371445}
+valor-p={1:NM:=0.99649295517:0.0298947886551}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327006</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=47
+Hipótesis alternativa: Ao<47
+Desviación estándar: s=7
+Tamaño de la muestra: n=944
+Valor del estimador: A=46.9265022846
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.322598093914:-0.00967794281743}
+valor-p={1:NM:=0.626500181274:0.0187950054382}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327037</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=984
+Hipótesis alternativa: Ao<984
+Desviación estándar: s=1
+Tamaño de la muestra: n=625
+Valor del estimador: A=983.974809299
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.629767520152:-0.0188930256046}
+valor-p={1:NM:=0.735576650491:0.0220672995147}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327062</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1503
+Hipótesis alternativa: Ao<1503
+Desviación estándar: s=10
+Tamaño de la muestra: n=774
+Valor del estimador: A=1503.07640024
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.212551996514:0.00637655989541}
+valor-p={1:NM:=0.415838208499:0.012475146255}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327085</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=799
+Hipótesis alternativa: Ao<799
+Desviación estándar: s=30
+Tamaño de la muestra: n=214
+Valor del estimador: A=798.52229851
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.232939011219:-0.00698817033656}
+valor-p={1:NM:=0.592095617514:0.0177628685254}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327107</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=423
+Hipótesis alternativa: Ao<423
+Desviación estándar: s=6
+Tamaño de la muestra: n=824
+Valor del estimador: A=422.933748556
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.316962369636:-0.00950887108909}
+valor-p={1:NM:=0.624363922096:0.0187309176629}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327130</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1591
+Hipótesis alternativa: Ao<1591
+Desviación estándar: s=15
+Tamaño de la muestra: n=225
+Valor del estimador: A=1591.18454391
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.184543913241:0.00553631739724}
+valor-p={1:NM:=0.426793390449:0.0128038017135}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327161</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1331
+Hipótesis alternativa: Ao<1331
+Desviación estándar: s=18
+Tamaño de la muestra: n=207
+Valor del estimador: A=1331.01017116
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.0081298642581:0.000243895927743}
+valor-p={1:NM:=0.496756689141:0.0149027006742}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327185</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2874
+Hipótesis alternativa: Ao<2874
+Desviación estándar: s=19
+Tamaño de la muestra: n=463
+Valor del estimador: A=2874.33930334
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.384259867768:0.0115277960331}
+valor-p={1:NM:=0.350392924889:0.0105117877467}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327208</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=39
+Hipótesis alternativa: Ao<39
+Desviación estándar: s=8
+Tamaño de la muestra: n=767
+Valor del estimador: A=38.5944745981
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.40386633054:-0.0421159899161}
+valor-p={1:NM:=0.919820671284:0.0275946201385}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327231</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=345
+Hipótesis alternativa: Ao<345
+Desviación estándar: s=29
+Tamaño de la muestra: n=866
+Valor del estimador: A=345.655969654
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.665648100561:0.0199694430168}
+valor-p={1:NM:=0.2528180269:0.007584540807}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327254</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=1404
+Hipótesis alternativa: Ao<1404
+Desviación estándar: s=34
+Tamaño de la muestra: n=532
+Valor del estimador: A=1403.91965507
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.0545048774583:-0.00163514632375}
+valor-p={1:NM:=0.521733538641:0.0156520061592}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327286</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=387
+Hipótesis alternativa: Ao<387
+Desviación estándar: s=5
+Tamaño de la muestra: n=45
+Valor del estimador: A=387.088015762
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.118085536421:0.00354256609263}
+valor-p={1:NM:=0.452999941765:0.0135899982529}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327310</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=917
+Hipótesis alternativa: Ao<917
+Desviación estándar: s=54
+Tamaño de la muestra: n=70
+Valor del estimador: A=904.786191678
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.89237133229:-0.0567711399687}
+valor-p={1:NM:=0.970779238569:0.0291233771571}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327333</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=8235
+Hipótesis alternativa: Ao<8235
+Desviación estándar: s=3
+Tamaño de la muestra: n=487
+Valor del estimador: A=8234.96020784
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.292712162602:-0.00878136487806}
+valor-p={1:NM:=0.61512891376:0.0184538674128}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327356</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2217
+Hipótesis alternativa: Ao<2217
+Desviación estándar: s=37
+Tamaño de la muestra: n=876
+Valor del estimador: A=2215.23320353
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-1.41330811306:-0.0423992433917}
+valor-p={1:NM:=0.921217425223:0.0276365227567}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327378</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=82
+Hipótesis alternativa: Ao<82
+Desviación estándar: s=4
+Tamaño de la muestra: n=865
+Valor del estimador: A=82.0032553831
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.0239359223351:0.000718077670054}
+valor-p={1:NM:=0.490451860302:0.0147135558091}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327410</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=4774
+Hipótesis alternativa: Ao<4774
+Desviación estándar: s=59
+Tamaño de la muestra: n=518
+Valor del estimador: A=4772.83355988
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.449961458913:-0.0134988437674}
+valor-p={1:NM:=0.673630884491:0.0202089265347}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327434</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2957
+Hipótesis alternativa: Ao<2957
+Desviación estándar: s=9
+Tamaño de la muestra: n=658
+Valor del estimador: A=2957.19589947
+Nivel de significación: beta=0.0500
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.5583463725:0.016750391175}
+valor-p={1:NM:=0.288303942491:0.00864911827472}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327457</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=926
+Hipótesis alternativa: Ao<926
+Desviación estándar: s=15
+Tamaño de la muestra: n=792
+Valor del estimador: A=925.678856125
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.602519317139:-0.0180755795142}
+valor-p={1:NM:=0.726585745647:0.0217975723694}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327480</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2549
+Hipótesis alternativa: Ao<2549
+Desviación estándar: s=22
+Tamaño de la muestra: n=728
+Valor del estimador: A=2550.28267858
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.57311636805:0.0471934910416}
+valor-p={1:NM:=0.0578459377794:0.00173537813338}
+La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327502</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=104
+Hipótesis alternativa: Ao<104
+Desviación estándar: s=17
+Tamaño de la muestra: n=546
+Valor del estimador: A=104.432319783
+Nivel de significación: beta=0.0100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=0.594227176165:0.0178268152849}
+valor-p={1:NM:=0.27618008928:0.00828540267841}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327534</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=5187
+Hipótesis alternativa: Ao<5187
+Desviación estándar: s=18
+Tamaño de la muestra: n=547
+Valor del estimador: A=5187.97133588
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=1.26209076549:0.0378627229648}
+valor-p={1:NM:=0.103458063883:0.00310374191649}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesisColaDerecha-2017-10-24 23:05:49.327558</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=4319
+Hipótesis alternativa: Ao<4319
+Desviación estándar: s=33
+Tamaño de la muestra: n=289
+Valor del estimador: A=4318.54596592
+Nivel de significación: beta=0.100
+Observe que la desigualdad en la hipótesis alternativa está invertida. 
+Encuentre los siguientes estadísticos: 
+</p>
+<p><span>Valor Z={1:NM:=-0.233896343489:-0.00701689030468}
+valor-p={1:NM:=0.59246727402:0.0177740182206}
+La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

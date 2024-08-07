@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>statsModels-1511198784.6274548</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Utilizando el paquete statsmodels.formula.api, calcule los estadisticos indicados para el modelo  </p>
+$$ Y \sim X1 + X2 $$ 
+<p> con los siguientes datos </p> 
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>X1</th>
+      <th>X2</th>
+      <th>Y</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>-47.521446</td>
+      <td>-86.117667</td>
+      <td>9943.343122</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>-54.688410</td>
+      <td>-84.656880</td>
+      <td>10301.993700</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>-58.505366</td>
+      <td>-89.958215</td>
+      <td>10974.420699</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>-70.528693</td>
+      <td>-80.874335</td>
+      <td>11040.977790</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>-65.440722</td>
+      <td>-82.780690</td>
+      <td>10867.138921</td>
+    </tr>
+  </tbody>
+</table></p>
+<p><strong> Debido a problemas con la codificacion, este ejercicio fue redactado sin acentos.</strong></p>
+<p><span><h1> Coeficientes del modelo lineal </h1>
+$$\alpha$$ = {1:NM:=-45.3766910303:-1.36130073091}
+<p> valor-p={1:NM:=0.681904429971:0.0204571328991}</p>
+<span style="white-space: nowrap"> $$\beta_{X_1}$$ = {1:NM:=-65.9779778862:-1.97933933659}</span> 
+<p> valor-p={1:NM:=3.07456035878e-05:9.22368107634e-07}</p>
+$$\beta_{X_2}$$ = {1:NM:=-79.5972602434:-2.3879178073}
+<p> valor-p={1:NM:=0.000143280008946:4.29840026837e-06}</p>
+$$R^2$${1:NM:=0.999940422932:0.029998212688}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>statsModels-1511198784.6274683</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Utilizando el paquete statsmodels.formula.api, calcule los estadisticos indicados para el modelo  </p>
+$$ Y \sim X1 + X2 $$ 
+<p> con los siguientes datos </p> 
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>X1</th>
+      <th>X2</th>
+      <th>Y</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>92.690337</td>
+      <td>-32.266080</td>
+      <td>8995.164216</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>97.564116</td>
+      <td>-44.451660</td>
+      <td>9489.520783</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>94.945817</td>
+      <td>-45.893622</td>
+      <td>9253.006981</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>90.792855</td>
+      <td>-54.012948</td>
+      <td>8882.885786</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>92.519085</td>
+      <td>-29.352056</td>
+      <td>8958.847330</td>
+    </tr>
+  </tbody>
+</table></p>
+<p><strong> Debido a problemas con la codificacion, este ejercicio fue redactado sin acentos.</strong></p>
+<p><span><h1> Coeficientes del modelo lineal </h1>
+$$\alpha$$ = {1:NM:=118.773794626:3.56321383877}
+<p> valor-p={1:NM:=0.390413381057:0.0117124014317}</p>
+<span style="white-space: nowrap"> $$\beta_{X_1}$$ = {1:NM:=94.5232054894:2.83569616468}</span> 
+<p> valor-p={1:NM:=0.000151340097243:4.54020291728e-06}</p>
+$$\beta_{X_2}$$ = {1:NM:=-3.39980868829:-0.101994260649}
+<p> valor-p={1:NM:=0.00758747726428:0.000227624317929}</p>
+$$R^2$${1:NM:=0.99970680492:0.0299912041476}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>statsModels-1511198784.6274774</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Utilizando el paquete statsmodels.formula.api, calcule los estadisticos indicados para el modelo  </p>
+$$ Y \sim X1 + X2 $$ 
+<p> con los siguientes datos </p> 
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>X1</th>
+      <th>X2</th>
+      <th>Y</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>-71.537834</td>
+      <td>96.876097</td>
+      <td>-1021.423350</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>-82.045003</td>
+      <td>99.734735</td>
+      <td>-639.106834</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>-82.100159</td>
+      <td>98.284008</td>
+      <td>-566.868070</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>-81.139091</td>
+      <td>99.004291</td>
+      <td>-646.491723</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>-76.145763</td>
+      <td>99.275412</td>
+      <td>-899.627390</td>
+    </tr>
+  </tbody>
+</table></p>
+<p><strong> Debido a problemas con la codificacion, este ejercicio fue redactado sin acentos.</strong></p>
+<p><span><h1> Coeficientes del modelo lineal </h1>
+$$\alpha$$ = {1:NM:=-206.045771685:-6.18137315055}
+<p> valor-p={1:NM:=0.389302919352:0.0116790875806}</p>
+<span style="white-space: nowrap"> $$\beta_{X_1}$$ = {1:NM:=-48.6405718695:-1.45921715609}</span> 
+<p> valor-p={1:NM:=0.000115478057655:3.46434172965e-06}</p>
+$$\beta_{X_2}$$ = {1:NM:=-44.3199466794:-1.32959840038}
+<p> valor-p={1:NM:=0.00241006011428:7.23018034285e-05}</p>
+$$R^2$${1:NM:=0.999838487862:0.0299951546359}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>statsModels-1511198784.627486</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Utilizando el paquete statsmodels.formula.api, calcule los estadisticos indicados para el modelo  </p>
+$$ Y \sim X1 + X2 $$ 
+<p> con los siguientes datos </p> 
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>X1</th>
+      <th>X2</th>
+      <th>Y</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>43.846389</td>
+      <td>-73.936739</td>
+      <td>4985.841701</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>57.096958</td>
+      <td>-69.147117</td>
+      <td>5030.983641</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>36.518061</td>
+      <td>-76.027283</td>
+      <td>4929.349346</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>68.419649</td>
+      <td>-74.217883</td>
+      <td>5556.763830</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>49.703852</td>
+      <td>-72.648895</td>
+      <td>5044.161841</td>
+    </tr>
+  </tbody>
+</table></p>
+<p><strong> Debido a problemas con la codificacion, este ejercicio fue redactado sin acentos.</strong></p>
+<p><span><h1> Coeficientes del modelo lineal </h1>
+$$\alpha$$ = {1:NM:=54.8027490006:1.64408247002}
+<p> valor-p={1:NM:=0.435009788226:0.0130502936468}</p>
+<span style="white-space: nowrap"> $$\beta_{X_1}$$ = {1:NM:=22.6869720351:0.680609161053}</span> 
+<p> valor-p={1:NM:=4.42844993732e-05:1.3285349812e-06}</p>
+$$\beta_{X_2}$$ = {1:NM:=-53.2126065386:-1.59637819616}
+<p> valor-p={1:NM:=0.000184547438672:5.53642316015e-06}</p>
+$$R^2$${1:NM:=0.999912002825:0.0299973600848}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>statsModels-1511198784.6274943</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Utilizando el paquete statsmodels.formula.api, calcule los estadisticos indicados para el modelo  </p>
+$$ Y \sim X1 + X2 $$ 
+<p> con los siguientes datos </p> 
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>X1</th>
+      <th>X2</th>
+      <th>Y</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>21.871331</td>
+      <td>-31.643645</td>
+      <td>-1942.678440</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>28.770211</td>
+      <td>-42.097465</td>
+      <td>-2604.525020</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>25.498141</td>
+      <td>-38.128779</td>
+      <td>-2373.275838</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>23.379404</td>
+      <td>-38.416221</td>
+      <td>-2439.471876</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>20.091186</td>
+      <td>-33.618361</td>
+      <td>-2137.714880</td>
+    </tr>
+  </tbody>
+</table></p>
+<p><strong> Debido a problemas con la codificacion, este ejercicio fue redactado sin acentos.</strong></p>
+<p><span><h1> Coeficientes del modelo lineal </h1>
+$$\alpha$$ = {1:NM:=40.993119139:1.22979357417}
+<p> valor-p={1:NM:=0.0989245464359:0.00296773639308}</p>
+<span style="white-space: nowrap"> $$\beta_{X_1}$$ = {1:NM:=22.513745025:0.67541235075}</span> 
+<p> valor-p={1:NM:=0.00197419622138:5.92258866414e-05}</p>
+$$\beta_{X_2}$$ = {1:NM:=78.2770898302:2.3483126949}
+<p> valor-p={1:NM:=0.000106963668261:3.20891004782e-06}</p>
+$$R^2$${1:NM:=0.999929806943:0.0299978942083}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

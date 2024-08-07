@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>algSupD0104_sector-1515990443.3719156</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1> Área de un sector de círculo </h1>
+    <p>
+    Encuentre el área del sector de un círculo de radio 45cm formado por un
+    ángulo de 349°.
+    </p>
+    <pre> Área: {1:NM:=6167.339078078463:185.02017234235387} cm<sup>2</sup> </pre>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>algSupD0104_sector-1515990443.3719385</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1> Área de un sector de círculo </h1>
+    <p>
+    Encuentre el área del sector de un círculo de radio 43cm formado por un
+    ángulo de 191°.
+    </p>
+    <pre> Área: {1:NM:=3081.8936665253273:92.45680999575981} cm<sup>2</sup> </pre>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

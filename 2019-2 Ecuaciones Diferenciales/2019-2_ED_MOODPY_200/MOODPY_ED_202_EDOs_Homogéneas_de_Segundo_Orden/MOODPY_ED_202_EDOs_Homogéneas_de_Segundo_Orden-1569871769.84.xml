@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY_ED_202_EDOs_Homogéneas_de_Segundo_Orden-1569871769.85</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> EDOs lineales de 2o Orden </h1>
+    <h2> Caso homogéneo </h2>
+    <p> Encuentre la solución \(u(x)\) de la siguiente ecuación diferencial
+    \(9 \, \frac{\partial}{\partial x}u\left(x\right) + \frac{\partial^{2}}{(\partial x)^{2}}u\left(x\right) = 0\) con condiciones iniciales \(u(0)=1, \; u'(0)=0\)
+    y evalue en el punto dado:</p>
+    <pre>
+    u(1.42) = {1:NM:=1.00000000000000:0.0300000000000000}
+    </pre>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La solución del problema de condiciones iniciales es
+    \(u(x)=1\)
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY_ED_202_EDOs_Homogéneas_de_Segundo_Orden-1569871769.85</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> EDOs lineales de 2o Orden </h1>
+    <h2> Caso homogéneo </h2>
+    <p> Encuentre la solución \(u(x)\) de la siguiente ecuación diferencial
+    \(7 \, u\left(x\right) - 10 \, \frac{\partial}{\partial x}u\left(x\right) + \frac{\partial^{2}}{(\partial x)^{2}}u\left(x\right) = 0\) con condiciones iniciales \(u(0)=0, \; u'(0)=-1\)
+    y evalue en el punto dado:</p>
+    <pre>
+    u(1.48) = {1:NM:=-102823.750522271:-3084.71251566812}
+    </pre>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La solución del problema de condiciones iniciales es
+    \(u(x)=-\frac{1}{12} \, \sqrt{2} {\left(e^{\left(6 \, \sqrt{2} x + 5 \, x\right)} - e^{\left(5 \, x\right)}\right)} e^{\left(-3 \, \sqrt{2} x\right)}\)
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY_ED_202_EDOs_Homogéneas_de_Segundo_Orden-1569871769.85</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> EDOs lineales de 2o Orden </h1>
+    <h2> Caso homogéneo </h2>
+    <p> Encuentre la solución \(u(x)\) de la siguiente ecuación diferencial
+    \(-10 \, u\left(x\right) + 4 \, \frac{\partial}{\partial x}u\left(x\right) + \frac{\partial^{2}}{(\partial x)^{2}}u\left(x\right) = 0\) con condiciones iniciales \(u(0)=1, \; u'(0)=0\)
+    y evalue en el punto dado:</p>
+    <pre>
+    u(1.73) = {1:NM:=15.6135647132508:0.468406941397524}
+    </pre>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La solución del problema de condiciones iniciales es
+    \(u(x)=\frac{1}{14} \, {\left(\sqrt{14} e^{\left(2 \, \sqrt{14} x\right)} - \sqrt{14} + 7 \, e^{\left(2 \, \sqrt{14} x\right)} + 7\right)} e^{\left(-\sqrt{14} x - 2 \, x\right)}\)
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY_ED_202_EDOs_Homogéneas_de_Segundo_Orden-1569871769.85</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> EDOs lineales de 2o Orden </h1>
+    <h2> Caso homogéneo </h2>
+    <p> Encuentre la solución \(u(x)\) de la siguiente ecuación diferencial
+    \(-10 \, u\left(x\right) - 6 \, \frac{\partial}{\partial x}u\left(x\right) + \frac{\partial^{2}}{(\partial x)^{2}}u\left(x\right) = 0\) con condiciones iniciales \(u(0)=0, \; u'(0)=1\)
+    y evalue en el punto dado:</p>
+    <pre>
+    u(1.59) = {1:NM:=13839.4943741094:415.184831223282}
+    </pre>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La solución del problema de condiciones iniciales es
+    \(u(x)=\frac{1}{38} \, \sqrt{19} {\left(e^{\left(2 \, \sqrt{19} x + 3 \, x\right)} - e^{\left(3 \, x\right)}\right)} e^{\left(-\sqrt{19} x\right)}\)
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY_ED_202_EDOs_Homogéneas_de_Segundo_Orden-1569871769.85</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <h1> EDOs lineales de 2o Orden </h1>
+    <h2> Caso homogéneo </h2>
+    <p> Encuentre la solución \(u(x)\) de la siguiente ecuación diferencial
+    \(-8 \, u\left(x\right) - 3 \, \frac{\partial}{\partial x}u\left(x\right) + \frac{\partial^{2}}{(\partial x)^{2}}u\left(x\right) = 0\) con condiciones iniciales \(u(0)=-1, \; u'(0)=0\)
+    y evalue en el punto dado:</p>
+    <pre>
+    u(1.53) = {1:NM:=-353.648835488959:-10.6094650646688}
+    </pre>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    La solución del problema de condiciones iniciales es
+    \(u(x)=\frac{1}{82} \, {\left(3 \, \sqrt{41} e^{\left(\sqrt{41} x + \frac{3}{2} \, x\right)} - 3 \, \sqrt{41} e^{\left(\frac{3}{2} \, x\right)} - 41 \, e^{\left(\sqrt{41} x + \frac{3}{2} \, x\right)} - 41 \, e^{\left(\frac{3}{2} \, x\right)}\right)} e^{\left(-\frac{1}{2} \, \sqrt{41} x\right)}\)
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

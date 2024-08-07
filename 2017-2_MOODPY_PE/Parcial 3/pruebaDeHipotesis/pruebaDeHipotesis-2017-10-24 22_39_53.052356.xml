@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-2017-10-24 22:39:53.052710</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=5539
+Hipótesis alternativa: Ao>5539
+Desviación estándar: s=63
+Tamaño de la muestra: n=755
+Valor del estimador: A=5539
+Nivel de significación: beta=5539
+Determine el valor de la constante k yencuentre los siguientes estadísticos:</p>
+<p><span>Valor Z={1:NM:=-0.446312133587:-0.0133893640076}
+$valor-p${1:NM:=0.672314103602:0.020169423108}
+$La hipótesis nula Ho se 
+${1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-2017-10-24 22:39:53.052767</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=41
+Hipótesis alternativa: Ao>41
+Desviación estándar: s=9
+Tamaño de la muestra: n=318
+Valor del estimador: A=41
+Nivel de significación: beta=41
+Determine el valor de la constante k yencuentre los siguientes estadísticos:</p>
+<p><span>Valor Z={1:NM:=-0.376953820892:-0.0113086146267}
+$valor-p${1:NM:=0.646896038366:0.019406881151}
+$La hipótesis nula Ho se 
+${1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-2017-10-24 22:39:53.052792</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=2537
+Hipótesis alternativa: Ao>2537
+Desviación estándar: s=58
+Tamaño de la muestra: n=978
+Valor del estimador: A=2537
+Nivel de significación: beta=2537
+Determine el valor de la constante k yencuentre los siguientes estadísticos:</p>
+<p><span>Valor Z={1:NM:=1.17680721714:0.0353042165143}
+$valor-p${1:NM:=0.119636230673:0.0035890869202}
+$La hipótesis nula Ho se 
+${1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-2017-10-24 22:39:53.052814</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=6071
+Hipótesis alternativa: Ao>6071
+Desviación estándar: s=38
+Tamaño de la muestra: n=379
+Valor del estimador: A=6071
+Nivel de significación: beta=6071
+Determine el valor de la constante k yencuentre los siguientes estadísticos:</p>
+<p><span>Valor Z={1:NM:=0.242640693945:0.00727922081834}
+$valor-p${1:NM:=0.404141876929:0.0121242563079}
+$La hipótesis nula Ho se 
+${1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-2017-10-24 22:39:53.052837</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Hipótesis nula Ho: Ao=877
+Hipótesis alternativa: Ao>877
+Desviación estándar: s=46
+Tamaño de la muestra: n=979
+Valor del estimador: A=877
+Nivel de significación: beta=877
+Determine el valor de la constante k yencuentre los siguientes estadísticos:</p>
+<p><span>Valor Z={1:NM:=-0.324181080275:-0.00972543240825}
+$valor-p${1:NM:=0.62709952748:0.0188129858244}
+$La hipótesis nula Ho se 
+${1:MC:=acepta~rechaza}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

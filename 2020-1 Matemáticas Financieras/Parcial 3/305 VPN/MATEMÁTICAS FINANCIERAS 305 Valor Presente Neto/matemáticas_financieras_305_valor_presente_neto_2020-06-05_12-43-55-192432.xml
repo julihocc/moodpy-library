@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 001  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 001 MATEMÁTICAS FINANCIERAS 305 Valor Presente Neto 2020-06-05 12:43:55.193704</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Valor Presente Neto </h1> 
+    Calcula el valor presente neto del siguiente flujo de caja
+    <pre><table>
+<tbody>
+<tr><td>Inversión  </td><td>-$987000</td></tr>
+<tr><td>Bimestre 1 </td><td>$36000  </td></tr>
+<tr><td>Bimestre 2 </td><td>$160000 </td></tr>
+<tr><td>Bimestre 3 </td><td>$126000 </td></tr>
+<tr><td>Bimestre 4 </td><td>$125000 </td></tr>
+<tr><td>Bimestre 5 </td><td>$106000 </td></tr>
+<tr><td>Bimestre 6 </td><td>$113000 </td></tr>
+<tr><td>Bimestre 7 </td><td>$97000  </td></tr>
+<tr><td>Bimestre 8 </td><td>$181000 </td></tr>
+<tr><td>Bimestre 9 </td><td>$203000 </td></tr>
+<tr><td>Bimestre 10</td><td>$34000  </td></tr>
+<tr><td>Bimestre 11</td><td>$91000  </td></tr>
+<tr><td>Bimestre 12</td><td>$3000   </td></tr>
+</tbody>
+</table></pre>
+    con un costo de capital de 10.98% anual, compuesto bimestralmente.
+    <pre> Valor Presente Neto: {1:NM:=156138.88351880544:156.13888351880544}.
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 002  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 002 MATEMÁTICAS FINANCIERAS 305 Valor Presente Neto 2020-06-05 12:43:55.193739</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Valor Presente Neto </h1> 
+    Calcula el valor presente neto del siguiente flujo de caja
+    <pre><table>
+<tbody>
+<tr><td>Inversión  </td><td>-$994000</td></tr>
+<tr><td>Trimestre 1</td><td>$258000 </td></tr>
+<tr><td>Trimestre 2</td><td>$143000 </td></tr>
+<tr><td>Trimestre 3</td><td>$111000 </td></tr>
+<tr><td>Trimestre 4</td><td>$23000  </td></tr>
+<tr><td>Trimestre 5</td><td>$208000 </td></tr>
+<tr><td>Trimestre 6</td><td>$180000 </td></tr>
+<tr><td>Trimestre 7</td><td>$126000 </td></tr>
+<tr><td>Trimestre 8</td><td>$22000  </td></tr>
+</tbody>
+</table></pre>
+    con un costo de capital de 18.0% anual, compuesto trimestralmente.
+    <pre> Valor Presente Neto: {1:NM:=-86415.32184368902:-86.41532184368901}.
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 003  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 003 MATEMÁTICAS FINANCIERAS 305 Valor Presente Neto 2020-06-05 12:43:55.193751</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Valor Presente Neto </h1> 
+    Calcula el valor presente neto del siguiente flujo de caja
+    <pre><table>
+<tbody>
+<tr><td>Inversión     </td><td>-$975000</td></tr>
+<tr><td>Cuatrimestre 1</td><td>$75000  </td></tr>
+<tr><td>Cuatrimestre 2</td><td>$143000 </td></tr>
+<tr><td>Cuatrimestre 3</td><td>$152000 </td></tr>
+<tr><td>Cuatrimestre 4</td><td>$191000 </td></tr>
+<tr><td>Cuatrimestre 5</td><td>$217000 </td></tr>
+<tr><td>Cuatrimestre 6</td><td>$273000 </td></tr>
+<tr><td>Cuatrimestre 7</td><td>$117000 </td></tr>
+<tr><td>Cuatrimestre 8</td><td>$118000 </td></tr>
+<tr><td>Cuatrimestre 9</td><td>$61000  </td></tr>
+</tbody>
+</table></pre>
+    con un costo de capital de 12.99% anual, compuesto cuatrimestral.
+    <pre> Valor Presente Neto: {1:NM:=123250.46389149653:123.25046389149654}.
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 004  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 004 MATEMÁTICAS FINANCIERAS 305 Valor Presente Neto 2020-06-05 12:43:55.193759</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Valor Presente Neto </h1> 
+    Calcula el valor presente neto del siguiente flujo de caja
+    <pre><table>
+<tbody>
+<tr><td>Inversión</td><td>-$1020000</td></tr>
+<tr><td>Año 1    </td><td>$357000  </td></tr>
+<tr><td>Año 2    </td><td>$159000  </td></tr>
+<tr><td>Año 3    </td><td>$76000   </td></tr>
+<tr><td>Año 4    </td><td>$461000  </td></tr>
+<tr><td>Año 5    </td><td>$430000  </td></tr>
+<tr><td>Año 6    </td><td>$183000  </td></tr>
+<tr><td>Año 7    </td><td>$304000  </td></tr>
+<tr><td>Año 8    </td><td>$152000  </td></tr>
+<tr><td>Año 9    </td><td>$373000  </td></tr>
+<tr><td>Año 10   </td><td>$49000   </td></tr>
+</tbody>
+</table></pre>
+    con un costo de capital de 18.0% anual, compuesto anualmente.
+    <pre> Valor Presente Neto: {1:NM:=165842.5339574161:165.8425339574161}.
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 005  --> 
+<question type="cloze">
+<name>
+<text>Pregunta 005 MATEMÁTICAS FINANCIERAS 305 Valor Presente Neto 2020-06-05 12:43:55.193767</text>
+</name>
+
+        <questiontext format="html">
+<text>
+<![CDATA[
+<h1> Valor Presente Neto </h1> 
+    Calcula el valor presente neto del siguiente flujo de caja
+    <pre><table>
+<tbody>
+<tr><td>Inversión</td><td>-$1005000</td></tr>
+<tr><td>Año 1    </td><td>$205000  </td></tr>
+<tr><td>Año 2    </td><td>$204000  </td></tr>
+<tr><td>Año 3    </td><td>$199000  </td></tr>
+<tr><td>Año 4    </td><td>$120000  </td></tr>
+<tr><td>Año 5    </td><td>$166000  </td></tr>
+<tr><td>Año 6    </td><td>$385000  </td></tr>
+<tr><td>Año 7    </td><td>$-35000  </td></tr>
+<tr><td>Año 8    </td><td>$24000   </td></tr>
+<tr><td>Año 9    </td><td>$242000  </td></tr>
+<tr><td>Año 10   </td><td>$197000  </td></tr>
+</tbody>
+</table></pre>
+    con un costo de capital de 12.0% anual, compuesto anualmente.
+    <pre> Valor Presente Neto: {1:NM:=-7627.127679250276:-7.627127679250276}.
+    
+]]>
+</text></questiontext>
+
+        <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>
+
+
+

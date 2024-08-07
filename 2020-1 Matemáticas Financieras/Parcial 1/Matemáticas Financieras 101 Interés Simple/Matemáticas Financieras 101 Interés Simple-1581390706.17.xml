@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.17</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1014, invertido a una tasa de interes simple de 10%,
+    durante 2 cuatrimestres.
+    <p> Valor futuro \(A=\){1:NM:=1081.6:32.44799999999999}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.17</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $970, invertido a una tasa de interes simple de 10%,
+    durante 10 meses.
+    <p> Valor futuro \(A=\){1:NM:=1050.8333333333333:31.524999999999995}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.17</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $965, invertido a una tasa de interes simple de 8%,
+    durante 5 trimestres.
+    <p> Valor futuro \(A=\){1:NM:=1061.5:31.845}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.17</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $927, invertido a una tasa de interes simple de 8%,
+    durante 3 trimestres.
+    <p> Valor futuro \(A=\){1:NM:=982.62:29.4786}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.17</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1007, invertido a una tasa de interes simple de 6%,
+    durante 2 cuatrimestres.
+    <p> Valor futuro \(A=\){1:NM:=1047.28:31.4184}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $957, invertido a una tasa de interes simple de 13%,
+    durante 4 bimestres.
+    <p> Valor futuro \(A=\){1:NM:=1039.94:31.1982}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $980, invertido a una tasa de interes simple de 11%,
+    durante 14 meses.
+    <p> Valor futuro \(A=\){1:NM:=1105.7666666666667:33.173}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $957, invertido a una tasa de interes simple de 11%,
+    durante 14 meses.
+    <p> Valor futuro \(A=\){1:NM:=1079.815:32.39445}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $984, invertido a una tasa de interes simple de 8%,
+    durante 14 meses.
+    <p> Valor futuro \(A=\){1:NM:=1075.84:32.2752}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $967, invertido a una tasa de interes simple de 14%,
+    durante 18 meses.
+    <p> Valor futuro \(A=\){1:NM:=1170.07:35.1021}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $974, invertido a una tasa de interes simple de 15%,
+    durante 3 semestres.
+    <p> Valor futuro \(A=\){1:NM:=1193.15:35.7945}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1086, invertido a una tasa de interes simple de 7%,
+    durante 4 cuatrimestres.
+    <p> Valor futuro \(A=\){1:NM:=1187.36:35.620799999999996}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $929, invertido a una tasa de interes simple de 11%,
+    durante 7 trimestres.
+    <p> Valor futuro \(A=\){1:NM:=1107.8325:33.234975}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1003, invertido a una tasa de interes simple de 11%,
+    durante 3 bimestres.
+    <p> Valor futuro \(A=\){1:NM:=1058.165:31.74495}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $979, invertido a una tasa de interes simple de 9%,
+    durante 5 cuatrimestres.
+    <p> Valor futuro \(A=\){1:NM:=1125.85:33.775499999999994}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $990, invertido a una tasa de interes simple de 9%,
+    durante 5 cuatrimestres.
+    <p> Valor futuro \(A=\){1:NM:=1138.5:34.155}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $993, invertido a una tasa de interes simple de 10%,
+    durante 2 años.
+    <p> Valor futuro \(A=\){1:NM:=1191.6:35.748}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $985, invertido a una tasa de interes simple de 11%,
+    durante 7 bimestres.
+    <p> Valor futuro \(A=\){1:NM:=1111.4083333333333:33.34225}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1016, invertido a una tasa de interes simple de 5%,
+    durante 19 meses.
+    <p> Valor futuro \(A=\){1:NM:=1096.4333333333332:32.892999999999994}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1033, invertido a una tasa de interes simple de 11%,
+    durante 11 meses.
+    <p> Valor futuro \(A=\){1:NM:=1137.1608333333334:34.114824999999996}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1014, invertido a una tasa de interes simple de 7%,
+    durante 3 trimestres.
+    <p> Valor futuro \(A=\){1:NM:=1067.235:32.01705}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1036, invertido a una tasa de interes simple de 11%,
+    durante 2 cuatrimestres.
+    <p> Valor futuro \(A=\){1:NM:=1111.9733333333334:33.3592}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1002, invertido a una tasa de interes simple de 9%,
+    durante 2 trimestres.
+    <p> Valor futuro \(A=\){1:NM:=1047.09:31.412699999999997}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $975, invertido a una tasa de interes simple de 7%,
+    durante 3 trimestres.
+    <p> Valor futuro \(A=\){1:NM:=1026.1875:30.785625}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $974, invertido a una tasa de interes simple de 11%,
+    durante 14 meses.
+    <p> Valor futuro \(A=\){1:NM:=1098.9966666666667:32.969899999999996}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1027, invertido a una tasa de interes simple de 9%,
+    durante 15 meses.
+    <p> Valor futuro \(A=\){1:NM:=1142.5375000000001:34.276125}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $952, invertido a una tasa de interes simple de 8%,
+    durante 10 meses.
+    <p> Valor futuro \(A=\){1:NM:=1015.4666666666667:30.464}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1016, invertido a una tasa de interes simple de 10%,
+    durante 14 meses.
+    <p> Valor futuro \(A=\){1:NM:=1134.5333333333333:34.036}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1042, invertido a una tasa de interes simple de 11%,
+    durante 4 bimestres.
+    <p> Valor futuro \(A=\){1:NM:=1118.4133333333332:33.55239999999999}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $966, invertido a una tasa de interes simple de 15%,
+    durante 7 bimestres.
+    <p> Valor futuro \(A=\){1:NM:=1135.05:34.0515}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1005, invertido a una tasa de interes simple de 9%,
+    durante 2 trimestres.
+    <p> Valor futuro \(A=\){1:NM:=1050.225:31.506749999999997}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1009, invertido a una tasa de interes simple de 9%,
+    durante 2 años.
+    <p> Valor futuro \(A=\){1:NM:=1190.62:35.718599999999995}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1008, invertido a una tasa de interes simple de 11%,
+    durante 2 bimestres.
+    <p> Valor futuro \(A=\){1:NM:=1044.96:31.3488}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1089, invertido a una tasa de interes simple de 10%,
+    durante 5 cuatrimestres.
+    <p> Valor futuro \(A=\){1:NM:=1270.5:38.115}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $976, invertido a una tasa de interes simple de 13%,
+    durante 8 cuatrimestres.
+    <p> Valor futuro \(A=\){1:NM:=1314.3466666666666:39.4304}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1036, invertido a una tasa de interes simple de 11%,
+    durante 4 semestres.
+    <p> Valor futuro \(A=\){1:NM:=1263.92:37.9176}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1049, invertido a una tasa de interes simple de 7%,
+    durante 2 años.
+    <p> Valor futuro \(A=\){1:NM:=1195.8600000000001:35.875800000000005}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $947, invertido a una tasa de interes simple de 12%,
+    durante 10 bimestres.
+    <p> Valor futuro \(A=\){1:NM:=1136.3999999999999:34.09199999999999}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $989, invertido a una tasa de interes simple de 12%,
+    durante 5 meses.
+    <p> Valor futuro \(A=\){1:NM:=1038.45:31.1535}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $988, invertido a una tasa de interes simple de 13%,
+    durante 11 meses.
+    <p> Valor futuro \(A=\){1:NM:=1105.7366666666667:33.1721}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1016, invertido a una tasa de interes simple de 12%,
+    durante 4 cuatrimestres.
+    <p> Valor futuro \(A=\){1:NM:=1178.56:35.3568}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1006, invertido a una tasa de interes simple de 11%,
+    durante 5 trimestres.
+    <p> Valor futuro \(A=\){1:NM:=1144.325:34.32975}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $985, invertido a una tasa de interes simple de 13%,
+    durante 17 meses.
+    <p> Valor futuro \(A=\){1:NM:=1166.4041666666667:34.992125}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $974, invertido a una tasa de interes simple de 9%,
+    durante 10 meses.
+    <p> Valor futuro \(A=\){1:NM:=1047.05:31.411499999999997}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1009, invertido a una tasa de interes simple de 15%,
+    durante 9 trimestres.
+    <p> Valor futuro \(A=\){1:NM:=1349.5375:40.486124999999994}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1021, invertido a una tasa de interes simple de 7%,
+    durante 7 cuatrimestres.
+    <p> Valor futuro \(A=\){1:NM:=1187.7633333333333:35.6329}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $985, invertido a una tasa de interes simple de 13%,
+    durante 7 bimestres.
+    <p> Valor futuro \(A=\){1:NM:=1134.3916666666667:34.031749999999995}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1029, invertido a una tasa de interes simple de 11%,
+    durante 11 meses.
+    <p> Valor futuro \(A=\){1:NM:=1132.7575:33.982724999999995}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1059, invertido a una tasa de interes simple de 10%,
+    durante 11 meses.
+    <p> Valor futuro \(A=\){1:NM:=1156.0749999999998:34.682249999999996}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>Matemáticas Financieras 101 Interés Simple-1581390706.18</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+<h1> InteréS Simple </h1>
+    Encuentra el valor futuro de un principal de $1006, invertido a una tasa de interes simple de 10%,
+    durante 13 meses.
+    <p> Valor futuro \(A=\){1:NM:=1114.9833333333333:33.4495}
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Para interés simple, el valor futuro está dado por \(A=P(1+rt)\), con \(P\) el principal, 
+    \(r\) la tasa de interés anual y \(t\) el tiempo medido en años.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

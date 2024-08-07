@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>TR0402-2016-10-08 21:01:11.105758</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Realice la siguiente operación: </p><p> 
+\[{\left(4 \, x + 3 \, y\right)} {\left(4 \, x - 3 \, y\right)}\]</p><p> 
+</p>
+<p><span>{1:MCV:=16*x^2 - 9*y^2~x^2 - 36*y^2~49*x^2 - 81*y^2~4*x^2 - 9*y^2}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>TR0402-2016-10-08 21:01:11.105849</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Realice la siguiente operación: </p><p> 
+\[{\left(x + 6 \, y\right)} {\left(x - 6 \, y\right)}\]</p><p> 
+</p>
+<p><span>{1:MCV:16*x^2 - 9*y^2~=x^2 - 36*y^2~49*x^2 - 81*y^2~4*x^2 - 9*y^2}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>TR0402-2016-10-08 21:01:11.105925</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Realice la siguiente operación: </p><p> 
+\[{\left(7 \, x + 9 \, y\right)} {\left(7 \, x - 9 \, y\right)}\]</p><p> 
+</p>
+<p><span>{1:MCV:16*x^2 - 9*y^2~x^2 - 36*y^2~=49*x^2 - 81*y^2~4*x^2 - 9*y^2}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>TR0402-2016-10-08 21:01:11.105988</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Realice la siguiente operación: </p><p> 
+\[{\left(2 \, x + 3 \, y\right)} {\left(2 \, x - 3 \, y\right)}\]</p><p> 
+</p>
+<p><span>{1:MCV:16*x^2 - 9*y^2~x^2 - 36*y^2~49*x^2 - 81*y^2~=4*x^2 - 9*y^2}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

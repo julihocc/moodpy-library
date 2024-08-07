@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>TR0305-2016-09-03 16:31:16.264336</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Realice la siguiente operación: </p><p> 
+\[\left(-\frac{155}{3}\right)\left(\frac{25}{2} \, x^{4} - \frac{265}{4} \, x^{3} - \frac{292}{3} \, x^{2} + \frac{274}{3} \, x + \frac{95}{4} \right)\]</p><p> 
+\[-\left(-\frac{212}{3}\right)\left(-\frac{127}{2} \, x^{3} + 41 \, x^{2} - 29 \, x - 74 \right)=\]</p><p> 
+</p>
+<p><span>{1:MCV:=-3875/6*x^4 - 12773/12*x^3 + 71336/9*x^2 - 60914/9*x - 77477/12~-20020/9*x^4 - 2374424/315*x^3 - 13334/63*x^2 - 14552/9*x + 1336/7~-15392/3*x^4 - 30791/4*x^3 + 53657/12*x^2 - 58689/8*x - 69901/18~57239/16*x^4 - 30786/5*x^3 - 83909/30*x^2 - 4130/3*x + 95837/15}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>TR0305-2016-09-03 16:31:16.264365</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Realice la siguiente operación: </p><p> 
+\[\left(-\frac{440}{9}\right)\left(\frac{91}{2} \, x^{4} + \frac{425}{7} \, x^{3} - \frac{197}{4} \, x^{2} - 41 \, x - \frac{423}{7} \right)\]</p><p> 
+\[-\left(48\right)\left(\frac{476}{5} \, x^{3} + \frac{382}{7} \, x^{2} + \frac{679}{9} \, x + \frac{403}{7} \right)=\]</p><p> 
+</p>
+<p><span>{1:MCV:-3875/6*x^4 - 12773/12*x^3 + 71336/9*x^2 - 60914/9*x - 77477/12~=-20020/9*x^4 - 2374424/315*x^3 - 13334/63*x^2 - 14552/9*x + 1336/7~-15392/3*x^4 - 30791/4*x^3 + 53657/12*x^2 - 58689/8*x - 69901/18~57239/16*x^4 - 30786/5*x^3 - 83909/30*x^2 - 4130/3*x + 95837/15}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>TR0305-2016-09-03 16:31:16.264377</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Realice la siguiente operación: </p><p> 
+\[\left(-74\right)\left(\frac{208}{3} \, x^{4} + \frac{98}{3} \, x^{3} - 59 \, x^{2} + 97 \, x - 2 \right)\]</p><p> 
+\[-\left(\frac{115}{2}\right)\left(\frac{551}{6} \, x^{3} - \frac{11}{6} \, x^{2} + \frac{11}{4} \, x + \frac{631}{9} \right)=\]</p><p> 
+</p>
+<p><span>{1:MCV:-3875/6*x^4 - 12773/12*x^3 + 71336/9*x^2 - 60914/9*x - 77477/12~-20020/9*x^4 - 2374424/315*x^3 - 13334/63*x^2 - 14552/9*x + 1336/7~=-15392/3*x^4 - 30791/4*x^3 + 53657/12*x^2 - 58689/8*x - 69901/18~57239/16*x^4 - 30786/5*x^3 - 83909/30*x^2 - 4130/3*x + 95837/15}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>TR0305-2016-09-03 16:31:16.264386</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Realice la siguiente operación: </p><p> 
+\[\left(\frac{119}{2}\right)\left(\frac{481}{8} \, x^{4} - \frac{258}{5} \, x^{3} + \frac{93}{5} \, x^{2} + \frac{106}{3} \, x + \frac{482}{5} \right)\]</p><p> 
+\[-\left(-49\right)\left(-63 \, x^{3} - \frac{239}{3} \, x^{2} - 71 \, x + \frac{40}{3} \right)=\]</p><p> 
+</p>
+<p><span>{1:MCV:-3875/6*x^4 - 12773/12*x^3 + 71336/9*x^2 - 60914/9*x - 77477/12~-20020/9*x^4 - 2374424/315*x^3 - 13334/63*x^2 - 14552/9*x + 1336/7~-15392/3*x^4 - 30791/4*x^3 + 53657/12*x^2 - 58689/8*x - 69901/18~=57239/16*x^4 - 30786/5*x^3 - 83909/30*x^2 - 4130/3*x + 95837/15}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

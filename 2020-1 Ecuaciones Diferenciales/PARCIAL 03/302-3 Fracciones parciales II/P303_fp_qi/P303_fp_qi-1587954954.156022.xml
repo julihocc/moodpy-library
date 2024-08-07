@@ -1,0 +1,7003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1577</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{3 \, x^{2} - 76 \, x - 295}{{\left(x^{2} + 16 \, x + 67\right)} {\left(x - 3\right)}} = \frac{A_0}{(x - 3)}+\frac{A_1 x + A_2}{x^{2} + 16 \, x + 67}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-4} <br>
+    \(A_1 =\) {1:NM:=7} <br>
+    \(A_2 =\) {1:NM:=9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.157711</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{12 \, x^{2} + 125 \, x + 574}{{\left(x^{2} + 18 \, x + 82\right)} x} = \frac{A_0}{(x)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 82}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=7} <br>
+    \(A_1 =\) {1:NM:=5} <br>
+    \(A_2 =\) {1:NM:=-1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1577191</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{14 \, x^{2} + 54 \, x + 125}{{\left(x^{2} - 8 \, x + 17\right)} {\left(x + 10\right)}} = \frac{A_0}{(x + 10)}+\frac{A_1 x + A_2}{x^{2} - 8 \, x + 17}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=5} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.157724</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{x^{2} - 85 \, x - 648}{{\left(x^{2} + 20 \, x + 101\right)} {\left(x + 6\right)}} = \frac{A_0}{(x + 6)}+\frac{A_1 x + A_2}{x^{2} + 20 \, x + 101}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-6} <br>
+    \(A_1 =\) {1:NM:=7} <br>
+    \(A_2 =\) {1:NM:=-7}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1577287</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{11 \, x^{2} + 75 \, x + 36}{{\left(x^{2} + 6 \, x + 12\right)} {\left(x + 8\right)}} = \frac{A_0}{(x + 8)}+\frac{A_1 x + A_2}{x^{2} + 6 \, x + 12}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=5} <br>
+    \(A_1 =\) {1:NM:=6} <br>
+    \(A_2 =\) {1:NM:=-3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1577332</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{13 \, x^{2} + 73 \, x + 224}{{\left(x^{2} + 14 \, x + 54\right)} {\left(x + 1\right)}} = \frac{A_0}{(x + 1)}+\frac{A_1 x + A_2}{x^{2} + 14 \, x + 54}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-4} <br>
+    \(A_1 =\) {1:NM:=-9} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1577373</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{7 \, x^{2} - 23 \, x + 136}{{\left(x^{2} - 4 \, x + 13\right)} {\left(x + 9\right)}} = \frac{A_0}{(x + 9)}+\frac{A_1 x + A_2}{x^{2} - 4 \, x + 13}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-7} <br>
+    \(A_1 =\) {1:NM:=0} <br>
+    \(A_2 =\) {1:NM:=-5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1577413</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{x^{2} - 63 \, x + 14}{{\left(x^{2} - 2 \, x + 4\right)} {\left(x + 10\right)}} = \frac{A_0}{(x + 10)}+\frac{A_1 x + A_2}{x^{2} - 2 \, x + 4}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-6} <br>
+    \(A_1 =\) {1:NM:=5} <br>
+    \(A_2 =\) {1:NM:=1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.157747</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(x + 28\right)} {\left(x + 2\right)}}{{\left(x^{2} + 8 \, x + 20\right)} {\left(x - 2\right)}} = \frac{A_0}{(x - 2)}+\frac{A_1 x + A_2}{x^{2} + 8 \, x + 20}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=6} <br>
+    \(A_1 =\) {1:NM:=-4} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1577508</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{12 \, x^{2} + 20 \, x + 21}{{\left(x^{2} - 2 \, x + 8\right)} {\left(x + 3\right)}} = \frac{A_0}{(x + 3)}+\frac{A_1 x + A_2}{x^{2} - 2 \, x + 8}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=-9} <br>
+    \(A_2 =\) {1:NM:=1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1577547</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{9 \, x^{2} - 94 \, x + 523}{{\left(x^{2} - 16 \, x + 69\right)} {\left(x + 5\right)}} = \frac{A_0}{(x + 5)}+\frac{A_1 x + A_2}{x^{2} - 16 \, x + 69}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=7} <br>
+    \(A_1 =\) {1:NM:=2} <br>
+    \(A_2 =\) {1:NM:=8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1577733</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{x^{2} + 49 \, x + 128}{{\left(x^{2} + 18 \, x + 85\right)} {\left(x - 7\right)}} = \frac{A_0}{(x - 7)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 85}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=2} <br>
+    \(A_1 =\) {1:NM:=-1} <br>
+    \(A_2 =\) {1:NM:=6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1577792</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(x^{2} - 17 \, x - 30\right)}}{{\left(x^{2} + 14 \, x + 53\right)} {\left(x - 7\right)}} = \frac{A_0}{(x - 7)}+\frac{A_1 x + A_2}{x^{2} + 14 \, x + 53}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=1} <br>
+    \(A_1 =\) {1:NM:=-3} <br>
+    \(A_2 =\) {1:NM:=-1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1577835</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{5 \, x^{2} + 93 \, x + 469}{{\left(x^{2} + 14 \, x + 53\right)} {\left(x + 8\right)}} = \frac{A_0}{(x + 8)}+\frac{A_1 x + A_2}{x^{2} + 14 \, x + 53}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=9} <br>
+    \(A_1 =\) {1:NM:=-4} <br>
+    \(A_2 =\) {1:NM:=-1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1577897</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(x^{2} + 22 \, x + 32\right)}}{{\left(x^{2} + 8 \, x + 20\right)} {\left(x - 4\right)}} = \frac{A_0}{(x - 4)}+\frac{A_1 x + A_2}{x^{2} + 8 \, x + 20}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-4} <br>
+    \(A_1 =\) {1:NM:=2} <br>
+    \(A_2 =\) {1:NM:=-4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1577966</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{16 \, x^{2} - 124 \, x + 175}{{\left(x^{2} - 8 \, x + 20\right)} {\left(x - 7\right)}} = \frac{A_0}{(x - 7)}+\frac{A_1 x + A_2}{x^{2} - 8 \, x + 20}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-7} <br>
+    \(A_1 =\) {1:NM:=-9} <br>
+    \(A_2 =\) {1:NM:=5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578033</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{x^{2} + 19 \, x - 96}{{\left(x^{2} - 12 \, x + 42\right)} {\left(x - 3\right)}} = \frac{A_0}{(x - 3)}+\frac{A_1 x + A_2}{x^{2} - 12 \, x + 42}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-2} <br>
+    \(A_1 =\) {1:NM:=3} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.157807</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{17 \, x^{2} + 14 \, x + 15}{{\left(x^{2} + 4 \, x + 6\right)} {\left(x - 5\right)}} = \frac{A_0}{(x - 5)}+\frac{A_1 x + A_2}{x^{2} + 4 \, x + 6}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=-7} <br>
+    \(A_2 =\) {1:NM:=-9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.157811</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{13 \, x^{2} - 35 \, x + 194}{{\left(x^{2} + 12 \, x + 44\right)} {\left(x - 9\right)}} = \frac{A_0}{(x - 9)}+\frac{A_1 x + A_2}{x^{2} + 12 \, x + 44}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-4} <br>
+    \(A_1 =\) {1:NM:=-9} <br>
+    \(A_2 =\) {1:NM:=2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578147</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{7 \, x^{2} + 20 \, x + 52}{{\left(x^{2} - 4 \, x + 8\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} - 4 \, x + 8}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=-4} <br>
+    \(A_2 =\) {1:NM:=-4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578183</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{4 \, {\left(x + 6\right)}}{{\left(x^{2} - 4 \, x + 9\right)} {\left(x - 3\right)}} = \frac{A_0}{(x - 3)}+\frac{A_1 x + A_2}{x^{2} - 4 \, x + 9}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-6} <br>
+    \(A_1 =\) {1:NM:=6} <br>
+    \(A_2 =\) {1:NM:=-10}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578221</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{41 \, x - 54}{{\left(x^{2} - 6 \, x + 18\right)} {\left(x + 2\right)}} = \frac{A_0}{(x + 2)}+\frac{A_1 x + A_2}{x^{2} - 6 \, x + 18}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=4} <br>
+    \(A_1 =\) {1:NM:=-4} <br>
+    \(A_2 =\) {1:NM:=-9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578329</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{{\left(5 \, x + 11\right)} x}{{\left(x^{2} + 4 \, x + 12\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} + 4 \, x + 12}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=3} <br>
+    \(A_1 =\) {1:NM:=2} <br>
+    \(A_2 =\) {1:NM:=-9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.157837</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(8 \, x^{2} - 36 \, x + 109\right)}}{{\left(x^{2} - 8 \, x + 25\right)} {\left(x + 1\right)}} = \frac{A_0}{(x + 1)}+\frac{A_1 x + A_2}{x^{2} - 8 \, x + 25}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-9} <br>
+    \(A_1 =\) {1:NM:=-7} <br>
+    \(A_2 =\) {1:NM:=7}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578407</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{3 \, x^{2} + 92 \, x + 248}{{\left(x^{2} + 10 \, x + 27\right)} {\left(x - 4\right)}} = \frac{A_0}{(x - 4)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 27}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=8} <br>
+    \(A_1 =\) {1:NM:=-5} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578443</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{12 \, x^{2} - 97 \, x + 168}{{\left(x^{2} - 8 \, x + 20\right)} {\left(x - 8\right)}} = \frac{A_0}{(x - 8)}+\frac{A_1 x + A_2}{x^{2} - 8 \, x + 20}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=8} <br>
+    \(A_1 =\) {1:NM:=4} <br>
+    \(A_2 =\) {1:NM:=-1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578481</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{x^{2} + 7 \, x + 107}{{\left(x^{2} + 14 \, x + 58\right)} {\left(x - 7\right)}} = \frac{A_0}{(x - 7)}+\frac{A_1 x + A_2}{x^{2} + 14 \, x + 58}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=1} <br>
+    \(A_1 =\) {1:NM:=0} <br>
+    \(A_2 =\) {1:NM:=-7}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578517</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{3 \, x^{2} - 50 \, x + 158}{{\left(x^{2} - 8 \, x + 20\right)} {\left(x - 3\right)}} = \frac{A_0}{(x - 3)}+\frac{A_1 x + A_2}{x^{2} - 8 \, x + 20}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-7} <br>
+    \(A_1 =\) {1:NM:=4} <br>
+    \(A_2 =\) {1:NM:=6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.157855</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{5 \, x^{2} + 58 \, x + 204}{{\left(x^{2} + 12 \, x + 42\right)} {\left(x + 6\right)}} = \frac{A_0}{(x + 6)}+\frac{A_1 x + A_2}{x^{2} + 12 \, x + 42}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=6} <br>
+    \(A_1 =\) {1:NM:=-1} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578588</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{4 \, x^{2} - x - 127}{{\left(x^{2} + 18 \, x + 87\right)} {\left(x + 5\right)}} = \frac{A_0}{(x + 5)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 87}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-1} <br>
+    \(A_1 =\) {1:NM:=5} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578627</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{x^{2} - 64 \, x - 240}{{\left(x^{2} + 12 \, x + 40\right)} x} = \frac{A_0}{(x)}+\frac{A_1 x + A_2}{x^{2} + 12 \, x + 40}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=6} <br>
+    \(A_1 =\) {1:NM:=-7} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578662</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{{\left(x + 138\right)} {\left(x - 3\right)}}{{\left(x^{2} - 14 \, x + 57\right)} {\left(x + 5\right)}} = \frac{A_0}{(x + 5)}+\frac{A_1 x + A_2}{x^{2} - 14 \, x + 57}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=7} <br>
+    \(A_1 =\) {1:NM:=-8} <br>
+    \(A_2 =\) {1:NM:=3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578698</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{17 \, x^{2} + 47 \, x + 100}{{\left(x^{2} + 4 \, x + 10\right)} x} = \frac{A_0}{(x)}+\frac{A_1 x + A_2}{x^{2} + 4 \, x + 10}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=-7} <br>
+    \(A_2 =\) {1:NM:=-7}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578798</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{11 \, x^{2} + 18 \, x + 275}{{\left(x^{2} + 18 \, x + 89\right)} {\left(x - 9\right)}} = \frac{A_0}{(x - 9)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 89}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-4} <br>
+    \(A_1 =\) {1:NM:=-7} <br>
+    \(A_2 =\) {1:NM:=-9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578834</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{6 \, x^{2} - 75 \, x + 361}{{\left(x^{2} - 16 \, x + 71\right)} {\left(x + 3\right)}} = \frac{A_0}{(x + 3)}+\frac{A_1 x + A_2}{x^{2} - 16 \, x + 71}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-5} <br>
+    \(A_1 =\) {1:NM:=-1} <br>
+    \(A_2 =\) {1:NM:=-2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578872</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(3 \, x^{2} - 11 \, x - 47\right)}}{{\left(x^{2} + 12 \, x + 44\right)} {\left(x + 1\right)}} = \frac{A_0}{(x + 1)}+\frac{A_1 x + A_2}{x^{2} + 12 \, x + 44}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-2} <br>
+    \(A_1 =\) {1:NM:=8} <br>
+    \(A_2 =\) {1:NM:=-6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578908</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{4 \, x^{2} + 106 \, x + 367}{{\left(x^{2} + 14 \, x + 53\right)} {\left(x - 2\right)}} = \frac{A_0}{(x - 2)}+\frac{A_1 x + A_2}{x^{2} + 14 \, x + 53}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=7} <br>
+    \(A_1 =\) {1:NM:=-3} <br>
+    \(A_2 =\) {1:NM:=2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1578944</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{4 \, {\left(3 \, x^{2} - 8 \, x + 38\right)}}{{\left(x^{2} - 8 \, x + 24\right)} {\left(x + 2\right)}} = \frac{A_0}{(x + 2)}+\frac{A_1 x + A_2}{x^{2} - 8 \, x + 24}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=6} <br>
+    \(A_1 =\) {1:NM:=6} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.157898</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{8 \, x^{2} - 75 \, x + 195}{{\left(x^{2} - 14 \, x + 50\right)} {\left(x - 5\right)}} = \frac{A_0}{(x - 5)}+\frac{A_1 x + A_2}{x^{2} - 14 \, x + 50}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=4} <br>
+    \(A_1 =\) {1:NM:=4} <br>
+    \(A_2 =\) {1:NM:=1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579015</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{13 \, x^{2} + 114 \, x + 375}{{\left(x^{2} + 12 \, x + 42\right)} {\left(x - 5\right)}} = \frac{A_0}{(x - 5)}+\frac{A_1 x + A_2}{x^{2} + 12 \, x + 42}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=-3} <br>
+    \(A_2 =\) {1:NM:=-9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579053</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{6 \, x^{2} + 31 \, x + 65}{{\left(x^{2} + 3\right)} {\left(x + 8\right)}} = \frac{A_0}{(x + 8)}+\frac{A_1 x + A_2}{x^{2} + 3}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=-3} <br>
+    \(A_2 =\) {1:NM:=-7}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.157909</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(5 \, x^{2} + 69 \, x + 315\right)}}{{\left(x^{2} + 18 \, x + 90\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 90}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=7} <br>
+    \(A_1 =\) {1:NM:=3} <br>
+    \(A_2 =\) {1:NM:=0}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579125</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{16 \, x^{2} + 92 \, x + 743}{{\left(x^{2} + 20 \, x + 104\right)} {\left(x - 5\right)}} = \frac{A_0}{(x - 5)}+\frac{A_1 x + A_2}{x^{2} + 20 \, x + 104}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=7} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=-3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.157916</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{13 \, x^{2} - 50 \, x + 337}{{\left(x^{2} - 18 \, x + 88\right)} {\left(x + 3\right)}} = \frac{A_0}{(x + 3)}+\frac{A_1 x + A_2}{x^{2} - 18 \, x + 88}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=4} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=-5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579258</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(2 \, x^{2} + 26 \, x + 135\right)}}{{\left(x^{2} + 10 \, x + 27\right)} {\left(x + 9\right)}} = \frac{A_0}{(x + 9)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 27}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-7} <br>
+    \(A_1 =\) {1:NM:=3} <br>
+    \(A_2 =\) {1:NM:=-9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579297</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(6 \, x^{2} - 29 \, x + 169\right)}}{{\left(x^{2} - 14 \, x + 55\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} - 14 \, x + 55}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=6} <br>
+    \(A_1 =\) {1:NM:=6} <br>
+    \(A_2 =\) {1:NM:=2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579332</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{11 \, x^{2} - 123 \, x + 344}{{\left(x^{2} - 12 \, x + 43\right)} {\left(x - 9\right)}} = \frac{A_0}{(x - 9)}+\frac{A_1 x + A_2}{x^{2} - 12 \, x + 43}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-8} <br>
+    \(A_1 =\) {1:NM:=-3} <br>
+    \(A_2 =\) {1:NM:=0}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.157937</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(10 \, x^{2} - 11 \, x + 110\right)}}{{\left(x^{2} - 8 \, x + 18\right)} {\left(x + 5\right)}} = \frac{A_0}{(x + 5)}+\frac{A_1 x + A_2}{x^{2} - 8 \, x + 18}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=-10} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579406</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{4 \, x^{2} - 18 \, x - 151}{{\left(x^{2} + 10 \, x + 27\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 27}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-5} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=-4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579442</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(5 \, x + 8\right)}}{{\left(x^{2} + 6 \, x + 11\right)} {\left(x + 6\right)}} = \frac{A_0}{(x + 6)}+\frac{A_1 x + A_2}{x^{2} + 6 \, x + 11}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=4} <br>
+    \(A_1 =\) {1:NM:=-4} <br>
+    \(A_2 =\) {1:NM:=-10}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.157948</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{12 \, x^{2} + 159 \, x + 877}{{\left(x^{2} + 18 \, x + 85\right)} {\left(x - 9\right)}} = \frac{A_0}{(x - 9)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 85}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=-2} <br>
+    \(A_2 =\) {1:NM:=3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579516</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{x^{2} - 174 \, x + 446}{{\left(x^{2} - 14 \, x + 54\right)} {\left(x + 5\right)}} = \frac{A_0}{(x + 5)}+\frac{A_1 x + A_2}{x^{2} - 14 \, x + 54}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=9} <br>
+    \(A_1 =\) {1:NM:=-8} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579552</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(4 \, x^{2} + 29 \, x + 221\right)}}{{\left(x^{2} + 20 \, x + 103\right)} {\left(x - 3\right)}} = \frac{A_0}{(x - 3)}+\frac{A_1 x + A_2}{x^{2} + 20 \, x + 103}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=4} <br>
+    \(A_1 =\) {1:NM:=4} <br>
+    \(A_2 =\) {1:NM:=-10}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579587</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(2 \, x^{2} - 27 \, x - 76\right)}}{{\left(x^{2} + 20 \, x + 104\right)} {\left(x - 8\right)}} = \frac{A_0}{(x - 8)}+\frac{A_1 x + A_2}{x^{2} + 20 \, x + 104}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-1} <br>
+    \(A_1 =\) {1:NM:=5} <br>
+    \(A_2 =\) {1:NM:=6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579626</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{14 \, x^{2} - 29 \, x + 88}{{\left(x^{2} - 8 \, x + 22\right)} x} = \frac{A_0}{(x)}+\frac{A_1 x + A_2}{x^{2} - 8 \, x + 22}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-4} <br>
+    \(A_1 =\) {1:NM:=-10} <br>
+    \(A_2 =\) {1:NM:=-3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579723</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{12 \, x^{2} + 158 \, x + 723}{{\left(x^{2} + 18 \, x + 82\right)} {\left(x - 3\right)}} = \frac{A_0}{(x - 3)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 82}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-9} <br>
+    \(A_1 =\) {1:NM:=-3} <br>
+    \(A_2 =\) {1:NM:=-5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579762</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(2 \, x^{2} - 28 \, x + 153\right)}}{{\left(x^{2} - 12 \, x + 41\right)} {\left(x - 9\right)}} = \frac{A_0}{(x - 9)}+\frac{A_1 x + A_2}{x^{2} - 12 \, x + 41}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=9} <br>
+    \(A_1 =\) {1:NM:=-5} <br>
+    \(A_2 =\) {1:NM:=7}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579797</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{4 \, {\left(x^{2} + 7 \, x + 55\right)}}{{\left(x^{2} + 20 \, x + 102\right)} {\left(x - 4\right)}} = \frac{A_0}{(x - 4)}+\frac{A_1 x + A_2}{x^{2} + 20 \, x + 102}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-2} <br>
+    \(A_1 =\) {1:NM:=-2} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579835</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{20 \, x^{2} + 51 \, x + 119}{{\left(x^{2} + 6 \, x + 12\right)} {\left(x - 1\right)}} = \frac{A_0}{(x - 1)}+\frac{A_1 x + A_2}{x^{2} + 6 \, x + 12}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=-10} <br>
+    \(A_2 =\) {1:NM:=-1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.157987</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{3 \, {\left(4 \, x^{2} - 6 \, x + 25\right)}}{{\left(x^{2} - 4 \, x + 10\right)} {\left(x + 1\right)}} = \frac{A_0}{(x + 1)}+\frac{A_1 x + A_2}{x^{2} - 4 \, x + 10}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-7} <br>
+    \(A_1 =\) {1:NM:=-5} <br>
+    \(A_2 =\) {1:NM:=-5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579907</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{16 \, x^{2} + 97 \, x + 576}{{\left(x^{2} + 16 \, x + 72\right)} {\left(x - 8\right)}} = \frac{A_0}{(x - 8)}+\frac{A_1 x + A_2}{x^{2} + 16 \, x + 72}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=9} <br>
+    \(A_1 =\) {1:NM:=7} <br>
+    \(A_2 =\) {1:NM:=9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1579943</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{4 \, x^{2} + 71 \, x - 361}{{\left(x^{2} - 18 \, x + 88\right)} {\left(x + 1\right)}} = \frac{A_0}{(x + 1)}+\frac{A_1 x + A_2}{x^{2} - 18 \, x + 88}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=4} <br>
+    \(A_1 =\) {1:NM:=-8} <br>
+    \(A_2 =\) {1:NM:=9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.157998</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{x^{2} + 78 \, x + 61}{{\left(x^{2} + 4 \, x + 5\right)} {\left(x - 7\right)}} = \frac{A_0}{(x - 7)}+\frac{A_1 x + A_2}{x^{2} + 4 \, x + 5}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=8} <br>
+    \(A_1 =\) {1:NM:=-7} <br>
+    \(A_2 =\) {1:NM:=-3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580017</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{4 \, {\left(x^{2} - x + 1\right)}}{{\left(x^{2} + 3\right)} {\left(x + 1\right)}} = \frac{A_0}{(x + 1)}+\frac{A_1 x + A_2}{x^{2} + 3}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=-1} <br>
+    \(A_2 =\) {1:NM:=5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580052</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{5 \, x^{2} - 32 \, x + 174}{{\left(x^{2} - 14 \, x + 54\right)} {\left(x + 3\right)}} = \frac{A_0}{(x + 3)}+\frac{A_1 x + A_2}{x^{2} - 14 \, x + 54}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=3} <br>
+    \(A_1 =\) {1:NM:=2} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580088</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(2 \, x^{2} + 15 \, x - 45\right)}}{{\left(x^{2} - 10 \, x + 33\right)} {\left(x + 3\right)}} = \frac{A_0}{(x + 3)}+\frac{A_1 x + A_2}{x^{2} - 10 \, x + 33}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-2} <br>
+    \(A_1 =\) {1:NM:=6} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580188</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{7 \, x^{2} + 42 \, x + 151}{{\left(x^{2} + 6 \, x + 13\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} + 6 \, x + 13}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=3} <br>
+    \(A_2 =\) {1:NM:=-3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580226</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{x^{2} + 36 \, x + 218}{{\left(x^{2} + 8 \, x + 25\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} + 8 \, x + 25}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580262</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{6 \, x^{2} - 19 \, x - 75}{{\left(x^{2} - 18 \, x + 85\right)} {\left(x - 5\right)}} = \frac{A_0}{(x - 5)}+\frac{A_1 x + A_2}{x^{2} - 18 \, x + 85}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-1} <br>
+    \(A_1 =\) {1:NM:=7} <br>
+    \(A_2 =\) {1:NM:=-2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580298</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{13 \, x^{2} + 203 \, x + 778}{{\left(x^{2} + 18 \, x + 86\right)} {\left(x + 10\right)}} = \frac{A_0}{(x + 10)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 86}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=8} <br>
+    \(A_1 =\) {1:NM:=5} <br>
+    \(A_2 =\) {1:NM:=9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580334</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(x^{2} + 34 \, x + 180\right)}}{{\left(x^{2} + 16 \, x + 72\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} + 16 \, x + 72}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=5} <br>
+    \(A_1 =\) {1:NM:=-3} <br>
+    \(A_2 =\) {1:NM:=0}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580372</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{{\left(x + 4\right)} {\left(x - 27\right)}}{{\left(x^{2} + 12 \, x + 37\right)} {\left(x + 3\right)}} = \frac{A_0}{(x + 3)}+\frac{A_1 x + A_2}{x^{2} + 12 \, x + 37}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=4} <br>
+    \(A_2 =\) {1:NM:=1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580405</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{9 \, x + 49}{{\left(x^{2} + 7\right)} x} = \frac{A_0}{(x)}+\frac{A_1 x + A_2}{x^{2} + 7}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-7} <br>
+    \(A_1 =\) {1:NM:=7} <br>
+    \(A_2 =\) {1:NM:=-9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580443</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{3 \, {\left(x^{2} + 10 \, x + 43\right)}}{{\left(x^{2} + 16 \, x + 72\right)} {\left(x + 3\right)}} = \frac{A_0}{(x + 3)}+\frac{A_1 x + A_2}{x^{2} + 16 \, x + 72}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-2} <br>
+    \(A_1 =\) {1:NM:=-1} <br>
+    \(A_2 =\) {1:NM:=5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158048</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{3 \, {\left(3 \, x^{2} - 11 \, x + 28\right)}}{{\left(x^{2} - 6 \, x + 14\right)} x} = \frac{A_0}{(x)}+\frac{A_1 x + A_2}{x^{2} - 6 \, x + 14}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-6} <br>
+    \(A_1 =\) {1:NM:=-3} <br>
+    \(A_2 =\) {1:NM:=-3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580515</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{11 \, x^{2} + 18 \, x + 52}{{\left(x^{2} + 2 \, x + 6\right)} {\left(x + 1\right)}} = \frac{A_0}{(x + 1)}+\frac{A_1 x + A_2}{x^{2} + 2 \, x + 6}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-9} <br>
+    \(A_1 =\) {1:NM:=-2} <br>
+    \(A_2 =\) {1:NM:=2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580553</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{6 \, x^{2} + 223 \, x + 1105}{{\left(x^{2} + 20 \, x + 107\right)} {\left(x - 7\right)}} = \frac{A_0}{(x - 7)}+\frac{A_1 x + A_2}{x^{2} + 20 \, x + 107}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=4} <br>
+    \(A_2 =\) {1:NM:=5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580653</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{3 \, x^{2} + 2 \, x - 111}{{\left(x^{2} + 10 \, x + 29\right)} {\left(x + 6\right)}} = \frac{A_0}{(x + 6)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 29}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=3} <br>
+    \(A_1 =\) {1:NM:=-6} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580691</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{{\left(17 \, x + 12\right)} x}{{\left(x^{2} - 2 \, x + 4\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} - 2 \, x + 4}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=8} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158073</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{4 \, x^{2} + 39 \, x + 204}{{\left(x^{2} + 20 \, x + 107\right)} {\left(x + 2\right)}} = \frac{A_0}{(x + 2)}+\frac{A_1 x + A_2}{x^{2} + 20 \, x + 107}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-2} <br>
+    \(A_1 =\) {1:NM:=-2} <br>
+    \(A_2 =\) {1:NM:=5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580765</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{4 \, {\left(2 \, x^{2} + 3 \, x - 50\right)}}{{\left(x^{2} + 20 \, x + 105\right)} {\left(x + 5\right)}} = \frac{A_0}{(x + 5)}+\frac{A_1 x + A_2}{x^{2} + 20 \, x + 105}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=2} <br>
+    \(A_1 =\) {1:NM:=-10} <br>
+    \(A_2 =\) {1:NM:=-2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.15808</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(5 \, x^{2} + 5 \, x + 46\right)}}{{\left(x^{2} + 10 \, x + 32\right)} {\left(x - 6\right)}} = \frac{A_0}{(x - 6)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 32}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-4} <br>
+    \(A_1 =\) {1:NM:=-6} <br>
+    \(A_2 =\) {1:NM:=-6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580837</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{x^{2} + 85 \, x - 120}{{\left(x^{2} - 14 \, x + 50\right)} {\left(x + 10\right)}} = \frac{A_0}{(x + 10)}+\frac{A_1 x + A_2}{x^{2} - 14 \, x + 50}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=4} <br>
+    \(A_2 =\) {1:NM:=3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580875</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{13 \, x^{2} - 115 \, x + 352}{{\left(x^{2} - 16 \, x + 68\right)} {\left(x - 4\right)}} = \frac{A_0}{(x - 4)}+\frac{A_1 x + A_2}{x^{2} - 16 \, x + 68}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-5} <br>
+    \(A_1 =\) {1:NM:=-8} <br>
+    \(A_2 =\) {1:NM:=3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158091</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{5 \, x^{2} + 11 \, x + 11}{{\left(x^{2} + 2 \, x + 6\right)} {\left(x + 1\right)}} = \frac{A_0}{(x + 1)}+\frac{A_1 x + A_2}{x^{2} + 2 \, x + 6}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-1} <br>
+    \(A_1 =\) {1:NM:=-4} <br>
+    \(A_2 =\) {1:NM:=-5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580946</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{14 \, x^{2} - 103 \, x + 587}{{\left(x^{2} - 18 \, x + 83\right)} {\left(x + 3\right)}} = \frac{A_0}{(x + 3)}+\frac{A_1 x + A_2}{x^{2} - 18 \, x + 83}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-7} <br>
+    \(A_1 =\) {1:NM:=-7} <br>
+    \(A_2 =\) {1:NM:=-2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1580982</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{4 \, {\left(x^{2} + 13 \, x - 24\right)}}{{\left(x^{2} - 4 \, x + 11\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} - 4 \, x + 11}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=7} <br>
+    \(A_2 =\) {1:NM:=-9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158102</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{6 \, x^{2} + 73 \, x - 80}{{\left(x^{2} - 8 \, x + 21\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} - 8 \, x + 21}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=4} <br>
+    \(A_1 =\) {1:NM:=-10} <br>
+    \(A_2 =\) {1:NM:=-1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1582808</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(2 \, x^{2} - 16 \, x - 103\right)}}{{\left(x^{2} - 8 \, x + 25\right)} {\left(x - 9\right)}} = \frac{A_0}{(x - 9)}+\frac{A_1 x + A_2}{x^{2} - 8 \, x + 25}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-5} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1582873</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(2 \, x^{2} - 42 \, x + 83\right)}}{{\left(x^{2} - 10 \, x + 26\right)} {\left(x + 2\right)}} = \frac{A_0}{(x + 2)}+\frac{A_1 x + A_2}{x^{2} - 10 \, x + 26}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=7} <br>
+    \(A_1 =\) {1:NM:=-3} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1582918</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, x^{2} + 49 \, x + 345}{{\left(x^{2} + 10 \, x + 31\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 31}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=8} <br>
+    \(A_2 =\) {1:NM:=-5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1582959</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{9 \, x^{2} - 14 \, x + 44}{{\left(x^{2} + 4 \, x + 12\right)} {\left(x - 4\right)}} = \frac{A_0}{(x - 4)}+\frac{A_1 x + A_2}{x^{2} + 4 \, x + 12}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=-6} <br>
+    \(A_2 =\) {1:NM:=2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{{\left(11 \, x + 45\right)} {\left(x + 1\right)}}{{\left(x^{2} + 4 \, x + 9\right)} {\left(x + 9\right)}} = \frac{A_0}{(x + 9)}+\frac{A_1 x + A_2}{x^{2} + 4 \, x + 9}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-8} <br>
+    \(A_1 =\) {1:NM:=-3} <br>
+    \(A_2 =\) {1:NM:=3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158304</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(x^{2} + 23 \, x + 38\right)}}{{\left(x^{2} + 8 \, x + 19\right)} {\left(x - 7\right)}} = \frac{A_0}{(x - 7)}+\frac{A_1 x + A_2}{x^{2} + 8 \, x + 19}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-4} <br>
+    \(A_1 =\) {1:NM:=2} <br>
+    \(A_2 =\) {1:NM:=0}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158308</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{33 \, x - 238}{{\left(x^{2} - 10 \, x + 29\right)} {\left(x - 6\right)}} = \frac{A_0}{(x - 6)}+\frac{A_1 x + A_2}{x^{2} - 10 \, x + 29}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=8} <br>
+    \(A_1 =\) {1:NM:=-8} <br>
+    \(A_2 =\) {1:NM:=-1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583126</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{9 \, x^{2} + 59 \, x + 73}{{\left(x^{2} + 10 \, x + 26\right)} {\left(x + 5\right)}} = \frac{A_0}{(x + 5)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 26}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=3} <br>
+    \(A_1 =\) {1:NM:=6} <br>
+    \(A_2 =\) {1:NM:=-1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583166</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{6 \, x^{2} - 67 \, x + 192}{{\left(x^{2} - 8 \, x + 20\right)} {\left(x - 3\right)}} = \frac{A_0}{(x - 3)}+\frac{A_1 x + A_2}{x^{2} - 8 \, x + 20}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-9} <br>
+    \(A_1 =\) {1:NM:=3} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583204</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{3 \, x^{2} - 10 \, x + 198}{{\left(x^{2} - 6 \, x + 15\right)} {\left(x - 8\right)}} = \frac{A_0}{(x - 8)}+\frac{A_1 x + A_2}{x^{2} - 6 \, x + 15}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=7} <br>
+    \(A_2 =\) {1:NM:=6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583247</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{x^{2} + 9 \, x + 12}{{\left(x^{2} + 6 \, x + 15\right)} {\left(x + 3\right)}} = \frac{A_0}{(x + 3)}+\frac{A_1 x + A_2}{x^{2} + 6 \, x + 15}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=1} <br>
+    \(A_1 =\) {1:NM:=-2} <br>
+    \(A_2 =\) {1:NM:=-9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583364</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{13 \, x^{2} + 75 \, x + 104}{{\left(x^{2} + 8 \, x + 24\right)} {\left(x + 5\right)}} = \frac{A_0}{(x + 5)}+\frac{A_1 x + A_2}{x^{2} + 8 \, x + 24}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=6} <br>
+    \(A_1 =\) {1:NM:=7} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583407</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{9 \, x^{2} + 157 \, x + 688}{{\left(x^{2} + 16 \, x + 66\right)} {\left(x - 4\right)}} = \frac{A_0}{(x - 4)}+\frac{A_1 x + A_2}{x^{2} + 16 \, x + 66}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=1} <br>
+    \(A_2 =\) {1:NM:=7}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583447</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{14 \, x^{2} + 74 \, x + 67}{{\left(x^{2} - 2 \, x + 8\right)} {\left(x + 9\right)}} = \frac{A_0}{(x + 9)}+\frac{A_1 x + A_2}{x^{2} - 2 \, x + 8}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=5} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583486</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{3 \, {\left(2 \, x^{2} + 6 \, x + 7\right)}}{{\left(x^{2} + 6 \, x + 16\right)} {\left(x + 3\right)}} = \frac{A_0}{(x + 3)}+\frac{A_1 x + A_2}{x^{2} + 6 \, x + 16}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=3} <br>
+    \(A_1 =\) {1:NM:=3} <br>
+    \(A_2 =\) {1:NM:=-9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583526</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{3 \, x^{2} + 71 \, x - 108}{{\left(x^{2} - 16 \, x + 68\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} - 16 \, x + 68}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-2} <br>
+    \(A_1 =\) {1:NM:=5} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583564</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{5 \, x^{2} + 46 \, x + 236}{{\left(x^{2} + 14 \, x + 53\right)} {\left(x - 6\right)}} = \frac{A_0}{(x - 6)}+\frac{A_1 x + A_2}{x^{2} + 14 \, x + 53}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=4} <br>
+    \(A_1 =\) {1:NM:=1} <br>
+    \(A_2 =\) {1:NM:=-4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583602</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, x^{2} + 25 \, x + 103}{{\left(x^{2} + 10 \, x + 34\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 34}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=2} <br>
+    \(A_1 =\) {1:NM:=0} <br>
+    \(A_2 =\) {1:NM:=5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583645</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{10 \, x^{2} - 43 \, x + 81}{{\left(x^{2} - 6 \, x + 15\right)} {\left(x - 3\right)}} = \frac{A_0}{(x - 3)}+\frac{A_1 x + A_2}{x^{2} - 6 \, x + 15}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=7} <br>
+    \(A_1 =\) {1:NM:=3} <br>
+    \(A_2 =\) {1:NM:=8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583686</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{7 \, x^{2} - 43 \, x + 114}{{\left(x^{2} - 4 \, x + 13\right)} {\left(x + 3\right)}} = \frac{A_0}{(x + 3)}+\frac{A_1 x + A_2}{x^{2} - 4 \, x + 13}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-9} <br>
+    \(A_1 =\) {1:NM:=2} <br>
+    \(A_2 =\) {1:NM:=1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583724</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{6 \, x^{2} - 61 \, x - 126}{{\left(x^{2} + 18 \, x + 84\right)} {\left(x - 7\right)}} = \frac{A_0}{(x - 7)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 84}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=1} <br>
+    \(A_1 =\) {1:NM:=-7} <br>
+    \(A_2 =\) {1:NM:=-6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583762</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{7 \, x^{2} - 50 \, x + 52}{{\left(x^{2} - 2 \, x + 2\right)} {\left(x - 8\right)}} = \frac{A_0}{(x - 8)}+\frac{A_1 x + A_2}{x^{2} - 2 \, x + 2}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-2} <br>
+    \(A_1 =\) {1:NM:=-5} <br>
+    \(A_2 =\) {1:NM:=6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583865</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(6 \, x^{2} + 29 \, x + 112\right)}}{{\left(x^{2} + 10 \, x + 31\right)} {\left(x - 1\right)}} = \frac{A_0}{(x - 1)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 31}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=7} <br>
+    \(A_1 =\) {1:NM:=5} <br>
+    \(A_2 =\) {1:NM:=-7}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583905</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{17 \, x^{2} + 240 \, x + 708}{{\left(x^{2} + 20 \, x + 101\right)} {\left(x + 10\right)}} = \frac{A_0}{(x + 10)}+\frac{A_1 x + A_2}{x^{2} + 20 \, x + 101}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=8} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=-10}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583946</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{4 \, {\left(2 \, x^{2} - 27 \, x + 121\right)}}{{\left(x^{2} - 18 \, x + 89\right)} {\left(x - 5\right)}} = \frac{A_0}{(x - 5)}+\frac{A_1 x + A_2}{x^{2} - 18 \, x + 89}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-6} <br>
+    \(A_1 =\) {1:NM:=-2} <br>
+    \(A_2 =\) {1:NM:=-10}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1583984</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{7 \, x^{2} - 46 \, x - 125}{{\left(x^{2} + 20 \, x + 101\right)} {\left(x - 4\right)}} = \frac{A_0}{(x - 4)}+\frac{A_1 x + A_2}{x^{2} + 20 \, x + 101}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=1} <br>
+    \(A_1 =\) {1:NM:=-8} <br>
+    \(A_2 =\) {1:NM:=-6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584022</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{{\left(2 \, x - 1\right)} {\left(x - 8\right)}}{{\left(x^{2} + 2\right)} {\left(x - 5\right)}} = \frac{A_0}{(x - 5)}+\frac{A_1 x + A_2}{x^{2} + 2}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-1} <br>
+    \(A_1 =\) {1:NM:=3} <br>
+    \(A_2 =\) {1:NM:=-2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584063</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, x^{2} + 25 \, x - 294}{{\left(x^{2} - 18 \, x + 84\right)} {\left(x - 7\right)}} = \frac{A_0}{(x - 7)}+\frac{A_1 x + A_2}{x^{2} - 18 \, x + 84}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=5} <br>
+    \(A_2 =\) {1:NM:=6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.15841</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(7 \, x^{2} + 78 \, x + 308\right)}}{{\left(x^{2} + 16 \, x + 72\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} + 16 \, x + 72}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=9} <br>
+    \(A_1 =\) {1:NM:=5} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584141</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{7 \, x^{2} - x + 118}{{\left(x^{2} + 12 \, x + 44\right)} {\left(x - 3\right)}} = \frac{A_0}{(x - 3)}+\frac{A_1 x + A_2}{x^{2} + 12 \, x + 44}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=2} <br>
+    \(A_1 =\) {1:NM:=5} <br>
+    \(A_2 =\) {1:NM:=-10}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158418</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{5 \, {\left(3 \, x^{2} + 7 \, x + 21\right)}}{{\left(x^{2} - 4 \, x + 8\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} - 4 \, x + 8}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=7} <br>
+    \(A_1 =\) {1:NM:=8} <br>
+    \(A_2 =\) {1:NM:=7}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584218</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{3 \, {\left(x^{2} - 18 \, x - 1\right)}}{{\left(x^{2} + 1\right)} {\left(x - 9\right)}} = \frac{A_0}{(x - 9)}+\frac{A_1 x + A_2}{x^{2} + 1}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=3} <br>
+    \(A_1 =\) {1:NM:=-6} <br>
+    \(A_2 =\) {1:NM:=0}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584258</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{5 \, x^{2} - 47 \, x + 103}{{\left(x^{2} - 6 \, x + 13\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} - 6 \, x + 13}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-7} <br>
+    \(A_1 =\) {1:NM:=2} <br>
+    \(A_2 =\) {1:NM:=-3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584358</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{15 \, x^{2} + 115 \, x + 107}{{\left(x^{2} + 6 \, x + 14\right)} {\left(x + 9\right)}} = \frac{A_0}{(x + 9)}+\frac{A_1 x + A_2}{x^{2} + 6 \, x + 14}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=7} <br>
+    \(A_1 =\) {1:NM:=8} <br>
+    \(A_2 =\) {1:NM:=1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.15844</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{x^{2} + 14 \, x - 16}{{\left(x^{2} - 2 \, x + 2\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} - 2 \, x + 2}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=1} <br>
+    \(A_1 =\) {1:NM:=-2} <br>
+    \(A_2 =\) {1:NM:=2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158444</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{5 \, x^{2} - 26 \, x + 86}{{\left(x^{2} + 12 \, x + 38\right)} {\left(x - 8\right)}} = \frac{A_0}{(x - 8)}+\frac{A_1 x + A_2}{x^{2} + 12 \, x + 38}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-1} <br>
+    \(A_1 =\) {1:NM:=-4} <br>
+    \(A_2 =\) {1:NM:=6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158448</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{x^{2} + 17 \, x + 91}{{\left(x^{2} + 10 \, x + 28\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 28}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=2} <br>
+    \(A_2 =\) {1:NM:=-1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584518</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{14 \, x^{2} + 7 \, x + 117}{{\left(x^{2} - 6 \, x + 17\right)} {\left(x + 5\right)}} = \frac{A_0}{(x + 5)}+\frac{A_1 x + A_2}{x^{2} - 6 \, x + 17}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=6} <br>
+    \(A_1 =\) {1:NM:=8} <br>
+    \(A_2 =\) {1:NM:=3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584556</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(9 \, x^{2} - 13 \, x + 238\right)}}{{\left(x^{2} - 12 \, x + 44\right)} {\left(x + 8\right)}} = \frac{A_0}{(x + 8)}+\frac{A_1 x + A_2}{x^{2} - 12 \, x + 44}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-9} <br>
+    \(A_1 =\) {1:NM:=-9} <br>
+    \(A_2 =\) {1:NM:=-10}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584594</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{8 \, {\left(x^{2} - 2 \, x + 11\right)}}{{\left(x^{2} + 16 \, x + 72\right)} {\left(x - 4\right)}} = \frac{A_0}{(x - 4)}+\frac{A_1 x + A_2}{x^{2} + 16 \, x + 72}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-1} <br>
+    \(A_1 =\) {1:NM:=-7} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584635</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{5 \, x^{2} + 29 \, x - 57}{{\left(x^{2} + 8 \, x + 22\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} + 8 \, x + 22}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=1} <br>
+    \(A_1 =\) {1:NM:=-6} <br>
+    \(A_2 =\) {1:NM:=5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584675</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{6 \, {\left(2 \, x^{2} + 11 \, x + 23\right)}}{{\left(x^{2} + 8 \, x + 21\right)} {\left(x + 2\right)}} = \frac{A_0}{(x + 2)}+\frac{A_1 x + A_2}{x^{2} + 8 \, x + 21}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=6} <br>
+    \(A_1 =\) {1:NM:=6} <br>
+    \(A_2 =\) {1:NM:=6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584713</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{12 \, x^{2} - 97 \, x + 305}{{\left(x^{2} - 10 \, x + 34\right)} {\left(x + 5\right)}} = \frac{A_0}{(x + 5)}+\frac{A_1 x + A_2}{x^{2} - 10 \, x + 34}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=-2} <br>
+    \(A_2 =\) {1:NM:=7}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584752</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{5 \, {\left(x^{2} + 8 \, x - 2\right)}}{{\left(x^{2} - 2 \, x + 6\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} - 2 \, x + 6}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=8} <br>
+    \(A_2 =\) {1:NM:=2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158485</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{x^{2} + 60 \, x + 331}{{\left(x^{2} + 12 \, x + 43\right)} {\left(x + 5\right)}} = \frac{A_0}{(x + 5)}+\frac{A_1 x + A_2}{x^{2} + 12 \, x + 43}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-7} <br>
+    \(A_1 =\) {1:NM:=6} <br>
+    \(A_2 =\) {1:NM:=-6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584888</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{11 \, x^{2} + 13 \, x + 10}{{\left(x^{2} + 2 \, x + 2\right)} {\left(x + 1\right)}} = \frac{A_0}{(x + 1)}+\frac{A_1 x + A_2}{x^{2} + 2 \, x + 2}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-8} <br>
+    \(A_1 =\) {1:NM:=-3} <br>
+    \(A_2 =\) {1:NM:=6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584926</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(7 \, x^{2} + 9 \, x + 135\right)}}{{\left(x^{2} + 8 \, x + 21\right)} {\left(x - 9\right)}} = \frac{A_0}{(x - 9)}+\frac{A_1 x + A_2}{x^{2} + 8 \, x + 21}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-9} <br>
+    \(A_1 =\) {1:NM:=-5} <br>
+    \(A_2 =\) {1:NM:=9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1584969</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, x^{2} - x + 29}{{\left(x^{2} + 2 \, x + 2\right)} {\left(x - 5\right)}} = \frac{A_0}{(x - 5)}+\frac{A_1 x + A_2}{x^{2} + 2 \, x + 2}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-2} <br>
+    \(A_1 =\) {1:NM:=0} <br>
+    \(A_2 =\) {1:NM:=5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585007</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{x^{2} - x - 48}{{\left(x^{2} - 2 \, x + 4\right)} {\left(x - 3\right)}} = \frac{A_0}{(x - 3)}+\frac{A_1 x + A_2}{x^{2} - 2 \, x + 4}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=6} <br>
+    \(A_1 =\) {1:NM:=-7} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585045</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(x^{2} + 6 \, x + 17\right)}}{{\left(x^{2} + 8 \, x + 19\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} + 8 \, x + 19}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=4} <br>
+    \(A_1 =\) {1:NM:=-2} <br>
+    \(A_2 =\) {1:NM:=-6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585083</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{10 \, x^{2} - 105 \, x + 323}{{\left(x^{2} - 12 \, x + 37\right)} {\left(x - 2\right)}} = \frac{A_0}{(x - 2)}+\frac{A_1 x + A_2}{x^{2} - 12 \, x + 37}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=9} <br>
+    \(A_1 =\) {1:NM:=1} <br>
+    \(A_2 =\) {1:NM:=5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158512</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{10 \, x^{2} + 51 \, x + 48}{{\left(x^{2} - 2 \, x + 3\right)} {\left(x + 6\right)}} = \frac{A_0}{(x + 6)}+\frac{A_1 x + A_2}{x^{2} - 2 \, x + 3}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=2} <br>
+    \(A_1 =\) {1:NM:=8} <br>
+    \(A_2 =\) {1:NM:=7}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585162</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(x^{2} + 64 \, x + 429\right)}}{{\left(x^{2} + 18 \, x + 90\right)} {\left(x + 6\right)}} = \frac{A_0}{(x + 6)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 90}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-9} <br>
+    \(A_1 =\) {1:NM:=7} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.15852</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{4 \, x^{2} - 4 \, x + 25}{{\left(x^{2} - 10 \, x + 34\right)} {\left(x - 1\right)}} = \frac{A_0}{(x - 1)}+\frac{A_1 x + A_2}{x^{2} - 10 \, x + 34}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=1} <br>
+    \(A_1 =\) {1:NM:=3} <br>
+    \(A_2 =\) {1:NM:=9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585238</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{107 \, x - 291}{{\left(x^{2} - 18 \, x + 85\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} - 18 \, x + 85}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-4} <br>
+    \(A_1 =\) {1:NM:=4} <br>
+    \(A_2 =\) {1:NM:=7}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585338</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{13 \, x^{2} + 88 \, x + 216}{{\left(x^{2} + 16 \, x + 72\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} + 16 \, x + 72}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=-10} <br>
+    \(A_2 =\) {1:NM:=0}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158538</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(2 \, x^{2} - 23 \, x + 47\right)}}{{\left(x^{2} - 4 \, x + 6\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} - 4 \, x + 6}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-9} <br>
+    \(A_1 =\) {1:NM:=5} <br>
+    \(A_2 =\) {1:NM:=-10}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158542</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, x^{2} + 17 \, x + 68}{{\left(x^{2} + 6 \, x + 16\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} + 6 \, x + 16}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=4} <br>
+    \(A_1 =\) {1:NM:=-2} <br>
+    \(A_2 =\) {1:NM:=1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585457</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{6 \, x^{2} - 61 \, x + 124}{{\left(x^{2} - 12 \, x + 42\right)} {\left(x - 8\right)}} = \frac{A_0}{(x - 8)}+\frac{A_1 x + A_2}{x^{2} - 12 \, x + 42}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-2} <br>
+    \(A_1 =\) {1:NM:=-4} <br>
+    \(A_2 =\) {1:NM:=5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585495</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{6 \, x^{2} + 71 \, x + 214}{{\left(x^{2} + 12 \, x + 37\right)} {\left(x + 8\right)}} = \frac{A_0}{(x + 8)}+\frac{A_1 x + A_2}{x^{2} + 12 \, x + 37}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=6} <br>
+    \(A_1 =\) {1:NM:=0} <br>
+    \(A_2 =\) {1:NM:=-1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585531</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{31 \, x - 140}{{\left(x^{2} + 2 \, x + 10\right)} {\left(x + 10\right)}} = \frac{A_0}{(x + 10)}+\frac{A_1 x + A_2}{x^{2} + 2 \, x + 10}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=5} <br>
+    \(A_1 =\) {1:NM:=-5} <br>
+    \(A_2 =\) {1:NM:=9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158557</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{7 \, x^{2} - 21 \, x + 2}{{\left(x^{2} + 2\right)} {\left(x - 2\right)}} = \frac{A_0}{(x - 2)}+\frac{A_1 x + A_2}{x^{2} + 2}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-2} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=-3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585608</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{8 \, x^{2} - 15 \, x - 92}{{\left(x^{2} + 18 \, x + 86\right)} {\left(x + 1\right)}} = \frac{A_0}{(x + 1)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 86}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-1} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=-6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585648</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{11 \, x^{2} + 96 \, x + 185}{{\left(x^{2} + 12 \, x + 37\right)} {\left(x + 6\right)}} = \frac{A_0}{(x + 6)}+\frac{A_1 x + A_2}{x^{2} + 12 \, x + 37}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=5} <br>
+    \(A_1 =\) {1:NM:=6} <br>
+    \(A_2 =\) {1:NM:=0}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585686</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{x + 103}{{\left(x^{2} - 4 \, x + 13\right)} {\left(x - 5\right)}} = \frac{A_0}{(x - 5)}+\frac{A_1 x + A_2}{x^{2} - 4 \, x + 13}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-6} <br>
+    \(A_1 =\) {1:NM:=6} <br>
+    \(A_2 =\) {1:NM:=5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585722</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(6 \, x^{2} - 41 \, x + 41\right)}}{{\left(x^{2} - 6 \, x + 17\right)} {\left(x - 7\right)}} = \frac{A_0}{(x - 7)}+\frac{A_1 x + A_2}{x^{2} - 6 \, x + 17}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-4} <br>
+    \(A_1 =\) {1:NM:=-8} <br>
+    \(A_2 =\) {1:NM:=2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585824</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{x^{2} + 62 \, x - 215}{{\left(x^{2} - 16 \, x + 69\right)} {\left(x + 4\right)}} = \frac{A_0}{(x + 4)}+\frac{A_1 x + A_2}{x^{2} - 16 \, x + 69}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=4} <br>
+    \(A_2 =\) {1:NM:=-2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585867</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{3 \, x^{2} - 52 \, x + 233}{{\left(x^{2} - 18 \, x + 85\right)} {\left(x - 7\right)}} = \frac{A_0}{(x - 7)}+\frac{A_1 x + A_2}{x^{2} - 18 \, x + 85}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=2} <br>
+    \(A_1 =\) {1:NM:=1} <br>
+    \(A_2 =\) {1:NM:=-9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585906</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{15 \, x^{2} + 107 \, x + 178}{{\left(x^{2} + 10 \, x + 28\right)} {\left(x + 5\right)}} = \frac{A_0}{(x + 5)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 28}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=6} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585944</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{9 \, x^{2} + 46 \, x + 361}{{\left(x^{2} + 18 \, x + 89\right)} {\left(x - 5\right)}} = \frac{A_0}{(x - 5)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 89}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-4} <br>
+    \(A_1 =\) {1:NM:=-5} <br>
+    \(A_2 =\) {1:NM:=1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1585984</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{5 \, x^{2} - 5 \, x - 38}{{\left(x^{2} - 8 \, x + 19\right)} {\left(x - 3\right)}} = \frac{A_0}{(x - 3)}+\frac{A_1 x + A_2}{x^{2} - 8 \, x + 19}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-2} <br>
+    \(A_1 =\) {1:NM:=7} <br>
+    \(A_2 =\) {1:NM:=0}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1586022</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{4 \, x^{2} - 19 \, x + 39}{{\left(x^{2} - 8 \, x + 21\right)} {\left(x + 8\right)}} = \frac{A_0}{(x + 8)}+\frac{A_1 x + A_2}{x^{2} - 8 \, x + 21}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=-1} <br>
+    \(A_2 =\) {1:NM:=3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158606</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{12 \, x^{2} - 15 \, x + 272}{{\left(x^{2} - 14 \, x + 56\right)} {\left(x + 8\right)}} = \frac{A_0}{(x + 8)}+\frac{A_1 x + A_2}{x^{2} - 14 \, x + 56}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-5} <br>
+    \(A_1 =\) {1:NM:=-7} <br>
+    \(A_2 =\) {1:NM:=1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1586099</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{13 \, x^{2} + 123 \, x + 142}{{\left(x^{2} + 10 \, x + 31\right)} {\left(x + 9\right)}} = \frac{A_0}{(x + 9)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 31}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=4} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158614</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{6 \, x^{2} + 131 \, x + 486}{{\left(x^{2} + 14 \, x + 54\right)} x} = \frac{A_0}{(x)}+\frac{A_1 x + A_2}{x^{2} + 14 \, x + 54}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-9} <br>
+    \(A_1 =\) {1:NM:=3} <br>
+    \(A_2 =\) {1:NM:=-5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1586175</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{11 \, x^{2} - 19 \, x + 44}{{\left(x^{2} - 6 \, x + 17\right)} {\left(x - 1\right)}} = \frac{A_0}{(x - 1)}+\frac{A_1 x + A_2}{x^{2} - 6 \, x + 17}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=3} <br>
+    \(A_1 =\) {1:NM:=8} <br>
+    \(A_2 =\) {1:NM:=7}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1586218</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(4 \, x^{2} - 7 \, x - 18\right)}}{{\left(x^{2} - 2 \, x + 4\right)} {\left(x - 6\right)}} = \frac{A_0}{(x - 6)}+\frac{A_1 x + A_2}{x^{2} - 2 \, x + 4}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-6} <br>
+    \(A_1 =\) {1:NM:=-2} <br>
+    \(A_2 =\) {1:NM:=-10}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1587222</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{13 \, x^{2} + 117 \, x + 446}{{\left(x^{2} + 14 \, x + 57\right)} {\left(x - 1\right)}} = \frac{A_0}{(x - 1)}+\frac{A_1 x + A_2}{x^{2} + 14 \, x + 57}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-8} <br>
+    \(A_1 =\) {1:NM:=-5} <br>
+    \(A_2 =\) {1:NM:=-10}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1587276</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{10 \, x^{2} + 109 \, x + 578}{{\left(x^{2} + 16 \, x + 67\right)} {\left(x - 6\right)}} = \frac{A_0}{(x - 6)}+\frac{A_1 x + A_2}{x^{2} + 16 \, x + 67}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-8} <br>
+    \(A_1 =\) {1:NM:=-2} <br>
+    \(A_2 =\) {1:NM:=7}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1587317</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, x^{2} - 75 \, x + 130}{{\left(x^{2} + 8\right)} {\left(x + 10\right)}} = \frac{A_0}{(x + 10)}+\frac{A_1 x + A_2}{x^{2} + 8}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=8} <br>
+    \(A_2 =\) {1:NM:=-5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158736</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{x^{2} + 98 \, x - 313}{{\left(x^{2} - 14 \, x + 53\right)} {\left(x + 6\right)}} = \frac{A_0}{(x + 6)}+\frac{A_1 x + A_2}{x^{2} - 14 \, x + 53}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=5} <br>
+    \(A_1 =\) {1:NM:=-6} <br>
+    \(A_2 =\) {1:NM:=8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1587398</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(3 \, x^{2} - 79 \, x + 342\right)}}{{\left(x^{2} - 18 \, x + 88\right)} {\left(x + 2\right)}} = \frac{A_0}{(x + 2)}+\frac{A_1 x + A_2}{x^{2} - 18 \, x + 88}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=8} <br>
+    \(A_1 =\) {1:NM:=-2} <br>
+    \(A_2 =\) {1:NM:=-10}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1587439</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{4 \, x^{2} + 8 \, x + 139}{{\left(x^{2} + 6 \, x + 11\right)} {\left(x + 10\right)}} = \frac{A_0}{(x + 10)}+\frac{A_1 x + A_2}{x^{2} + 6 \, x + 11}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-9} <br>
+    \(A_1 =\) {1:NM:=5} <br>
+    \(A_2 =\) {1:NM:=-4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1587474</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(x^{2} + 10 \, x + 36\right)}}{{\left(x^{2} + 4 \, x + 12\right)} {\left(x + 10\right)}} = \frac{A_0}{(x + 10)}+\frac{A_1 x + A_2}{x^{2} + 4 \, x + 12}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=1} <br>
+    \(A_1 =\) {1:NM:=1} <br>
+    \(A_2 =\) {1:NM:=6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1587517</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{3 \, {\left(x^{2} - 2 \, x + 2\right)}}{{\left(x^{2} + 3\right)} {\left(x - 6\right)}} = \frac{A_0}{(x - 6)}+\frac{A_1 x + A_2}{x^{2} + 3}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-2} <br>
+    \(A_1 =\) {1:NM:=-1} <br>
+    \(A_2 =\) {1:NM:=0}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1587558</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{11 \, x^{2} - 55 \, x + 101}{{\left(x^{2} - 2 \, x + 8\right)} {\left(x - 9\right)}} = \frac{A_0}{(x - 9)}+\frac{A_1 x + A_2}{x^{2} - 2 \, x + 8}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=7} <br>
+    \(A_1 =\) {1:NM:=4} <br>
+    \(A_2 =\) {1:NM:=-5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1587596</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{4 \, {\left(4 \, x^{2} + 11 \, x + 84\right)}}{{\left(x^{2} + 12 \, x + 39\right)} {\left(x - 6\right)}} = \frac{A_0}{(x - 6)}+\frac{A_1 x + A_2}{x^{2} + 12 \, x + 39}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-8} <br>
+    \(A_1 =\) {1:NM:=-8} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1587634</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{{\left(2 \, x + 5\right)} {\left(x + 23\right)}}{{\left(x^{2} + 6 \, x + 15\right)} {\left(x - 5\right)}} = \frac{A_0}{(x - 5)}+\frac{A_1 x + A_2}{x^{2} + 6 \, x + 15}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-6} <br>
+    \(A_1 =\) {1:NM:=4} <br>
+    \(A_2 =\) {1:NM:=5}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1587765</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{3 \, {\left(x^{2} - 20 \, x + 83\right)}}{{\left(x^{2} - 12 \, x + 43\right)} {\left(x - 3\right)}} = \frac{A_0}{(x - 3)}+\frac{A_1 x + A_2}{x^{2} - 12 \, x + 43}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-6} <br>
+    \(A_1 =\) {1:NM:=3} <br>
+    \(A_2 =\) {1:NM:=-3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1587944</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{16 \, x^{2} + 107 \, x + 564}{{\left(x^{2} + 18 \, x + 84\right)} {\left(x - 3\right)}} = \frac{A_0}{(x - 3)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 84}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-7} <br>
+    \(A_1 =\) {1:NM:=-9} <br>
+    \(A_2 =\) {1:NM:=-8}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1587987</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{9 \, x^{2} - 5 \, x + 182}{{\left(x^{2} + 16 \, x + 73\right)} {\left(x - 4\right)}} = \frac{A_0}{(x - 4)}+\frac{A_1 x + A_2}{x^{2} + 16 \, x + 73}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-2} <br>
+    \(A_1 =\) {1:NM:=-7} <br>
+    \(A_2 =\) {1:NM:=9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588027</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(3 \, x^{2} + 8 \, x + 15\right)}}{{\left(x^{2} + 2 \, x + 5\right)} x} = \frac{A_0}{(x)}+\frac{A_1 x + A_2}{x^{2} + 2 \, x + 5}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=6} <br>
+    \(A_1 =\) {1:NM:=0} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588068</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{3 \, {\left(2 \, x^{2} - 9 \, x - 15\right)}}{{\left(x^{2} + 8 \, x + 24\right)} {\left(x - 1\right)}} = \frac{A_0}{(x - 1)}+\frac{A_1 x + A_2}{x^{2} + 8 \, x + 24}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=2} <br>
+    \(A_1 =\) {1:NM:=-8} <br>
+    \(A_2 =\) {1:NM:=3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588109</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(x^{2} + 53 \, x - 11\right)}}{{\left(x^{2} - 4 \, x + 10\right)} {\left(x + 8\right)}} = \frac{A_0}{(x + 8)}+\frac{A_1 x + A_2}{x^{2} - 4 \, x + 10}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=7} <br>
+    \(A_1 =\) {1:NM:=-9} <br>
+    \(A_2 =\) {1:NM:=-6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588147</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{14 \, x + 117}{{\left(x^{2} + 16 \, x + 69\right)} {\left(x + 8\right)}} = \frac{A_0}{(x + 8)}+\frac{A_1 x + A_2}{x^{2} + 16 \, x + 69}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-1} <br>
+    \(A_1 =\) {1:NM:=1} <br>
+    \(A_2 =\) {1:NM:=-6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588187</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(3 \, x^{2} + 7 \, x - 25\right)}}{{\left(x^{2} - 8 \, x + 22\right)} {\left(x - 1\right)}} = \frac{A_0}{(x - 1)}+\frac{A_1 x + A_2}{x^{2} - 8 \, x + 22}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=2} <br>
+    \(A_1 =\) {1:NM:=-8} <br>
+    \(A_2 =\) {1:NM:=-6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588228</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{7 \, x^{2} + 20 \, x + 93}{{\left(x^{2} + 10 \, x + 29\right)} {\left(x - 1\right)}} = \frac{A_0}{(x - 1)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 29}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=3} <br>
+    \(A_1 =\) {1:NM:=4} <br>
+    \(A_2 =\) {1:NM:=-6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588266</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{3 \, {\left(x^{2} + 16 \, x + 77\right)}}{{\left(x^{2} + 18 \, x + 83\right)} {\left(x + 3\right)}} = \frac{A_0}{(x + 3)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 83}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=0} <br>
+    \(A_2 =\) {1:NM:=6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588306</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{2 \, {\left(5 \, x^{2} - 33 \, x + 33\right)}}{{\left(x^{2} + 10 \, x + 34\right)} {\left(x - 8\right)}} = \frac{A_0}{(x - 8)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 34}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-1} <br>
+    \(A_1 =\) {1:NM:=-9} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158841</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{3 \, {\left(2 \, x^{2} - 11 \, x + 27\right)}}{{\left(x^{2} - 4 \, x + 9\right)} {\left(x - 3\right)}} = \frac{A_0}{(x - 3)}+\frac{A_1 x + A_2}{x^{2} - 4 \, x + 9}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=6} <br>
+    \(A_1 =\) {1:NM:=0} <br>
+    \(A_2 =\) {1:NM:=-9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.158845</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{10 \, {\left(x^{2} + 2 \, x + 25\right)}}{{\left(x^{2} + 18 \, x + 85\right)} {\left(x - 5\right)}} = \frac{A_0}{(x - 5)}+\frac{A_1 x + A_2}{x^{2} + 18 \, x + 85}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=-7} <br>
+    \(A_2 =\) {1:NM:=-1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588488</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{3 \, x^{2} - 65 \, x - 202}{{\left(x^{2} + 10 \, x + 33\right)} {\left(x - 1\right)}} = \frac{A_0}{(x - 1)}+\frac{A_1 x + A_2}{x^{2} + 10 \, x + 33}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-6} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588528</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{5 \, x^{2} + 124 \, x + 432}{{\left(x^{2} + 12 \, x + 42\right)} {\left(x - 2\right)}} = \frac{A_0}{(x - 2)}+\frac{A_1 x + A_2}{x^{2} + 12 \, x + 42}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-10} <br>
+    \(A_1 =\) {1:NM:=5} <br>
+    \(A_2 =\) {1:NM:=6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588566</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{13 \, x^{2} + 73 \, x + 204}{{\left(x^{2} - 12 \, x + 38\right)} {\left(x + 10\right)}} = \frac{A_0}{(x + 10)}+\frac{A_1 x + A_2}{x^{2} - 12 \, x + 38}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-3} <br>
+    \(A_1 =\) {1:NM:=-10} <br>
+    \(A_2 =\) {1:NM:=-9}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588604</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{{\left(3 \, x - 4\right)}^{2}}{{\left(x^{2} - 6 \, x + 12\right)} {\left(x - 2\right)}} = \frac{A_0}{(x - 2)}+\frac{A_1 x + A_2}{x^{2} - 6 \, x + 12}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=1} <br>
+    \(A_1 =\) {1:NM:=8} <br>
+    \(A_2 =\) {1:NM:=-2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588645</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    -\frac{5 \, x^{2} + 63 \, x + 232}{{\left(x^{2} + 12 \, x + 41\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} + 12 \, x + 41}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-6} <br>
+    \(A_1 =\) {1:NM:=1} <br>
+    \(A_2 =\) {1:NM:=2}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588686</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{10 \, x^{2} + 65 \, x + 276}{{\left(x^{2} + 16 \, x + 69\right)} x} = \frac{A_0}{(x)}+\frac{A_1 x + A_2}{x^{2} + 16 \, x + 69}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=4} <br>
+    \(A_1 =\) {1:NM:=6} <br>
+    \(A_2 =\) {1:NM:=1}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588726</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{5 \, x^{2} + 37 \, x + 48}{{\left(x^{2} + 8 \, x + 24\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} + 8 \, x + 24}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=2} <br>
+    \(A_1 =\) {1:NM:=3} <br>
+    \(A_2 =\) {1:NM:=0}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588764</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(2 \, x^{2} + 31 \, x - 45\right)}}{{\left(x^{2} + 2\right)} {\left(x + 8\right)}} = \frac{A_0}{(x + 8)}+\frac{A_1 x + A_2}{x^{2} + 2}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=-5} <br>
+    \(A_1 =\) {1:NM:=9} <br>
+    \(A_2 =\) {1:NM:=-10}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588802</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(4 \, x^{2} - 43 \, x + 142\right)}}{{\left(x^{2} - 12 \, x + 44\right)} {\left(x - 6\right)}} = \frac{A_0}{(x - 6)}+\frac{A_1 x + A_2}{x^{2} - 12 \, x + 44}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=7} <br>
+    \(A_1 =\) {1:NM:=1} <br>
+    \(A_2 =\) {1:NM:=4}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588902</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{2 \, {\left(5 \, x^{2} + 59 \, x + 189\right)}}{{\left(x^{2} + 14 \, x + 56\right)} {\left(x + 7\right)}} = \frac{A_0}{(x + 7)}+\frac{A_1 x + A_2}{x^{2} + 14 \, x + 56}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=6} <br>
+    \(A_1 =\) {1:NM:=4} <br>
+    \(A_2 =\) {1:NM:=6}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>P303_fp_qi-1587954954.1588943</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+    <p> Determine los coeficientes en el siguiente desarrollo en fracciones parciales
+    $$
+    \frac{5 \, x^{2} + 61 \, x + 306}{{\left(x^{2} + 20 \, x + 104\right)} {\left(x + 2\right)}} = \frac{A_0}{(x + 2)}+\frac{A_1 x + A_2}{x^{2} + 20 \, x + 104}
+    $$ <p>
+    <p>
+    \(A_0 =\) {1:NM:=3} <br>
+    \(A_1 =\) {1:NM:=2} <br>
+    \(A_2 =\) {1:NM:=-3}
+    </p>
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+    Consulta "Precálculo" de J. Stewart, sección 9.8, caso 3.
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

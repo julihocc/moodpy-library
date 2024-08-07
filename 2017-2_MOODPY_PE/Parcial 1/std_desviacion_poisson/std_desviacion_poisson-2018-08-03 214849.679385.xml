@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>std_desviacion_poisson-2018-08-03 21:48:49.739316</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+1) Encuentre la media aritmética $$\bar{X}$$2) calcule el promedio de los cuadrados$$\overline{X^2}=\frac{\sum{(X)^2}}{N}$$3) calcule la desviación estandar usando la fórmula$$\sigma=\sqrt{\overline{X^2}-\bar{X}^2}$$ Datos:</p>[12,15,10,8,10,9,
+11,7,6,12,4,8,
+9,6,9,9,13,4,
+12,8,9,7,7,3,
+13,8,6,7,5,10]</p>
+<p><span>$$\( \bar{X}= \)<p>{1:NM:=8.56666666667:0.257}</p>\( \overline{X^2}= \)<p>{1:NM:=8.17888888889:0.245366666667}</p><p>\sigma={1:NM:=nan:nan}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>B04_poblacion-1515650927.031478</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1> Modelos exponenciales </h1>
+    <h2> El caso de la población mundial </h2>
+    <p>
+    En 2014, la población era de 7298453033 personas. Se estima que ese año, el 
+    crecimiento anual porcentual fue de 1.18%. Estime la población mundial
+    para 2015.
+    </p>
+    <pre> Estimación: {1:NM:=7385084901.6:221552547.048} personas </pre>
+    <p> Conociendo que la población en 2015 fue de 7383008820.0 personas, encuentre la 
+    magnitud del error porcentual de la estimación</p>
+    <pre> |error porcentual|: {1:NM:=0.0281197225769:0.000843591677307}%<pre>
+    <p> De acuerdo a los datos de 2014, ¿cuántos años tomaría alcanzar la 
+    probación de 2015? 
+    <em> Ingrese su resultado en decimales, no convierta a otras unidades de 
+    tiempo</em>
+    </p>
+    <pre> Tiempo estimado: {1:NM:=0.976173076505:0.0292851922952} años </pre>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>B04_poblacion-1515650927.031493</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1> Modelos exponenciales </h1>
+    <h2> El caso de la población mundial </h2>
+    <p>
+    En 1968, la población era de 3551880700 personas. Se estima que ese año, el 
+    crecimiento anual porcentual fue de 2.09%. Estime la población mundial
+    para 1972.
+    </p>
+    <pre> Estimación: {1:NM:=3861583134.46:115847494.034} personas </pre>
+    <p> Conociendo que la población en 1972 fue de 3851545181.0 personas, encuentre la 
+    magnitud del error porcentual de la estimación</p>
+    <pre> |error porcentual|: {1:NM:=0.260621464596:0.00781864393787}%<pre>
+    <p> De acuerdo a los datos de 1968, ¿cuántos años tomaría alcanzar la 
+    probación de 1972? 
+    <em> Ingrese su resultado en decimales, no convierta a otras unidades de 
+    tiempo</em>
+    </p>
+    <pre> Tiempo estimado: {1:NM:=3.87546294939:0.116263888482} años </pre>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>B04_poblacion-1515650927.0315006</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1> Modelos exponenciales </h1>
+    <h2> El caso de la población mundial </h2>
+    <p>
+    En 1963, la población era de 3210271352 personas. Se estima que ese año, el 
+    crecimiento anual porcentual fue de 1.94%. Estime la población mundial
+    para 1994.
+    </p>
+    <pre> Estimación: {1:NM:=5857690814.12:175730724.423} personas </pre>
+    <p> Conociendo que la población en 1994 fue de 5670319703.0 personas, encuentre la 
+    magnitud del error porcentual de la estimación</p>
+    <pre> |error porcentual|: {1:NM:=3.30441881462:0.0991325644386}%<pre>
+    <p> De acuerdo a los datos de 1963, ¿cuántos años tomaría alcanzar la 
+    probación de 1994? 
+    <em> Ingrese su resultado en decimales, no convierta a otras unidades de 
+    tiempo</em>
+    </p>
+    <pre> Tiempo estimado: {1:NM:=29.3242285699:0.879726857098} años </pre>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

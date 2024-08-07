@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=318</p>
+<p>Hipótesis alternativa: Ao>318</p>
+<p>Desviación estándar: s=20</p>
+<p>Tamaño de la muestra: n=202</p>
+<p>Valor del estimador: A=319.122194159</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.797468785579:0.0239240635674}</p>
+<p>valor-p={1:NM:=0.212589412164:0.00637768236491}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=1571</p>
+<p>Hipótesis alternativa: Ao>1571</p>
+<p>Desviación estándar: s=13</p>
+<p>Tamaño de la muestra: n=562</p>
+<p>Valor del estimador: A=1571.11386811</p>
+<p>Nivel de significación: beta=0.0100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.207647594219:0.00622942782657}</p>
+<p>valor-p={1:NM:=0.417752069707:0.0125325620912}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=281</p>
+<p>Hipótesis alternativa: Ao>281</p>
+<p>Desviación estándar: s=2</p>
+<p>Tamaño de la muestra: n=453</p>
+<p>Valor del estimador: A=281.065142274</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.69323745411:0.0207971236233}</p>
+<p>valor-p={1:NM:=0.244080273522:0.00732240820567}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=107</p>
+<p>Hipótesis alternativa: Ao>107</p>
+<p>Desviación estándar: s=9</p>
+<p>Tamaño de la muestra: n=96</p>
+<p>Valor del estimador: A=106.545710093</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-0.494568207715:-0.0148370462315}</p>
+<p>valor-p={1:NM:=0.689547525753:0.0206864257726}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=2390</p>
+<p>Hipótesis alternativa: Ao>2390</p>
+<p>Desviación estándar: s=56</p>
+<p>Tamaño de la muestra: n=184</p>
+<p>Valor del estimador: A=2385.58743566</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-1.06883812194:-0.0320651436583}</p>
+<p>valor-p={1:NM:=0.857428690891:0.0257228607267}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=65</p>
+<p>Hipótesis alternativa: Ao>65</p>
+<p>Desviación estándar: s=2</p>
+<p>Tamaño de la muestra: n=368</p>
+<p>Valor del estimador: A=65.0943094832</p>
+<p>Nivel de significación: beta=0.0100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.90458478497:0.0271375435491}</p>
+<p>valor-p={1:NM:=0.182842699425:0.00548528098276}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=76</p>
+<p>Hipótesis alternativa: Ao>76</p>
+<p>Desviación estándar: s=4</p>
+<p>Tamaño de la muestra: n=211</p>
+<p>Valor del estimador: A=75.8315610759</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-0.611679175263:-0.0183503752579}</p>
+<p>valor-p={1:NM:=0.72962497871:0.0218887493613}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=2991</p>
+<p>Hipótesis alternativa: Ao>2991</p>
+<p>Desviación estándar: s=29</p>
+<p>Tamaño de la muestra: n=822</p>
+<p>Valor del estimador: A=2991.7173882</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.709238237898:0.021277147137}</p>
+<p>valor-p={1:NM:=0.239088324125:0.00717264972376}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=807</p>
+<p>Hipótesis alternativa: Ao>807</p>
+<p>Desviación estándar: s=31</p>
+<p>Tamaño de la muestra: n=488</p>
+<p>Valor del estimador: A=805.656250639</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-0.95756108459:-0.0287268325377}</p>
+<p>valor-p={1:NM:=0.830857934828:0.0249257380448}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=342</p>
+<p>Hipótesis alternativa: Ao>342</p>
+<p>Desviación estándar: s=2</p>
+<p>Tamaño de la muestra: n=235</p>
+<p>Valor del estimador: A=342.005438014</p>
+<p>Nivel de significación: beta=0.0100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.0416815858083:0.00125044757425}</p>
+<p>valor-p={1:NM:=0.483376266799:0.014501288004}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=273</p>
+<p>Hipótesis alternativa: Ao>273</p>
+<p>Desviación estándar: s=35</p>
+<p>Tamaño de la muestra: n=456</p>
+<p>Valor del estimador: A=269.533406141</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-2.11503393733:-0.0634510181199}</p>
+<p>valor-p={1:NM:=0.982786472527:0.0294835941758}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=1530</p>
+<p>Hipótesis alternativa: Ao>1530</p>
+<p>Desviación estándar: s=1</p>
+<p>Tamaño de la muestra: n=965</p>
+<p>Valor del estimador: A=1530.00839507</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.260788348118:0.00782365044354}</p>
+<p>valor-p={1:NM:=0.39712786523:0.0119138359569}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=3258</p>
+<p>Hipótesis alternativa: Ao>3258</p>
+<p>Desviación estándar: s=16</p>
+<p>Tamaño de la muestra: n=192</p>
+<p>Valor del estimador: A=3256.71294715</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-1.11462046512:-0.0334386139537}</p>
+<p>valor-p={1:NM:=0.867493451648:0.0260248035494}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=41</p>
+<p>Hipótesis alternativa: Ao>41</p>
+<p>Desviación estándar: s=5</p>
+<p>Tamaño de la muestra: n=43</p>
+<p>Valor del estimador: A=40.7109147115</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-0.379131801578:-0.0113739540474}</p>
+<p>valor-p={1:NM:=0.647705004091:0.0194311501227}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=3071</p>
+<p>Hipótesis alternativa: Ao>3071</p>
+<p>Desviación estándar: s=31</p>
+<p>Tamaño de la muestra: n=149</p>
+<p>Valor del estimador: A=3068.77482176</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-0.876185868881:-0.0262855760664}</p>
+<p>valor-p={1:NM:=0.809535501305:0.0242860650391}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=742</p>
+<p>Hipótesis alternativa: Ao>742</p>
+<p>Desviación estándar: s=12</p>
+<p>Tamaño de la muestra: n=42</p>
+<p>Valor del estimador: A=742.621547551</p>
+<p>Nivel de significación: beta=0.0100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.335674042648:0.0100702212794}</p>
+<p>valor-p={1:NM:=0.368558341071:0.0110567502321}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=46</p>
+<p>Hipótesis alternativa: Ao>46</p>
+<p>Desviación estándar: s=1</p>
+<p>Tamaño de la muestra: n=728</p>
+<p>Valor del estimador: A=46.0057313264</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.154639641201:0.00463918923602}</p>
+<p>valor-p={1:NM:=0.438552708364:0.0131565812509}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=1723</p>
+<p>Hipótesis alternativa: Ao>1723</p>
+<p>Desviación estándar: s=30</p>
+<p>Tamaño de la muestra: n=603</p>
+<p>Valor del estimador: A=1725.11527033</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=1.73142338204:0.0519427014611}</p>
+<p>valor-p={1:NM:=0.0416881396322:0.00125064418897}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=175</p>
+<p>Hipótesis alternativa: Ao>175</p>
+<p>Desviación estándar: s=43</p>
+<p>Tamaño de la muestra: n=987</p>
+<p>Valor del estimador: A=174.645023807</p>
+<p>Nivel de significación: beta=0.0100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-0.259351848625:-0.00778055545875}</p>
+<p>valor-p={1:NM:=0.602318110949:0.0180695433285}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=2049</p>
+<p>Hipótesis alternativa: Ao>2049</p>
+<p>Desviación estándar: s=6</p>
+<p>Tamaño de la muestra: n=293</p>
+<p>Valor del estimador: A=2048.79720653</p>
+<p>Nivel de significación: beta=0.0100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-0.578544187057:-0.0173563256117}</p>
+<p>valor-p={1:NM:=0.718551613051:0.0215565483915}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=3805</p>
+<p>Hipótesis alternativa: Ao>3805</p>
+<p>Desviación estándar: s=41</p>
+<p>Tamaño de la muestra: n=830</p>
+<p>Valor del estimador: A=3804.95175868</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-0.033898019739:-0.00101694059217}</p>
+<p>valor-p={1:NM:=0.513520763849:0.0154056229155}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=1952</p>
+<p>Hipótesis alternativa: Ao>1952</p>
+<p>Desviación estándar: s=22</p>
+<p>Tamaño de la muestra: n=592</p>
+<p>Valor del estimador: A=1952.05396259</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.0596802905352:0.00179040871606}</p>
+<p>valor-p={1:NM:=0.476205134812:0.0142861540444}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=1122</p>
+<p>Hipótesis alternativa: Ao>1122</p>
+<p>Desviación estándar: s=23</p>
+<p>Tamaño de la muestra: n=319</p>
+<p>Valor del estimador: A=1122.32057801</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.248943750673:0.00746831252019}</p>
+<p>valor-p={1:NM:=0.401702146108:0.0120510643832}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=1445</p>
+<p>Hipótesis alternativa: Ao>1445</p>
+<p>Desviación estándar: s=59</p>
+<p>Tamaño de la muestra: n=741</p>
+<p>Valor del estimador: A=1440.89172402</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-1.89546907432:-0.0568640722296}</p>
+<p>valor-p={1:NM:=0.970984857454:0.0291295457236}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=90</p>
+<p>Hipótesis alternativa: Ao>90</p>
+<p>Desviación estándar: s=23</p>
+<p>Tamaño de la muestra: n=774</p>
+<p>Valor del estimador: A=89.5817761118</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-0.505884624154:-0.0151765387246}</p>
+<p>valor-p={1:NM:=0.693531176556:0.0208059352967}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=2466</p>
+<p>Hipótesis alternativa: Ao>2466</p>
+<p>Desviación estándar: s=26</p>
+<p>Tamaño de la muestra: n=988</p>
+<p>Valor del estimador: A=2467.97765079</p>
+<p>Nivel de significación: beta=0.0100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=2.39086322143:0.0717258966428}</p>
+<p>valor-p={1:NM:=0.00840440679732:0.00025213220392}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=956</p>
+<p>Hipótesis alternativa: Ao>956</p>
+<p>Desviación estándar: s=15</p>
+<p>Tamaño de la muestra: n=370</p>
+<p>Valor del estimador: A=955.635209736</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-0.467792055366:-0.014033761661}</p>
+<p>valor-p={1:NM:=0.68003334873:0.0204010004619}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=5761</p>
+<p>Hipótesis alternativa: Ao>5761</p>
+<p>Desviación estándar: s=73</p>
+<p>Tamaño de la muestra: n=605</p>
+<p>Valor del estimador: A=5756.16843408</p>
+<p>Nivel de significación: beta=0.0100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-1.62795627691:-0.0488386883072}</p>
+<p>valor-p={1:NM:=0.948232921441:0.0284469876432}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=1149</p>
+<p>Hipótesis alternativa: Ao>1149</p>
+<p>Desviación estándar: s=10</p>
+<p>Tamaño de la muestra: n=909</p>
+<p>Valor del estimador: A=1149.18992069</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.572603784132:0.017178113524}</p>
+<p>valor-p={1:NM:=0.283456498473:0.0085036949542}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=4588</p>
+<p>Hipótesis alternativa: Ao>4588</p>
+<p>Desviación estándar: s=81</p>
+<p>Tamaño de la muestra: n=940</p>
+<p>Valor del estimador: A=4587.05524784</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-0.357599417016:-0.0107279825105}</p>
+<p>valor-p={1:NM:=0.639678442673:0.0191903532802}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=121</p>
+<p>Hipótesis alternativa: Ao>121</p>
+<p>Desviación estándar: s=3</p>
+<p>Tamaño de la muestra: n=392</p>
+<p>Valor del estimador: A=121.152652791</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=1.00745702423:0.0302237107269}</p>
+<p>valor-p={1:NM:=0.156857599972:0.00470572799916}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=985</p>
+<p>Hipótesis alternativa: Ao>985</p>
+<p>Desviación estándar: s=17</p>
+<p>Tamaño de la muestra: n=424</p>
+<p>Valor del estimador: A=984.515715011</p>
+<p>Nivel de significación: beta=0.0100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-0.58659048589:-0.0175977145767}</p>
+<p>valor-p={1:NM:=0.721260613009:0.0216378183903}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=85</p>
+<p>Hipótesis alternativa: Ao>85</p>
+<p>Desviación estándar: s=10</p>
+<p>Tamaño de la muestra: n=331</p>
+<p>Valor del estimador: A=84.432134987</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-1.03313983937:-0.0309941951812}</p>
+<p>valor-p={1:NM:=0.849230769122:0.0254769230737}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=754</p>
+<p>Hipótesis alternativa: Ao>754</p>
+<p>Desviación estándar: s=8</p>
+<p>Tamaño de la muestra: n=70</p>
+<p>Valor del estimador: A=754.409879686</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.428662436348:0.0128598730904}</p>
+<p>valor-p={1:NM:=0.334084450472:0.0100225335141}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=1173</p>
+<p>Hipótesis alternativa: Ao>1173</p>
+<p>Desviación estándar: s=38</p>
+<p>Tamaño de la muestra: n=227</p>
+<p>Valor del estimador: A=1172.88622984</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-0.0451084278724:-0.00135325283617}</p>
+<p>valor-p={1:NM:=0.517989558104:0.0155396867431}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=177</p>
+<p>Hipótesis alternativa: Ao>177</p>
+<p>Desviación estándar: s=7</p>
+<p>Tamaño de la muestra: n=722</p>
+<p>Valor del estimador: A=176.842957627</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=-0.602819660037:-0.0180845898011}</p>
+<p>valor-p={1:NM:=0.726685666762:0.0218005700028}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=6151</p>
+<p>Hipótesis alternativa: Ao>6151</p>
+<p>Desviación estándar: s=48</p>
+<p>Tamaño de la muestra: n=409</p>
+<p>Valor del estimador: A=6151.49117445</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.206945592621:0.00620836777862}</p>
+<p>valor-p={1:NM:=0.418026174692:0.0125407852408}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=57</p>
+<p>Hipótesis alternativa: Ao>57</p>
+<p>Desviación estándar: s=15</p>
+<p>Tamaño de la muestra: n=482</p>
+<p>Valor del estimador: A=57.5052249877</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.739464078874:0.0221839223662}</p>
+<p>valor-p={1:NM:=0.229812622129:0.00689437866386}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=844</p>
+<p>Hipótesis alternativa: Ao>844</p>
+<p>Desviación estándar: s=41</p>
+<p>Tamaño de la muestra: n=133</p>
+<p>Valor del estimador: A=849.093952224</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=1.43283714343:0.0429851143029}</p>
+<p>valor-p={1:NM:=0.0759521918856:0.00227856575657}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=395</p>
+<p>Hipótesis alternativa: Ao>395</p>
+<p>Desviación estándar: s=1</p>
+<p>Tamaño de la muestra: n=428</p>
+<p>Valor del estimador: A=395.021833052</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.451685698887:0.0135505709666}</p>
+<p>valor-p={1:NM:=0.325747711123:0.00977243133368}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=1817</p>
+<p>Hipótesis alternativa: Ao>1817</p>
+<p>Desviación estándar: s=9</p>
+<p>Tamaño de la muestra: n=967</p>
+<p>Valor del estimador: A=1817.41687113</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=1.44036494844:0.0432109484533}</p>
+<p>valor-p={1:NM:=0.0748820875044:0.00224646262513}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=74</p>
+<p>Hipótesis alternativa: Ao>74</p>
+<p>Desviación estándar: s=25</p>
+<p>Tamaño de la muestra: n=616</p>
+<p>Valor del estimador: A=74.3738770451</p>
+<p>Nivel de significación: beta=0.0100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.371175369104:0.0111352610731}</p>
+<p>valor-p={1:NM:=0.355253458717:0.0106576037615}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=70</p>
+<p>Hipótesis alternativa: Ao>70</p>
+<p>Desviación estándar: s=5</p>
+<p>Tamaño de la muestra: n=702</p>
+<p>Valor del estimador: A=70.3607185669</p>
+<p>Nivel de significación: beta=0.0500</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=1.91146807353:0.057344042206}</p>
+<p>valor-p={1:NM:=0.0279722279304:0.000839166837911}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:acepta~=rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=300</p>
+<p>Hipótesis alternativa: Ao>300</p>
+<p>Desviación estándar: s=4</p>
+<p>Tamaño de la muestra: n=566</p>
+<p>Valor del estimador: A=300.126034198</p>
+<p>Nivel de significación: beta=0.100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.749612166341:0.0224883649902}</p>
+<p>valor-p={1:NM:=0.226744160594:0.00680232481781}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>pruebaDeHipotesis-1512273583.02</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Hipótesis nula Ho: Ao=4287</p>
+<p>Hipótesis alternativa: Ao>4287</p>
+<p>Desviación estándar: s=13</p>
+<p>Tamaño de la muestra: n=529</p>
+<p>Valor del estimador: A=4287.12477709</p>
+<p>Nivel de significación: beta=0.0100</p>
+<p>Encuentre los siguientes estadísticos: </p>
+</p>
+<p><span><p>Valor Z={1:NM:=0.220759466443:0.0066227839933}</p>
+<p>valor-p={1:NM:=0.412639862997:0.0123791958899}</p>
+<p>La hipótesis nula Ho se 
+{1:MC:=acepta~rechaza}</p>
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

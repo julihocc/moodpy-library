@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>11_puntoDeEquilibrio-1515643066.1371317</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1> Análisis del punto de equilibrio </h1>
+    <p>
+    Una compañía produce cierta mercancía. El gasto en publicidad es de $224, 
+    producir cada unidad de la mercancía cuesta $2 y la compañía cobra 
+    $6 por unidad. Encuentre el punto de equilibrio.
+    </p>
+    <pre>
+    Unidades<sub> equilibrio </sub> = {1:NM:=56.0000000000000:1.68000000000000} <br>
+    Costo/Ingreso<sub> equilibrio </sub> = ${1:NM:=336.000000000000:10.0800000000000}
+    </pre>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>11_puntoDeEquilibrio-1515643066.1371467</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1> Análisis del punto de equilibrio </h1>
+    <p>
+    Una compañía produce cierta mercancía. El gasto en publicidad es de $201, 
+    producir cada unidad de la mercancía cuesta $5 y la compañía cobra 
+    $8 por unidad. Encuentre el punto de equilibrio.
+    </p>
+    <pre>
+    Unidades<sub> equilibrio </sub> = {1:NM:=67.0000000000000:2.01000000000000} <br>
+    Costo/Ingreso<sub> equilibrio </sub> = ${1:NM:=536.000000000000:16.0800000000000}
+    </pre>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>11_puntoDeEquilibrio-1515643066.1371543</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+    <h1> Análisis del punto de equilibrio </h1>
+    <p>
+    Una compañía produce cierta mercancía. El gasto en publicidad es de $195, 
+    producir cada unidad de la mercancía cuesta $6 y la compañía cobra 
+    $8 por unidad. Encuentre el punto de equilibrio.
+    </p>
+    <pre>
+    Unidades<sub> equilibrio </sub> = {1:NM:=97.5000000000000:2.92500000000000} <br>
+    Costo/Ingreso<sub> equilibrio </sub> = ${1:NM:=780.000000000000:23.4000000000000}
+    </pre>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY PE 203 REGRESIONES LINEALES-1570674323.33</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+<p> Con base en la información de la siguiente tabla, encuentre la regresión lineal 
+\(L(x)=\beta_1 \cdot x+ \beta_0\)
+y encuentre la proyección correspondiente </p>
+<div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr>
+<th>X</th>
+<th>Y</th>
+</tr>
+<tr class ="row-a">
+<td>0</td>
+<td>935.28</td>
+</tr>
+<tr class ="row-b">
+<td>1</td>
+<td>849.81</td>
+</tr>
+<tr class ="row-a">
+<td>2</td>
+<td>1104.13</td>
+</tr>
+<tr class ="row-b">
+<td>3</td>
+<td>733.75</td>
+</tr>
+<tr class ="row-a">
+<td>4</td>
+<td>895.93</td>
+</tr>
+<tr class ="row-b">
+<td>5</td>
+<td>878.55</td>
+</tr>
+<tr class ="row-a">
+<td>6</td>
+<td>884.03</td>
+</tr>
+<tr class ="row-b">
+<td>7</td>
+<td>1023.03</td>
+</tr>
+<tr class ="row-a">
+<td>8</td>
+<td>950.11</td>
+</tr>
+<tr class ="row-b">
+<td>9</td>
+<td>873.85</td>
+</tr>
+</tbody>
+</table>
+</div>
+<pre> L(10) = {1:NM:=918.7533333333334:27.562600000000003} </pre> 
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+La regresión lineal está dada por \(L(x) = 1.073878787878789 \, x + 908.0145454545456\)    
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY PE 203 REGRESIONES LINEALES-1570674323.33</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+<p> Con base en la información de la siguiente tabla, encuentre la regresión lineal 
+\(L(x)=\beta_1 \cdot x+ \beta_0\)
+y encuentre la proyección correspondiente </p>
+<div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr>
+<th>X</th>
+<th>Y</th>
+</tr>
+<tr class ="row-a">
+<td>0</td>
+<td>1177.47</td>
+</tr>
+<tr class ="row-b">
+<td>1</td>
+<td>1014.51</td>
+</tr>
+<tr class ="row-a">
+<td>2</td>
+<td>968.21</td>
+</tr>
+<tr class ="row-b">
+<td>3</td>
+<td>676.03</td>
+</tr>
+<tr class ="row-a">
+<td>4</td>
+<td>793.29</td>
+</tr>
+<tr class ="row-b">
+<td>5</td>
+<td>515.41</td>
+</tr>
+<tr class ="row-a">
+<td>6</td>
+<td>747.57</td>
+</tr>
+<tr class ="row-b">
+<td>7</td>
+<td>263.18</td>
+</tr>
+<tr class ="row-a">
+<td>8</td>
+<td>139.79</td>
+</tr>
+<tr class ="row-b">
+<td>9</td>
+<td>176.61</td>
+</tr>
+<tr class ="row-a">
+<td>10</td>
+<td>259.9</td>
+</tr>
+<tr class ="row-b">
+<td>11</td>
+<td>28.77</td>
+</tr>
+<tr class ="row-a">
+<td>12</td>
+<td>19.71</td>
+</tr>
+</tbody>
+</table>
+</div>
+<pre> L(13) = {1:NM:=-161.73423076923086:-4.8520269230769255} </pre> 
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+La regresión lineal está dada por \(L(x) = -97.61532967032969 \, x + 1107.265054945055\)    
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY PE 203 REGRESIONES LINEALES-1570674323.33</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+<p> Con base en la información de la siguiente tabla, encuentre la regresión lineal 
+\(L(x)=\beta_1 \cdot x+ \beta_0\)
+y encuentre la proyección correspondiente </p>
+<div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr>
+<th>X</th>
+<th>Y</th>
+</tr>
+<tr class ="row-a">
+<td>0</td>
+<td>963.27</td>
+</tr>
+<tr class ="row-b">
+<td>1</td>
+<td>1027.25</td>
+</tr>
+<tr class ="row-a">
+<td>2</td>
+<td>1011.37</td>
+</tr>
+<tr class ="row-b">
+<td>3</td>
+<td>1159.23</td>
+</tr>
+<tr class ="row-a">
+<td>4</td>
+<td>1347.12</td>
+</tr>
+<tr class ="row-b">
+<td>5</td>
+<td>1144.97</td>
+</tr>
+<tr class ="row-a">
+<td>6</td>
+<td>1287.01</td>
+</tr>
+<tr class ="row-b">
+<td>7</td>
+<td>1527.02</td>
+</tr>
+<tr class ="row-a">
+<td>8</td>
+<td>1513.67</td>
+</tr>
+<tr class ="row-b">
+<td>9</td>
+<td>1614.14</td>
+</tr>
+<tr class ="row-a">
+<td>10</td>
+<td>1572.33</td>
+</tr>
+<tr class ="row-b">
+<td>11</td>
+<td>1270.89</td>
+</tr>
+</tbody>
+</table>
+</div>
+<pre> L(12) = {1:NM:=1626.587727272727:48.79763181818181} </pre> 
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+La regresión lineal está dada por \(L(x) = 52.31772727272728 \, x + 998.7749999999997\)    
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY PE 203 REGRESIONES LINEALES-1570674323.33</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+<p> Con base en la información de la siguiente tabla, encuentre la regresión lineal 
+\(L(x)=\beta_1 \cdot x+ \beta_0\)
+y encuentre la proyección correspondiente </p>
+<div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr>
+<th>X</th>
+<th>Y</th>
+</tr>
+<tr class ="row-a">
+<td>0</td>
+<td>1010.13</td>
+</tr>
+<tr class ="row-b">
+<td>1</td>
+<td>907.99</td>
+</tr>
+<tr class ="row-a">
+<td>2</td>
+<td>651.89</td>
+</tr>
+<tr class ="row-b">
+<td>3</td>
+<td>835.29</td>
+</tr>
+<tr class ="row-a">
+<td>4</td>
+<td>711.95</td>
+</tr>
+<tr class ="row-b">
+<td>5</td>
+<td>639.95</td>
+</tr>
+<tr class ="row-a">
+<td>6</td>
+<td>418.22</td>
+</tr>
+<tr class ="row-b">
+<td>7</td>
+<td>718.76</td>
+</tr>
+</tbody>
+</table>
+</div>
+<pre> L(8) = {1:NM:=487.79392857142864:14.633817857142859} </pre> 
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+La regresión lineal está dada por \(L(x) = -55.32857142857142 \, x + 930.4225\)    
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>MOODPY PE 203 REGRESIONES LINEALES-1570674323.33</text>
+</name>
+
+    <questiontext format="html">
+<text>
+<![CDATA[
+
+<p> Con base en la información de la siguiente tabla, encuentre la regresión lineal 
+\(L(x)=\beta_1 \cdot x+ \beta_0\)
+y encuentre la proyección correspondiente </p>
+<div class="notruncate">
+<table border="1" class="table_form">
+<tbody>
+<tr>
+<th>X</th>
+<th>Y</th>
+</tr>
+<tr class ="row-a">
+<td>0</td>
+<td>1042.19</td>
+</tr>
+<tr class ="row-b">
+<td>1</td>
+<td>1179.89</td>
+</tr>
+<tr class ="row-a">
+<td>2</td>
+<td>1187.68</td>
+</tr>
+<tr class ="row-b">
+<td>3</td>
+<td>1351.11</td>
+</tr>
+<tr class ="row-a">
+<td>4</td>
+<td>1281.32</td>
+</tr>
+<tr class ="row-b">
+<td>5</td>
+<td>1505.51</td>
+</tr>
+<tr class ="row-a">
+<td>6</td>
+<td>1442.92</td>
+</tr>
+<tr class ="row-b">
+<td>7</td>
+<td>1749.04</td>
+</tr>
+<tr class ="row-a">
+<td>8</td>
+<td>1717.28</td>
+</tr>
+<tr class ="row-b">
+<td>9</td>
+<td>1695.83</td>
+</tr>
+<tr class ="row-a">
+<td>10</td>
+<td>1866.44</td>
+</tr>
+<tr class ="row-b">
+<td>11</td>
+<td>2019.84</td>
+</tr>
+</tbody>
+</table>
+</div>
+<pre> L(12) = {1:NM:=2041.017121212121:61.23051363636363} </pre> 
+    
+]]>
+</text></questiontext>
+
+    <generalfeedback format="html">
+<text>
+<![CDATA[
+
+La regresión lineal está dada por \(L(x) = 82.73276223776223 \, x + 1048.2239743589744\)    
+    
+]]>
+</text></generalfeedback>
+
+    <penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

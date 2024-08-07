@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>08_circulos-1515599401.3349695</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+<h1> Ecuacin de un circulo </h1>
+<p>
+Encuentre el centro y el radio del circulo dado por la ecuacion 
+\(x^{2} + 68 x + y^{2} - 78 y + 2628=0\).     
+</p>
+<ul>
+    <li> \(h=\){1:NM:=-34} </li>
+    <li> \(k=\){1:NM:=39} </li>
+    <li> \(r=\){1:NM:=7} </li>       
+</ul>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>08_circulos-1515599401.335469</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+<h1> Ecuacin de un circulo </h1>
+<p>
+Encuentre el centro y el radio del circulo dado por la ecuacion 
+\(x^{2} + 150 x + y^{2} + 72 y + 6920=0\).     
+</p>
+<ul>
+    <li> \(h=\){1:NM:=-75} </li>
+    <li> \(k=\){1:NM:=-36} </li>
+    <li> \(r=\){1:NM:=1} </li>       
+</ul>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>08_circulos-1515599401.335469</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+<h1> Ecuacin de un circulo </h1>
+<p>
+Encuentre el centro y el radio del circulo dado por la ecuacion 
+\(x^{2} + 76 x + y^{2} - 196 y + 10984=0\).     
+</p>
+<ul>
+    <li> \(h=\){1:NM:=-38} </li>
+    <li> \(k=\){1:NM:=98} </li>
+    <li> \(r=\){1:NM:=8} </li>       
+</ul>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

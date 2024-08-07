@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628125</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>41.0</td><td>16.0</td><td>34.0</td></tr><tr><th>Mujeres</th><td>14.0</td><td>26.0</td><td>31.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=13.5107487158:0.405322461473}</p><p> valor-p={1:NM:=0.0190348472889:0.000571045418668}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628138</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>36.0</td><td>17.0</td><td>40.0</td></tr><tr><th>Mujeres</th><td>10.0</td><td>31.0</td><td>29.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=17.6383978662:0.529151935985}</p><p> valor-p={1:NM:=0.00343546220418:0.000103063866125}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628145</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>23.0</td><td>17.0</td><td>36.0</td></tr><tr><th>Mujeres</th><td>13.0</td><td>35.0</td><td>27.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=10.2880899899:0.308642699698}</p><p> valor-p={1:NM:=0.067471941166:0.00202415823498}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628151</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>38.0</td><td>10.0</td><td>27.0</td></tr><tr><th>Mujeres</th><td>16.0</td><td>39.0</td><td>21.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=26.870784244:0.80612352732}</p><p> valor-p={1:NM:=6.04442049589e-05:1.81332614877e-06}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628175</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>31.0</td><td>19.0</td><td>28.0</td></tr><tr><th>Mujeres</th><td>16.0</td><td>22.0</td><td>32.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=4.85516649527:0.145654994858}</p><p> valor-p={1:NM:=0.433810537019:0.0130143161106}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628182</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>34.0</td><td>16.0</td><td>34.0</td></tr><tr><th>Mujeres</th><td>10.0</td><td>34.0</td><td>26.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=19.5262222222:0.585786666667}</p><p> valor-p={1:NM:=0.00153310202493:4.5993060748e-05}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628188</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>27.0</td><td>13.0</td><td>43.0</td></tr><tr><th>Mujeres</th><td>9.0</td><td>24.0</td><td>19.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=15.2459919316:0.457379757949}</p><p> valor-p={1:NM:=0.0093613742958:0.000280841228874}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628198</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>21.0</td><td>18.0</td><td>26.0</td></tr><tr><th>Mujeres</th><td>12.0</td><td>31.0</td><td>30.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=5.74477733617:0.172343320085}</p><p> valor-p={1:NM:=0.331850561287:0.00995551683861}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628205</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>35.0</td><td>14.0</td><td>22.0</td></tr><tr><th>Mujeres</th><td>15.0</td><td>25.0</td><td>31.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=12.6308659894:0.378925979681}</p><p> valor-p={1:NM:=0.0270947696114:0.000812843088341}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628211</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>32.0</td><td>9.0</td><td>29.0</td></tr><tr><th>Mujeres</th><td>12.0</td><td>21.0</td><td>36.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=14.6383186379:0.439149559137}</p><p> valor-p={1:NM:=0.012024873376:0.000360746201279}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628217</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>26.0</td><td>21.0</td><td>35.0</td></tr><tr><th>Mujeres</th><td>18.0</td><td>21.0</td><td>23.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=1.18233365972:0.0354700097916}</p><p> valor-p={1:NM:=0.946560942002:0.02839682826}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628225</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>31.0</td><td>29.0</td><td>45.0</td></tr><tr><th>Mujeres</th><td>13.0</td><td>34.0</td><td>30.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=6.60920022738:0.198276006821}</p><p> valor-p={1:NM:=0.251363986845:0.00754091960536}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628232</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>41.0</td><td>19.0</td><td>27.0</td></tr><tr><th>Mujeres</th><td>15.0</td><td>30.0</td><td>27.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=13.2435894616:0.397307683849}</p><p> valor-p={1:NM:=0.0211999248229:0.000635997744686}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628238</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>25.0</td><td>23.0</td><td>25.0</td></tr><tr><th>Mujeres</th><td>14.0</td><td>33.0</td><td>33.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=5.68336170723:0.170500851217}</p><p> valor-p={1:NM:=0.338258115325:0.0101477434597}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628247</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>36.0</td><td>14.0</td><td>32.0</td></tr><tr><th>Mujeres</th><td>14.0</td><td>31.0</td><td>24.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=16.2462908538:0.487388725614}</p><p> valor-p={1:NM:=0.0061749745048:0.000185249235144}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628254</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>37.0</td><td>12.0</td><td>44.0</td></tr><tr><th>Mujeres</th><td>20.0</td><td>21.0</td><td>33.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=7.02541094222:0.210762328267}</p><p> valor-p={1:NM:=0.218757313946:0.00656271941839}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628260</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>37.0</td><td>16.0</td><td>30.0</td></tr><tr><th>Mujeres</th><td>14.0</td><td>28.0</td><td>27.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=12.6207640762:0.378622922287}</p><p> valor-p={1:NM:=0.0272040194808:0.000816120584424}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628266</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>41.0</td><td>9.0</td><td>28.0</td></tr><tr><th>Mujeres</th><td>18.0</td><td>41.0</td><td>31.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=28.8888935246:0.866666805737}</p><p> valor-p={1:NM:=2.43807872593e-05:7.31423617779e-07}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628274</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>33.0</td><td>20.0</td><td>26.0</td></tr><tr><th>Mujeres</th><td>13.0</td><td>30.0</td><td>27.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=10.2081401766:0.306244205297}</p><p> valor-p={1:NM:=0.0695479784713:0.00208643935414}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628281</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>30.0</td><td>11.0</td><td>32.0</td></tr><tr><th>Mujeres</th><td>15.0</td><td>20.0</td><td>30.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=7.23797545804:0.217139263741}</p><p> valor-p={1:NM:=0.203534829556:0.00610604488669}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628287</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>24.0</td><td>15.0</td><td>25.0</td></tr><tr><th>Mujeres</th><td>14.0</td><td>31.0</td><td>28.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=7.80906780607:0.234272034182}</p><p> valor-p={1:NM:=0.167076950827:0.00501230852481}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628295</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>30.0</td><td>17.0</td><td>24.0</td></tr><tr><th>Mujeres</th><td>21.0</td><td>29.0</td><td>26.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=4.63396319904:0.139018895971}</p><p> valor-p={1:NM:=0.462162081718:0.0138648624515}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628302</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>27.0</td><td>8.0</td><td>37.0</td></tr><tr><th>Mujeres</th><td>12.0</td><td>22.0</td><td>32.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=12.4275058275:0.372825174825}</p><p> valor-p={1:NM:=0.0293770125965:0.000881310377895}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628308</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>31.0</td><td>13.0</td><td>25.0</td></tr><tr><th>Mujeres</th><td>8.0</td><td>24.0</td><td>24.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=15.6722925135:0.470168775404}</p><p> valor-p={1:NM:=0.00784472225864:0.000235341667759}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628314</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>26.0</td><td>16.0</td><td>29.0</td></tr><tr><th>Mujeres</th><td>9.0</td><td>19.0</td><td>20.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=5.94401408451:0.178320422535}</p><p> valor-p={1:NM:=0.311704773563:0.0093511432069}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628323</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>26.0</td><td>21.0</td><td>15.0</td></tr><tr><th>Mujeres</th><td>15.0</td><td>40.0</td><td>28.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=9.96716717465:0.29901501524}</p><p> valor-p={1:NM:=0.0761709129406:0.00228512738822}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628329</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>34.0</td><td>14.0</td><td>31.0</td></tr><tr><th>Mujeres</th><td>17.0</td><td>33.0</td><td>32.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=13.3121122081:0.399363366243}</p><p> valor-p={1:NM:=0.0206230539909:0.000618691619728}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628335</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>29.0</td><td>15.0</td><td>38.0</td></tr><tr><th>Mujeres</th><td>16.0</td><td>30.0</td><td>29.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=9.67163521148:0.290149056344}</p><p> valor-p={1:NM:=0.0850922684145:0.00255276805244}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628344</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>16.0</td><td>17.0</td><td>29.0</td></tr><tr><th>Mujeres</th><td>15.0</td><td>31.0</td><td>34.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=2.26715585927:0.068014675778}</p><p> valor-p={1:NM:=0.811078505041:0.0243323551512}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628351</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>25.0</td><td>21.0</td><td>31.0</td></tr><tr><th>Mujeres</th><td>18.0</td><td>32.0</td><td>33.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=3.2646446582:0.0979393397459}</p><p> valor-p={1:NM:=0.659258763612:0.0197777629084}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628357</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>29.0</td><td>19.0</td><td>26.0</td></tr><tr><th>Mujeres</th><td>9.0</td><td>24.0</td><td>30.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=10.5784106491:0.317352319472}</p><p> valor-p={1:NM:=0.0604101125984:0.00181230337795}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628363</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>22.0</td><td>18.0</td><td>27.0</td></tr><tr><th>Mujeres</th><td>18.0</td><td>19.0</td><td>27.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=0.35851275716:0.0107553827148}</p><p> valor-p={1:NM:=0.996395686705:0.0298918706012}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628372</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>22.0</td><td>11.0</td><td>29.0</td></tr><tr><th>Mujeres</th><td>22.0</td><td>29.0</td><td>32.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=5.31770060145:0.159531018044}</p><p> valor-p={1:NM:=0.378349797808:0.0113504939343}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628378</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>25.0</td><td>13.0</td><td>25.0</td></tr><tr><th>Mujeres</th><td>17.0</td><td>24.0</td><td>29.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=4.73507157952:0.142052147385}</p><p> valor-p={1:NM:=0.449060113052:0.0134718033916}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628384</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>22.0</td><td>22.0</td><td>35.0</td></tr><tr><th>Mujeres</th><td>10.0</td><td>30.0</td><td>25.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=6.09392554865:0.182817766459}</p><p> valor-p={1:NM:=0.297186567632:0.00891559702897}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628393</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>27.0</td><td>16.0</td><td>28.0</td></tr><tr><th>Mujeres</th><td>6.0</td><td>23.0</td><td>32.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=14.2106957001:0.426320871002}</p><p> valor-p={1:NM:=0.0143250133204:0.000429750399611}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628400</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>34.0</td><td>21.0</td><td>37.0</td></tr><tr><th>Mujeres</th><td>13.0</td><td>31.0</td><td>23.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=10.9116642115:0.327349926345}</p><p> valor-p={1:NM:=0.0531598264616:0.00159479479385}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628406</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>24.0</td><td>12.0</td><td>23.0</td></tr><tr><th>Mujeres</th><td>20.0</td><td>40.0</td><td>29.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=10.4824948428:0.314474845284}</p><p> valor-p={1:NM:=0.0626628461619:0.00187988538486}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628412</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>29.0</td><td>11.0</td><td>34.0</td></tr><tr><th>Mujeres</th><td>12.0</td><td>30.0</td><td>35.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=15.8147910481:0.474443731443}</p><p> valor-p={1:NM:=0.00739323637852:0.000221797091356}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628420</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>19.0</td><td>11.0</td><td>24.0</td></tr><tr><th>Mujeres</th><td>15.0</td><td>32.0</td><td>39.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=7.36851221469:0.221055366441}</p><p> valor-p={1:NM:=0.19464416609:0.00583932498271}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628427</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>34.0</td><td>17.0</td><td>23.0</td></tr><tr><th>Mujeres</th><td>18.0</td><td>31.0</td><td>25.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=9.08974358974:0.272692307692}</p><p> valor-p={1:NM:=0.105537685317:0.00316613055951}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628433</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>31.0</td><td>20.0</td><td>31.0</td></tr><tr><th>Mujeres</th><td>15.0</td><td>29.0</td><td>29.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=6.78524099612:0.203557229884}</p><p> valor-p={1:NM:=0.237108404452:0.00711325213357}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628441</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>29.0</td><td>18.0</td><td>28.0</td></tr><tr><th>Mujeres</th><td>16.0</td><td>27.0</td><td>32.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=5.82222222222:0.174666666667}</p><p> valor-p={1:NM:=0.323903655969:0.00971710967906}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628448</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>31.0</td><td>12.0</td><td>39.0</td></tr><tr><th>Mujeres</th><td>14.0</td><td>24.0</td><td>38.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=10.2221021882:0.306663065646}</p><p> valor-p={1:NM:=0.0691811887977:0.00207543566393}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628454</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>28.0</td><td>16.0</td><td>27.0</td></tr><tr><th>Mujeres</th><td>11.0</td><td>25.0</td><td>36.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=10.6651089918:0.319953269754}</p><p> valor-p={1:NM:=0.0584393959596:0.00175318187879}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628460</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>28.0</td><td>19.0</td><td>25.0</td></tr><tr><th>Mujeres</th><td>20.0</td><td>33.0</td><td>25.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=4.87035667324:0.146110700197}</p><p> valor-p={1:NM:=0.431906213348:0.0129571864004}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628470</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>29.0</td><td>11.0</td><td>32.0</td></tr><tr><th>Mujeres</th><td>11.0</td><td>27.0</td><td>38.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=15.2541622697:0.457624868091}</p><p> valor-p={1:NM:=0.00932979336564:0.000279893800969}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628477</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>42.0</td><td>16.0</td><td>26.0</td></tr><tr><th>Mujeres</th><td>5.0</td><td>32.0</td><td>32.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=33.9372889543:1.01811866863}</p><p> valor-p={1:NM:=2.45043767932e-06:7.35131303797e-08}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628483</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>37.0</td><td>13.0</td><td>21.0</td></tr><tr><th>Mujeres</th><td>23.0</td><td>28.0</td><td>28.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=9.3544129861:0.280632389583}</p><p> valor-p={1:NM:=0.0957358192108:0.00287207457632}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628492</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>34.0</td><td>11.0</td><td>37.0</td></tr><tr><th>Mujeres</th><td>11.0</td><td>26.0</td><td>27.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=17.4451217867:0.523353653601}</p><p> valor-p={1:NM:=0.00372858172542:0.000111857451763}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628498</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>36.0</td><td>10.0</td><td>28.0</td></tr><tr><th>Mujeres</th><td>18.0</td><td>24.0</td><td>33.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=12.168378639:0.36505135917}</p><p> valor-p={1:NM:=0.0325520424236:0.000976561272708}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628504</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>26.0</td><td>14.0</td><td>46.0</td></tr><tr><th>Mujeres</th><td>8.0</td><td>28.0</td><td>31.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=14.9898438944:0.449695316832}</p><p> valor-p={1:NM:=0.0104058216358:0.000312174649074}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628510</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>27.0</td><td>9.0</td><td>25.0</td></tr><tr><th>Mujeres</th><td>15.0</td><td>33.0</td><td>26.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=16.0595328074:0.481785984221}</p><p> valor-p={1:NM:=0.00667614456125:0.000200284336838}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628519</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>18.0</td><td>11.0</td><td>26.0</td></tr><tr><th>Mujeres</th><td>22.0</td><td>23.0</td><td>32.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=1.63472616633:0.0490417849899}</p><p> valor-p={1:NM:=0.897018349777:0.0269105504933}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628526</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>34.0</td><td>17.0</td><td>31.0</td></tr><tr><th>Mujeres</th><td>15.0</td><td>36.0</td><td>26.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=14.474344942:0.434230348259}</p><p> valor-p={1:NM:=0.0128611440101:0.000385834320302}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628532</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>28.0</td><td>20.0</td><td>35.0</td></tr><tr><th>Mujeres</th><td>14.0</td><td>22.0</td><td>35.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=3.8502177725:0.115506533175}</p><p> valor-p={1:NM:=0.571176317591:0.0171352895277}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628541</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>30.0</td><td>14.0</td><td>26.0</td></tr><tr><th>Mujeres</th><td>13.0</td><td>27.0</td><td>38.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=12.6975492365:0.380926477096}</p><p> valor-p={1:NM:=0.0263840704495:0.000791522113485}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628547</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>29.0</td><td>15.0</td><td>32.0</td></tr><tr><th>Mujeres</th><td>19.0</td><td>22.0</td><td>30.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=3.30593047427:0.099177914228}</p><p> valor-p={1:NM:=0.652933852736:0.0195880155821}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628553</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>19.0</td><td>15.0</td><td>36.0</td></tr><tr><th>Mujeres</th><td>7.0</td><td>23.0</td><td>33.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=7.00408769974:0.210122630992}</p><p> valor-p={1:NM:=0.220336478009:0.00661009434027}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628561</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>34.0</td><td>12.0</td><td>41.0</td></tr><tr><th>Mujeres</th><td>19.0</td><td>40.0</td><td>33.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=20.0630603651:0.601891810954}</p><p> valor-p={1:NM:=0.00121613068465:3.64839205394e-05}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628570</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>31.0</td><td>18.0</td><td>33.0</td></tr><tr><th>Mujeres</th><td>16.0</td><td>28.0</td><td>30.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=6.71139777992:0.201341933398}</p><p> valor-p={1:NM:=0.243003872399:0.00729011617198}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628577</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>23.0</td><td>13.0</td><td>31.0</td></tr><tr><th>Mujeres</th><td>11.0</td><td>22.0</td><td>20.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=7.38937309646:0.221681192894}</p><p> valor-p={1:NM:=0.193254865842:0.00579764597526}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628583</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>30.0</td><td>13.0</td><td>35.0</td></tr><tr><th>Mujeres</th><td>13.0</td><td>43.0</td><td>31.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=22.6111467889:0.678334403668}</p><p> valor-p={1:NM:=0.000400513276078:1.20153982823e-05}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628592</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>22.0</td><td>21.0</td><td>36.0</td></tr><tr><th>Mujeres</th><td>18.0</td><td>36.0</td><td>26.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=5.95421786014:0.178626535804}</p><p> valor-p={1:NM:=0.310699245304:0.00932097735911}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628599</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>33.0</td><td>14.0</td><td>28.0</td></tr><tr><th>Mujeres</th><td>15.0</td><td>32.0</td><td>29.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=13.8050050601:0.414150151803}</p><p> valor-p={1:NM:=0.0168966634285:0.000506899902855}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628605</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>33.0</td><td>20.0</td><td>36.0</td></tr><tr><th>Mujeres</th><td>22.0</td><td>33.0</td><td>22.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=7.94202251368:0.238260675411}</p><p> valor-p={1:NM:=0.159459959203:0.00478379877608}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628611</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>31.0</td><td>13.0</td><td>26.0</td></tr><tr><th>Mujeres</th><td>17.0</td><td>28.0</td><td>24.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=9.64444313572:0.289333294072}</p><p> valor-p={1:NM:=0.0859599281248:0.00257879784374}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628621</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>19.0</td><td>16.0</td><td>29.0</td></tr><tr><th>Mujeres</th><td>14.0</td><td>32.0</td><td>33.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=4.82867688342:0.144860306503}</p><p> valor-p={1:NM:=0.437144653426:0.0131143396028}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628627</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>37.0</td><td>17.0</td><td>33.0</td></tr><tr><th>Mujeres</th><td>18.0</td><td>39.0</td><td>23.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=16.7281854568:0.501845563704}</p><p> valor-p={1:NM:=0.00504522015168:0.00015135660455}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628633</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>26.0</td><td>13.0</td><td>27.0</td></tr><tr><th>Mujeres</th><td>16.0</td><td>27.0</td><td>31.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=7.12293014017:0.213687904205}</p><p> valor-p={1:NM:=0.211657209848:0.00634971629544}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628642</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>27.0</td><td>12.0</td><td>35.0</td></tr><tr><th>Mujeres</th><td>19.0</td><td>36.0</td><td>33.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=12.3323539623:0.369970618869}</p><p> valor-p={1:NM:=0.0305069065497:0.000915207196492}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628648</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>32.0</td><td>15.0</td><td>35.0</td></tr><tr><th>Mujeres</th><td>16.0</td><td>21.0</td><td>29.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=5.22719573787:0.156815872136}</p><p> valor-p={1:NM:=0.38878691404:0.0116636074212}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628654</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>33.0</td><td>9.0</td><td>23.0</td></tr><tr><th>Mujeres</th><td>16.0</td><td>29.0</td><td>42.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=19.1960437895:0.575881313684}</p><p> valor-p={1:NM:=0.0017670187539:5.3010562617e-05}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628660</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>29.0</td><td>14.0</td><td>26.0</td></tr><tr><th>Mujeres</th><td>13.0</td><td>20.0</td><td>30.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=7.18188724765:0.21545661743}</p><p> valor-p={1:NM:=0.207460769011:0.00622382307033}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628669</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>28.0</td><td>11.0</td><td>32.0</td></tr><tr><th>Mujeres</th><td>14.0</td><td>33.0</td><td>37.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=15.0444909797:0.451334729391}</p><p> valor-p={1:NM:=0.0101739168749:0.000305217506247}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628676</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>31.0</td><td>18.0</td><td>30.0</td></tr><tr><th>Mujeres</th><td>20.0</td><td>34.0</td><td>32.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=7.0759077091:0.212277231273}</p><p> valor-p={1:NM:=0.215055895578:0.00645167686733}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628682</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>34.0</td><td>21.0</td><td>25.0</td></tr><tr><th>Mujeres</th><td>8.0</td><td>28.0</td><td>35.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=18.2904573273:0.548713719819}</p><p> valor-p={1:NM:=0.00260356783396:7.81070350188e-05}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628690</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>31.0</td><td>15.0</td><td>29.0</td></tr><tr><th>Mujeres</th><td>16.0</td><td>30.0</td><td>29.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=9.78723404255:0.293617021277}</p><p> valor-p={1:NM:=0.0814932931431:0.00244479879429}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628697</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>40.0</td><td>18.0</td><td>31.0</td></tr><tr><th>Mujeres</th><td>23.0</td><td>36.0</td><td>28.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=10.7185007914:0.321555023741}</p><p> valor-p={1:NM:=0.057255945801:0.00171767837403}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628703</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>30.0</td><td>15.0</td><td>30.0</td></tr><tr><th>Mujeres</th><td>26.0</td><td>36.0</td><td>27.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=7.95350570743:0.238605171223}</p><p> valor-p={1:NM:=0.158816702852:0.00476450108555}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628709</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>31.0</td><td>10.0</td><td>30.0</td></tr><tr><th>Mujeres</th><td>26.0</td><td>22.0</td><td>24.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=5.59854393172:0.167956317952}</p><p> valor-p={1:NM:=0.347261131816:0.0104178339545}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628723</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>36.0</td><td>21.0</td><td>37.0</td></tr><tr><th>Mujeres</th><td>17.0</td><td>29.0</td><td>35.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=7.22101021152:0.216630306346}</p><p> valor-p={1:NM:=0.204715548705:0.00614146646116}</p><p> La hipótesis nula Ho se {1:MC:=acepta~rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628734</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>26.0</td><td>15.0</td><td>27.0</td></tr><tr><th>Mujeres</th><td>9.0</td><td>30.0</td><td>31.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=13.5068563977:0.405205691932}</p><p> valor-p={1:NM:=0.0190648060084:0.000571944180251}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628745</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>37.0</td><td>13.0</td><td>21.0</td></tr><tr><th>Mujeres</th><td>15.0</td><td>26.0</td><td>33.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.0500</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=16.2525804515:0.487577413546}</p><p> valor-p={1:NM:=0.00615875083494:0.000184762525048}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>generoVsMateriasSesgado-2017-11-01 12:31:06.628760</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p> Supongamos que un grupo de estudiantes, la siguiente tablarepresenta el número de hombres y mujeres que tomanmatemáticas, arte y comercio como sus materias principales.</p><p> <table style="width:100%" border="1" ><tr><th> </th><th>Ingenierías</th><th>Humanidades</th><th>Negocios</th></tr><tr><th>Hombres</th><td>35.0</td><td>22.0</td><td>28.0</td></tr><tr><th>Mujeres</th><td>9.0</td><td>37.0</td><td>35.0</td></tr></table> </p><p> Nuestra hipótesis (nula) es que la elección de materias es independiente del género.Determine si esta se acepta o rechaza a un nivel de significación de 0.100</p></p>
+<p><span><p> Estadístico chi-cuadrado ={1:NM:=19.8701252273:0.596103756818}</p><p> valor-p={1:NM:=0.00132183302393:3.96549907178e-05}</p><p> La hipótesis nula Ho se {1:MC:acepta~=rechaza}</p></span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

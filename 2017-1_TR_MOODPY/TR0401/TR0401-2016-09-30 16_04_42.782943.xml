@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>TR0401-2016-09-30 16:04:42.783345</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Realice la siguiente operación: </p><p> 
+\[{\left(7 \, x - 1\right)}^{2}\]</p><p> 
+</p>
+<p><span>{1:MCV:=49*x^2 - 14*x + 1~36*x^2 - 72*x + 36~x^2 - 6*x + 9~36*x^2 - 84*x + 49}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>TR0401-2016-09-30 16:04:42.783429</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Realice la siguiente operación: </p><p> 
+\[36 \, {\left(x - 1\right)}^{2}\]</p><p> 
+</p>
+<p><span>{1:MCV:49*x^2 - 14*x + 1~=36*x^2 - 72*x + 36~x^2 - 6*x + 9~36*x^2 - 84*x + 49}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>TR0401-2016-09-30 16:04:42.783531</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Realice la siguiente operación: </p><p> 
+\[{\left(x - 3\right)}^{2}\]</p><p> 
+</p>
+<p><span>{1:MCV:49*x^2 - 14*x + 1~36*x^2 - 72*x + 36~=x^2 - 6*x + 9~36*x^2 - 84*x + 49}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>TR0401-2016-09-30 16:04:42.783588</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+Realice la siguiente operación: </p><p> 
+\[{\left(6 \, x - 7\right)}^{2}\]</p><p> 
+</p>
+<p><span>{1:MCV:49*x^2 - 14*x + 1~36*x^2 - 72*x + 36~x^2 - 6*x + 9~=36*x^2 - 84*x + 49}
+</span></p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.50</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>

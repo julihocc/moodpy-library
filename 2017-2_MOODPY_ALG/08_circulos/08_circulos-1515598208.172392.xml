@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>08_circulos-1515598208.1733954</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+<h1> Ecuacion de un circulo </h1>
+<p>
+Encuentre el centro y el radio del circulo dado por la ecuacion 
+\(x^{2} - 188 x + y^{2} + 120 y + 12400=0\).     
+</p>
+<ul>
+    <li> \(h=\){1:NM:=94} </li>
+    <li> \(k=\){1:NM:=-60} </li>
+    <li> \(r=\){1:NM:=6} </li>       
+</ul>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>08_circulos-1515598208.1733954</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+<h1> Ecuacion de un circulo </h1>
+<p>
+Encuentre el centro y el radio del circulo dado por la ecuacion 
+\(x^{2} - 38 x + y^{2} + 22 y + 401=0\).     
+</p>
+<ul>
+    <li> \(h=\){1:NM:=19} </li>
+    <li> \(k=\){1:NM:=-11} </li>
+    <li> \(r=\){1:NM:=9} </li>       
+</ul>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+<!-- question: 0000000  -->
+<question type="cloze">
+<name>
+<text>08_circulos-1515598208.1733954</text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+
+<h1> Ecuacion de un circulo </h1>
+<p>
+Encuentre el centro y el radio del circulo dado por la ecuacion 
+\(x^{2} - 172 x + y^{2} + 30 y + 7572=0\).     
+</p>
+<ul>
+    <li> \(h=\){1:NM:=86} </li>
+    <li> \(k=\){1:NM:=-15} </li>
+    <li> \(r=\){1:NM:=7} </li>       
+</ul>
+    </p>]]></text>
+ </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<pre> </pre>]]></text>
+</generalfeedback>
+<penalty>0.5</penalty>
+<hidden>0</hidden>
+</question>
+</quiz>
